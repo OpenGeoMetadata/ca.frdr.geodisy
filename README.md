@@ -4,7 +4,7 @@ This repository is the most current geospatial metadata harvested into the FRDR 
 
 #### Metadata validation
 
-Our metadata is valididated to be compliant with the validated to be in compliance with the current [GeoBlacklight 1.0 schema](https://github.com/geoblacklight/geoblacklight/blob/master/schema/geoblacklight-schema.md), however, we use the parent-child record relationship slightly differently. We use that relationship to show more a more related record or sibling relationship, so this may result in somewhat strange looking record pages if there are related records, but it will not break the record page enough to make it not display.
+Our metadata is valididated to be compliant with the validated to be in compliance with the current [GeoBlacklight 1.0 schema](https://github.com/geoblacklight/geoblacklight/blob/master/schema/geoblacklight-schema.md), however, we use the parent-child record relationship slightly differently. We use that relationship to show a related record or sibling relationship, so this may result in somewhat strange looking record pages if there are related records, but it will not break the record page enough to make it not display.
 
 #### Contact Information
 
