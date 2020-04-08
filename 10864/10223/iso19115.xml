@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <gmd:metadataIdentifier>
+        <gmd:MD_Identifier>
+            <gmd:codeSpace>
+                <gco:CharacterString>2346baa7-58ad-3334-b58d-5cba351eb78b</gco:CharacterString>
+            </gmd:codeSpace>
+        </gmd:MD_Identifier>
+    </gmd:metadataIdentifier>
+    <gmd:parentMetadata>
+        <gmd:CI_Citation>
+            <gmd:title>
+                <gco:CharacterString>Arctic Wildlife Observatories Linking Vulnerable EcoSystems (ArcticWOLVES):</gco:CharacterString>
+            </gmd:title>
+            <gmd:identifier>
+                <gmd:MD_Identifier>
+                    <gmd:code>
+                        <gco:CharacterString>10864/10223</gco:CharacterString>
+                    </gmd:code>
+                    <gmd:code>
+                        <gco:CharacterString>handle</gco:CharacterString>
+                    </gmd:code>
+                </gmd:MD_Identifier>
+            </gmd:identifier>
+            <gmd:onlineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gco:CharacterString>https://hdl.handle.net/10864/10223</gco:CharacterString>
+                    </gmd:linkage>
+                </gmd:CI_OnlineResource>
+            </gmd:onlineResource>
+            <gmd:citedResponsibilityParty>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>Scholars Portal Dataverse</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                    <gmd:role>
+                        <gmd:CI_RoleCode>publisher</gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_Responsibility>
+            </gmd:citedResponsibilityParty>
+        </gmd:CI_Citation>
+    </gmd:parentMetadata>
+    <gmd:identificationInfo>
+        <gmd:MD_DataIdentification>
+            <gmd:citation>
+                <gmd:CI_Citation>
+                    <gmd:identifier>
+                        <gmd:MD_Identifier>
+                            <gmd:code>
+                                <gco:CharacterString>https://hdl.handle.net/10864/10223</gco:CharacterString>
+                            </gmd:code>
+                            <gmd:codeSpace>
+                                <gco:CharacterString>hdl</gco:CharacterString>
+                            </gmd:codeSpace>
+                        </gmd:MD_Identifier>
+                    </gmd:identifier>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:DateTime>2012-10-17</gco:DateTime>
+                            </gmd:date>
+                        </gmd:CI_Date>
+                        <gmd:CI_Date>
+                            <gmd:CI_DateTypeCode>publication</gmd:CI_DateTypeCode>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:title>
+                        <gco:CharacterString>Arctic Wildlife Observatories Linking Vulnerable EcoSystems (ArcticWOLVES)</gco:CharacterString>
+                    </gmd:title>
+                    <gmd:identifier>
+                        <gmd:MD_Identifier>
+                            <gmd:authority>
+                                <gmd:CI_Citation>
+                                    <gmd:citedResponsibility>
+                                        <gmd:CI_Responsibility>
+                                            <gmd:party>
+                                                <gmd:CI_Organisation>
+                                                    <gmd:name>
+                                                        <gco:CharacterString>DataCite International</gco:CharacterString>
+                                                    </gmd:name>
+                                                    <gmd:partyIdentifier>
+                                                        <gmd:MD_Identifier>
+                                                            <gmd:code>
+                                                                <gco:CharacterString>http://dx.doi.org/10.5443/11402</gco:CharacterString>
+                                                            </gmd:code>
+                                                        </gmd:MD_Identifier>
+                                                    </gmd:partyIdentifier>
+                                                </gmd:CI_Organisation>
+                                            </gmd:party>
+                                            <gmd:role>
+                                                <gmd:CI_RoleCode>resourceProvider</gmd:CI_RoleCode>
+                                            </gmd:role>
+                                        </gmd:CI_Responsibility>
+                                    </gmd:citedResponsibility>
+                                </gmd:CI_Citation>
+                            </gmd:authority>
+                        </gmd:MD_Identifier>
+                    </gmd:identifier>
+                    <gmd:citeResponsibleParty>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Gilles Gauthier</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Dominique Berteaux</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Charles Krebs</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Douglas W. Morris</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Esther Lévesque</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Josée Lefebvre</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Joël Béty</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Kenneth Abraham</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Robert Jefferies</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Suzanne Carrière</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                    </gmd:citeResponsibleParty>
+                    <gmd:edition>
+                        <gco:CharacterString>1:0</gco:CharacterString>
+                    </gmd:edition>
+                </gmd:CI_Citation>
+            </gmd:citation>
+            <gmd:resourceConstraints>
+                <gmd:MD_LegalConstraints>
+                    <gmd:otherConstraints>
+                        <gco:CharacterString>NONE</gco:CharacterString>
+                    </gmd:otherConstraints>
+                </gmd:MD_LegalConstraints>
+            </gmd:resourceConstraints>
+            <gmd:supplementalInformation>
+                <gco:CharacterString>FileTypes: .pdf</gco:CharacterString>
+            </gmd:supplementalInformation>
+            <gmd:abstract>
+                <gco:CharacterString>Extensive monitoring of the abundance, timing and success of reproduction, habitat use and diet of key wildlife species (primarily geese, small mammals, shorebirds, avian predators and mammalian predators like foxes and weasels), as well as annual plant production and arthropod diversity and abundance, was conducted at most sites from 2007 to 2009. Our results provide increasing evidence that predation plays a dominant role in the functioning of Arctic terrestrial ecosystems. At one site, less than 10% of the annual primary production was consumed by herbivores but up to 50% of the herbivore production was consumed by predators. The latter proportion also increased over the past two decades, suggesting a strengthening of top-down effects in this food web. Winter habitat quality appears to be a key factor in the population dynamics of lemmings, the primary prey of most tundra predators. Deep snow provides insulation from the cold air temperature, protection from predators and allows winter reproduction, upon which depend the periodic population irruptions of small mammals. However, deep snow is spatially uncommon in the Arctic, thus the distribution and spatial extent of good quality winter habitat may be limiting population irruptions in some regions or years. Radio-tracking of tundra predators such as snowy owls and arctic foxes revealed that they travel over very large areas and they can extensively use the marine ecosystem during winter, when terrestrial food resources are scarce. Snowy owls in particular display a remarkab
+le nomadism when searching for suitable nesting sites in spring and an outstanding ability to find locally abundant lemming populations, which may contribute to the regional synchrony of lemming population dynamics. We found evidence that the strength of predation decreases with latitude. Using artificial birds¿ nests, we showed that risk of predation decreases by as much as 66% between 53 and 82 N latitude (a 3,400 km distance). We also found that soil-plant-herbivore interactions are quite sensitive to climate warming. On the one hand, earlier thaw or increasing freeze-thaw cycles will likely result in a loss of soil nutrients in some wetland ecosystems, leading to a decrease in plant production and food resource for herbivores. On the other hand, earlier and warmer springs could have a negative impact on the synchrony between the reproductive phenology of herbivores and plant growth, leading to reduced annual production.</gco:CharacterString>
+            </gmd:abstract>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Food web</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Climate change</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Small mammals</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Northern Canada</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Wildlife</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Tundra</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Foxes</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Birds</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:MD_KeywordTypeCode>
+                        <gmd:type>
+                            <gmd:MD_KeywordTypeCode>subTopicCategory</gmd:MD_KeywordTypeCode>
+                        </gmd:type>
+                    </gmd:MD_KeywordTypeCode>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:supplementalInformation>
+                <gco:CharacterString>Type: Research Program: Notes: IPY-ArcticWOLVES &lt;p&gt;This metadata record corresponds to an IPY project.  Studies completed under this research project are identified as related materials.  These studies can also be retrieved using the &lt;a href="http://www.polardata.ca/whitesnow/"&gt;Polar Data Catalogue&lt;/a&gt;.&lt;/p&gt;;</gco:CharacterString>
+            </gmd:supplementalInformation>
+            <gmd:pointOfContact>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Individual>
+                            <gmd:name>
+                                <gco:CharacterString>Polar Data Catalogue</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:contactInfo>
+                                <gmd:CI_Citation>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>pdc@uwaterloo.ca</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Citation>
+                            </gmd:contactInfo>
+                        </gmd:CI_Individual>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>Canadian Cryospheric Information Network</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:name>
+                                <gco:CharacterString>Scholars Portal Dataverse</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                    <gmd:role>
+                        <gmd:CI_RoleCode>pointOfContact</gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_Responsibility>
+            </gmd:pointOfContact>
+            <gmd:additionalDocumentation>
+                <gmd:CI_Citation>
+                    <gmd:series>
+                        <gmd:CI_Series>
+                            <gmd:name>
+                                <gco:CharacterString/>
+                            </gmd:name>
+                        </gmd:CI_Series>
+                    </gmd:series>
+                    <gmd:otherCitationDetails>
+                        <gco:CharacterString>Arthropod monitoring in the Hudson Bay Lowlands. CCIN Reference No: 1693
+&lt;br/&gt; Monitoring food web dynamics on Akimiski Island. CCIN Reference No: 1743 &lt;br/&gt; Avian predator monitoring on Akimiski Island. CCIN Reference No: 1737 &lt;br/&gt; Arthropod monitoring on Akimiski Island. CCIN Reference No: 1736 &lt;br/&gt; Arthropod monitoring at Fosheim Peninsula, Ellesmere Island. CCIN Reference No: 1732 &lt;br/&gt; Breeding activity of avian predators on Herschel Island. CCIN Reference No: 748 &lt;br/&gt; Monitoring the relative abundance of bird and mammal species on Herschel Island. CCIN Refer
+ence No: 1731 &lt;br/&gt; Alert Climatic Data. CCIN Reference No: 1860 &lt;br/&gt; Weasel population monitoring on Herschel Island. CCIN Reference No: 755 &lt;br/&gt; Monitoring the relative abundance of bird and mammal species at Alert, Ellesmere Island. CCIN Reference No: 1859 &lt;br/&gt; Fox den monitoring on Akimiski Island. CCIN Reference No: 10695 &lt;br/&gt; Monitoring the relative abundance of bird and mammal species in the Hudson Bay lowlandsMonitoring the relative abundance of bird and mammal species in the Hudson
+Bay lowlands. CCIN Reference No: 1694 &lt;br/&gt; Breeding activity of shorebirds at Alert, Ellesmere Island. CCIN Reference No: 747 &lt;br/&gt; Small mammal monitoring at Fosheim Peninsula, Ellesmere Island. CCIN Reference No: 733 &lt;br/&gt; Breeding activity of Greater Snow Geese and Eastern High Arctic Brant at Fosheim Peninsula, Ellesmere Island and Axel Heiberg Island. CCIN Reference No: 742 &lt;br/&gt; Breeding activity of Long-tailed Jaegers at Alert, Ellesmere Island. CCIN Reference No: 743 &lt;br/&gt; Avian predato
+r monitoring at Fosheim Peninsula, Ellesmere Island. CCIN Reference No: 1733
+&lt;br/&gt; Fox populations monitoring at Fosheim Peninsula, Ellesmere Island. CCIN Reference No: 734 &lt;br/&gt; Monitoring the relative abundance of bird and mammal species at Fosheim Peninsula, Ellesmere Island. CCIN Reference No: 1734 &lt;br/&gt; Breeding activity of shorebirds at Fosheim Peninsula, Ellesmere Island. CCIN Reference No: 1735 &lt;br/&gt; Avian predator monitoring at Walker Bay. CCIN Reference No: 9816 &lt;br/&gt; Monitoring the relative abundance of bird and mammal species at Walker Bay. CCIN Reference No:
+2077 &lt;br/&gt; Breeding activity of shorebirds on Herschel Island. CCIN Reference No: 754 &lt;br/&gt; Breeding activity of passerine birds on Herschel Island. CCIN Reference No: 752 &lt;br/&gt; Monitoring the relative abundance of bird and mammal species on Bylot Island. CCIN Reference No: 1627 &lt;br/&gt; Fox population monitoring on Herschel Island. CCIN Reference No: 749 &lt;br/&gt; Impacts of experimental warming on graminoid plants in wet polygon fens and mesic tundra. CCIN Reference No: 9894 &lt;br/&gt; Herschel Island Cl
+imatic Data. CCIN Reference No: 756 &lt;br/&gt; Plant primary production at Alert, Ellesmere Island. CCIN Reference No: 746 &lt;br/&gt; Small mammal monitoring at Alert, Ellesmere Island. CCIN Reference No: 745 &lt;br/&gt; Arthropod monitoring at Alert, Ellesmere Island. CCIN Reference No: 744 &lt;br/&gt; Arthropod monitoring on Herschel Island. CCIN Reference No: 750 &lt;br/&gt; Fox population monitoring in the Hudson Bay Lowlands. CCIN Reference No: 731 &lt;br/&gt; Plant primary production and goose grazing impact at Fosheim Pen
+insula, Ellesmere Island. CCIN Reference No: 735 &lt;br/&gt; Plant primary production on Herschel Island. CCIN Reference No: 753 &lt;br/&gt; Small mammal monitoring on Herschel Island and Komakuk Beach. CCIN Reference No: 751</gco:CharacterString>
+                    </gmd:otherCitationDetails>
+                </gmd:CI_Citation>
+            </gmd:additionalDocumentation>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                            <gmd:extent>
+                                <gmd:TimePeriod>
+                                    <gmd:beginPosition>2007-04-01</gmd:beginPosition>
+                                    <gmd:endPosition>2011-03-31</gmd:endPosition>
+                                </gmd:TimePeriod>
+                            </gmd:extent>
+                            <gmd:description>Time Period Covered</gmd:description>
+                            <gmd:description>Date of Collection</gmd:description>
+                        </gmd:EX_TemporalExtent>
+                    </gmd:temporalElement>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>, Canada (CAN)</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>, Churchill (Manitoba, Canada); Akimiski Island (Nunavut, Canada); Alert (Nunavut, Canada); Bylot Island, Sirmilik National Park (Nunavut, Canada); Eureka (Nunavut, Canada); Walker Bay (Nunavut, Canada)</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-140.0</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>-62.0</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>83.0</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>58.0</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                    </gmd:geographicElement>
+                </gmd:EX_extent>
+            </gmd:extent>
+        </gmd:MD_DataIdentification>
+    </gmd:identificationInfo>
+    <gmd:distributionInfo>
+        <gmd:MD_Distribution>
+            <gmd:distributor>
+                <gmd:MD_Distributor>
+                    <gmd:distributorContact>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>Polar Data Catalogue</gco:CharacterString>
+                                    </gmd:name>
+                                    <gmd:contactInfo>
+                                        <gmd:CI_Citation>
+                                            <gmd:onlineResource>
+                                                <gmd:CI_OnlineResource>
+                                                    <gmd:linkage>
+                                                        <gco:CharacterString>http://www.polardata.ca/home/</gco:CharacterString>
+                                                    </gmd:linkage>
+                                                </gmd:CI_OnlineResource>
+                                            </gmd:onlineResource>
+                                        </gmd:CI_Citation>
+                                    </gmd:contactInfo>
+                                    <gmd:logo>
+                                        <gmd:MD_BrowseGraphic>
+                                            <gmd:linkage>
+                                                <gmd:CI_OnlineResource>
+                                                    <gmd:linkage>
+                                                        <gco:CharacterString>http://www.polardata.ca/home/sites/all/themes/gazette/images/banner/logo-default.jpg</gco:CharacterString>
+                                                    </gmd:linkage>
+                                                </gmd:CI_OnlineResource>
+                                            </gmd:linkage>
+                                        </gmd:MD_BrowseGraphic>
+                                    </gmd:logo>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>distributor</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                    </gmd:distributorContact>
+                </gmd:MD_Distributor>
+            </gmd:distributor>
+        </gmd:MD_Distribution>
+    </gmd:distributionInfo>
+</gmd:MD_Metadata>

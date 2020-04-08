@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <gmd:metadataIdentifier>
+        <gmd:MD_Identifier>
+            <gmd:codeSpace>
+                <gco:CharacterString>46ab5b33-5dc9-3440-a700-1e50023effe3</gco:CharacterString>
+            </gmd:codeSpace>
+        </gmd:MD_Identifier>
+    </gmd:metadataIdentifier>
+    <gmd:parentMetadata>
+        <gmd:CI_Citation>
+            <gmd:title>
+                <gco:CharacterString>BC Transit Routes for Victoria, Whistler, Pemberton Local and Commuter, Squamish Commuter, Kelowna and Kamloops, 21 March 2013:BC Transit GTFS Data [21 March 2013]</gco:CharacterString>
+            </gmd:title>
+            <gmd:identifier>
+                <gmd:MD_Identifier>
+                    <gmd:code>
+                        <gco:CharacterString>10.5683/SP2/12HVO7</gco:CharacterString>
+                    </gmd:code>
+                    <gmd:code>
+                        <gco:CharacterString>doi</gco:CharacterString>
+                    </gmd:code>
+                </gmd:MD_Identifier>
+            </gmd:identifier>
+            <gmd:onlineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gco:CharacterString>https://doi.org/10.5683/SP2/12HVO7</gco:CharacterString>
+                    </gmd:linkage>
+                </gmd:CI_OnlineResource>
+            </gmd:onlineResource>
+            <gmd:citedResponsibilityParty>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>Scholars Portal Dataverse</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                    <gmd:role>
+                        <gmd:CI_RoleCode>publisher</gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_Responsibility>
+            </gmd:citedResponsibilityParty>
+        </gmd:CI_Citation>
+    </gmd:parentMetadata>
+    <gmd:identificationInfo>
+        <gmd:MD_DataIdentification>
+            <gmd:citation>
+                <gmd:CI_Citation>
+                    <gmd:identifier>
+                        <gmd:MD_Identifier>
+                            <gmd:code>
+                                <gco:CharacterString>https://doi.org/10.5683/SP2/12HVO7</gco:CharacterString>
+                            </gmd:code>
+                            <gmd:codeSpace>
+                                <gco:CharacterString>doi</gco:CharacterString>
+                            </gmd:codeSpace>
+                        </gmd:MD_Identifier>
+                    </gmd:identifier>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:DateTime>2019-03-04</gco:DateTime>
+                            </gmd:date>
+                        </gmd:CI_Date>
+                        <gmd:CI_Date>
+                            <gmd:CI_DateTypeCode>publication</gmd:CI_DateTypeCode>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:title>
+                        <gco:CharacterString>BC Transit Routes for Victoria, Whistler, Pemberton Local and Commuter, Squamish Commuter, Kelowna and Kamloops, 21 March 2013: BC Transit GTFS Data [21 March 2013]</gco:CharacterString>
+                    </gmd:title>
+                    <gmd:citeResponsibleParty>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Lesack, Paul</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>University of British Columbia</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                    </gmd:citeResponsibleParty>
+                    <gmd:edition>
+                        <gco:CharacterString>1:0</gco:CharacterString>
+                    </gmd:edition>
+                </gmd:CI_Citation>
+            </gmd:citation>
+            <gmd:resourceConstraints>
+                <gmd:MD_LegalConstraints>
+                    <gmd:otherConstraints>
+                        <gco:CharacterString>CC0</gco:CharacterString>
+                    </gmd:otherConstraints>
+                </gmd:MD_LegalConstraints>
+            </gmd:resourceConstraints>
+            <gmd:supplementalInformation>
+                <gco:CharacterString>FileTypes: .shp</gco:CharacterString>
+            </gmd:supplementalInformation>
+            <gmd:abstract>
+                <gco:CharacterString>BC Transit routes for Victoria, Whistler, Pemberton Local and Commuter, Squamish Commuter, Kelowna and Kamloops. The routes were created from the Google transit feed (GTFS) and ArcGIS Network Analyst. As no route shape information was available from the feed, the shape of the route was extrapolated from the road network and layout of transit stops. The transit routes were not verified as no maps are available. Although routes were calculated as carefully as possible, this data set carries no guarantee of accuracy beyond the information included in the Google transit feed.</gco:CharacterString>
+            </gmd:abstract>
+            <gmd:topicCategory>
+                <gco:CharacterString>Other</gco:CharacterString>
+            </gmd:topicCategory>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Country::Canada</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                            <gmd:title>
+                                <gco:CharacterString>ACV</gco:CharacterString>
+                            </gmd:title>
+                        </gmd:CI_Citation>
+                    </gmd:thesaurusName>
+                    <gmd:keyword>
+                        <gco:CharacterString>Geospatial</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                            <gmd:title>
+                                <gco:CharacterString>ACV</gco:CharacterString>
+                            </gmd:title>
+                        </gmd:CI_Citation>
+                    </gmd:thesaurusName>
+                    <gmd:MD_KeywordTypeCode>
+                        <gmd:type>
+                            <gmd:MD_KeywordTypeCode>subTopicCategory</gmd:MD_KeywordTypeCode>
+                        </gmd:type>
+                    </gmd:MD_KeywordTypeCode>
+                </gmd:MD_Keywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Open</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                            <gmd:title>
+                                <gco:CharacterString>Open Access Tag</gco:CharacterString>
+                            </gmd:title>
+                        </gmd:CI_Citation>
+                    </gmd:thesaurusName>
+                    <gmd:MD_KeywordTypeCode>subTopicCategory,</gmd:MD_KeywordTypeCode>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:supplementalInformation>
+                <gco:CharacterString>http://hdl.handle.net/11272/ICSCO&#13;
+&lt;p&gt;&lt;p&gt;&#13;
+Info:Misc:&lt;br&gt;&#13;
+GTFS feed coordinate system: WGS 84&lt;br&gt;&#13;
+Projection: NAD_1983_BC_Environment_Albers&lt;br&gt;&#13;
+Route and arrival data used in this product or service is provided by permission of BC Transit. BC Transit assumes no responsibility for the accuracy or currency of the Data used in this product or service.&#13;
+&lt;p&gt;&#13;
+Info:Migration:&lt;br&gt;&#13;
+UBC Library Data Services repository software migration from DSPACE to DATAVERSE.  Dataset 10573/42762 was migrated on 2013/10/03.&lt;br&gt;&#13;
+The former URI for this resource (&lt;a href="http://hdl.handle.net/10573/42762"&gt;http://hdl.handle.net/10573/42762&lt;/a&gt;) is deprecated.&#13;
+&lt;p&gt;&#13;
+Resource access is PUBLIC.&lt;p&gt;&#13;
+&lt;h2 id="toc_0"&gt;Terms of Use for BC Transit data&lt;/h2&gt;&#13;
+&#13;
+&lt;p&gt;These Terms of Use set out the terms and conditions (the “Terms&amp;quot;) that govern your use of BC Transit&amp;#39;s General Transit Feed Specification (GTFS) Data (the &amp;quot;Data&amp;quot;).&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;strong&gt;In consideration of BC Transit providing you with a copy of the Data, you agree to comply with all obligations and conditions contained in these Terms. These Terms are designed to protect BC Transit and promote the publication of its Data.&lt;/strong&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;ol&gt;&#13;
+&lt;li&gt;&lt;p&gt;BC Transit retains all rights, title, and interest in the Data, and any intellectual property rights embodied in the Data, including any copyright, and any and all improvements or modifications to the Data that BC Transit may provide and that you acquire no such proprietary rights from the use or distribution of the Data, and that you will not attempt to restrict, limit or prevent BC Transit&amp;#39;s use of the Data or BC Transit&amp;#39;s trade-marks or official marks in association with the Data.&lt;/p&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;p&gt;BC Transit grants you a limited, revocable and non-exclusive license to use, reproduce, and redistribute the Data in accordance with these Terms.&lt;/p&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;p&gt;You must, unless otherwise agreed to by BC Transit in writing, indicate that BC Transit is the source of the Data you are using. You are not authorized and are prohibited from, making use of BC Transit&amp;#39;s domain name or any trade-marks or official marks, which are owned by BC Transit or any confusingly similar variation of the domain name or those marks. At BC Transit&amp;#39;s request, you will be required to withdraw such indication when its use is deemed illegitimate or contrary to the public&amp;#39;s interest.&lt;/p&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;p&gt;The Data is provided to you on &amp;quot;as is&amp;quot; and &amp;quot;as available&amp;quot; basis, without any express or implied warranty of any kind, including without limitation, the implied warranties of merchantability, fitness for a particular purpose, accuracy and non-infringement. Under no circumstances will BC Transit be liable for any direct or indirect damages, even if BC Transit is aware of the possibility of such damages, including without limitation damages, loss of profits or for any other special, economic loss, consequential, exemplary or incidental damages, however caused, whether based upon contract, including negligence, strict liability in tort, warranty or contractual claims, or any other legal theory, arising out of or related to your use of the Data. You agree with BC Transit that this limitation should apply even if the Data, is faulty or inaccurate or otherwise fails. You agree that the use of the Data is at your own risk, and you assume the risk that the Data may provide incorrect information to you or your users, as well as the risk that the Data may cause loss of data or damage to your computer system.&lt;/p&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;p&gt;You agree to indemnify, defend and hold harmless BC Transit and its officers, directors, employees, and agents from and against all demands, claims, causes of action, suits, actions or proceedings, or liabilities of any kind or of any nature arising out of or in connection with your use or distribution of the Data to any end user.&lt;/p&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;p&gt;These Terms sets forth the entire agreement between you and BC Transit and supersedes all previous discussions, representations and agreements between you and BC Transit, whether written or oral, and may be amended only with the written consent of BC Transit.&lt;/p&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;p&gt;BC Transit reserves the right to modify these Terms at any time, without notice.&lt;/p&gt;&lt;/li&gt;&#13;
+&lt;/ol&gt;</gco:CharacterString>
+            </gmd:supplementalInformation>
+            <gmd:pointOfContact>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Individual>
+                            <gmd:name>
+                                <gco:CharacterString>UBC Research Data</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:contactInfo>
+                                <gmd:CI_Citation>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>research.data@ubc.ca</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Citation>
+                            </gmd:contactInfo>
+                        </gmd:CI_Individual>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>University of British Columbia</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:name>
+                                <gco:CharacterString>Scholars Portal Dataverse</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                    <gmd:role>
+                        <gmd:CI_RoleCode>pointOfContact</gmd:CI_RoleCode>
+                    </gmd:role>
+                    <gmd:party>
+                        <gmd:CI_Individual>
+                            <gmd:name>
+                                <gco:CharacterString>University of British Columbia Library. Humanities and Social Sciences Division. Data Services.</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Individual>
+                        <gmd:role>
+                            <gmd:CI_RoleCode>custodian</gmd:CI_RoleCode>
+                        </gmd:role>
+                    </gmd:party>
+                </gmd:CI_Responsibility>
+            </gmd:pointOfContact>
+            <gmd:additionalDocumentation>
+                <gmd:CI_Citation>
+                    <gmd:series>
+                        <gmd:CI_Series>
+                            <gmd:name>
+                                <gco:CharacterString>BC Transit</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Series>
+                    </gmd:series>
+                    <gmd:otherCitationDetails>
+                        <gco:CharacterString>http://hdl.handle.net/10573/42762</gco:CharacterString>
+                    </gmd:otherCitationDetails>
+                </gmd:CI_Citation>
+            </gmd:additionalDocumentation>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                            <gmd:extent>
+                                <gmd:TimePeriod>
+                                    <gmd:beginPosition>2013</gmd:beginPosition>
+                                    <gmd:endPosition>9999</gmd:endPosition>
+                                </gmd:TimePeriod>
+                            </gmd:extent>
+                            <gmd:description>Time Period Covered</gmd:description>
+                            <gmd:description>Date of Collection</gmd:description>
+                        </gmd:EX_TemporalExtent>
+                    </gmd:temporalElement>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Country</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-123.795591</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>-119.341737</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>50.860343</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>48.339619</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-123.795379</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>-119.342685</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>50.860296</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>48.339522</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                    </gmd:geographicElement>
+                </gmd:EX_extent>
+            </gmd:extent>
+        </gmd:MD_DataIdentification>
+    </gmd:identificationInfo>
+    <gmd:distributionInfo>
+        <gmd:MD_Distribution>
+            <gmd:distributor>
+                <gmd:MD_Distributor>
+                    <gmd:distributorContact>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>Cuthill, Melissa</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>originator</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                    </gmd:distributorContact>
+                </gmd:MD_Distributor>
+            </gmd:distributor>
+        </gmd:MD_Distribution>
+    </gmd:distributionInfo>
+</gmd:MD_Metadata>

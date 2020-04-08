@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <gmd:metadataIdentifier>
+        <gmd:MD_Identifier>
+            <gmd:codeSpace>
+                <gco:CharacterString>d067abd3-7e84-314b-b404-cfbe54f40049</gco:CharacterString>
+            </gmd:codeSpace>
+        </gmd:MD_Identifier>
+    </gmd:metadataIdentifier>
+    <gmd:parentMetadata>
+        <gmd:CI_Citation>
+            <gmd:title>
+                <gco:CharacterString>PPS Arctic Canada (Present processes, Past changes, Spatio-temporal variability in the Arctic delimitation zone, Canada):</gco:CharacterString>
+            </gmd:title>
+            <gmd:identifier>
+                <gmd:MD_Identifier>
+                    <gmd:code>
+                        <gco:CharacterString>10864/10230</gco:CharacterString>
+                    </gmd:code>
+                    <gmd:code>
+                        <gco:CharacterString>handle</gco:CharacterString>
+                    </gmd:code>
+                </gmd:MD_Identifier>
+            </gmd:identifier>
+            <gmd:onlineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gco:CharacterString>https://hdl.handle.net/10864/10230</gco:CharacterString>
+                    </gmd:linkage>
+                </gmd:CI_OnlineResource>
+            </gmd:onlineResource>
+            <gmd:citedResponsibilityParty>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>Scholars Portal Dataverse</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                    <gmd:role>
+                        <gmd:CI_RoleCode>publisher</gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_Responsibility>
+            </gmd:citedResponsibilityParty>
+        </gmd:CI_Citation>
+    </gmd:parentMetadata>
+    <gmd:identificationInfo>
+        <gmd:MD_DataIdentification>
+            <gmd:citation>
+                <gmd:CI_Citation>
+                    <gmd:identifier>
+                        <gmd:MD_Identifier>
+                            <gmd:code>
+                                <gco:CharacterString>https://hdl.handle.net/10864/10230</gco:CharacterString>
+                            </gmd:code>
+                            <gmd:codeSpace>
+                                <gco:CharacterString>hdl</gco:CharacterString>
+                            </gmd:codeSpace>
+                        </gmd:MD_Identifier>
+                    </gmd:identifier>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:DateTime>2012-10-17</gco:DateTime>
+                            </gmd:date>
+                        </gmd:CI_Date>
+                        <gmd:CI_Date>
+                            <gmd:CI_DateTypeCode>publication</gmd:CI_DateTypeCode>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:title>
+                        <gco:CharacterString>PPS Arctic Canada (Present processes, Past changes, Spatio-temporal variability in the Arctic delimitation zone, Canada)</gco:CharacterString>
+                    </gmd:title>
+                    <gmd:identifier>
+                        <gmd:MD_Identifier>
+                            <gmd:authority>
+                                <gmd:CI_Citation>
+                                    <gmd:citedResponsibility>
+                                        <gmd:CI_Responsibility>
+                                            <gmd:party>
+                                                <gmd:CI_Organisation>
+                                                    <gmd:name>
+                                                        <gco:CharacterString>DataCite International</gco:CharacterString>
+                                                    </gmd:name>
+                                                    <gmd:partyIdentifier>
+                                                        <gmd:MD_Identifier>
+                                                            <gmd:code>
+                                                                <gco:CharacterString>http://dx.doi.org/10.5443/11396</gco:CharacterString>
+                                                            </gmd:code>
+                                                        </gmd:MD_Identifier>
+                                                    </gmd:partyIdentifier>
+                                                </gmd:CI_Organisation>
+                                            </gmd:party>
+                                            <gmd:role>
+                                                <gmd:CI_RoleCode>resourceProvider</gmd:CI_RoleCode>
+                                            </gmd:role>
+                                        </gmd:CI_Responsibility>
+                                    </gmd:citedResponsibility>
+                                </gmd:CI_Citation>
+                            </gmd:authority>
+                        </gmd:MD_Identifier>
+                    </gmd:identifier>
+                    <gmd:citeResponsibleParty>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Karen Harper</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Frank Berninger</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Greg Henry</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Nancy Doubleday</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Ryan Danby</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Scott Green</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Shawn Donaldson</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Stephane Boudreau</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Trevor Bell</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                    </gmd:citeResponsibleParty>
+                    <gmd:edition>
+                        <gco:CharacterString>1:0</gco:CharacterString>
+                    </gmd:edition>
+                </gmd:CI_Citation>
+            </gmd:citation>
+            <gmd:resourceConstraints>
+                <gmd:MD_LegalConstraints>
+                    <gmd:otherConstraints>
+                        <gco:CharacterString>NONE</gco:CharacterString>
+                    </gmd:otherConstraints>
+                </gmd:MD_LegalConstraints>
+            </gmd:resourceConstraints>
+            <gmd:supplementalInformation>
+                <gco:CharacterString/>
+            </gmd:supplementalInformation>
+            <gmd:abstract>
+                <gco:CharacterString>In the summers of 2007-09, we collected data at over a dozen locations in the Yukon, Northwest Territories, Nunavut, northern Manitoba, northern Québec and Labrador. The results from these studies contribute to our short-term objectives: 1) an analysis of recent change in tree and shrub distributions; 2) the collection of environmental and microclimate data to accompany tree line change; 3) an investigation of the mechanisms of vegetation change at tree line; 4) the mapping of the spatial pattern of tree and non-tree species at tree line and in tundra islands within the boreal forest to predict future changes as tree line migrates; 5) an assessment of the role of disturbance; and 6) the development of models of the long-term relationship between environmental change, resource availability and human health and well-being in the forest-tundra ecotone. Data were collected regarding the impacts of changes in climatic conditions on tree line and their consequences on ecosystems and communities. Other data were collected on trees of all ages, seeds, vegetation, snow and ice, microclimate, spatial pattern, soil and socioeconomic indicators across the forest tundra ecotone at sites across northern Canada. Our key finding continues to be the large amount of variability in tree growth, regeneration and spatial pattern among tree species, regions across Canada and even sites within the same region. Evidence of change in and movement of the forest-tundra ecotone is evident in some site
+s but not in others despite increasing temperatures. Seed viability or seedling recruitment may be hindering tree line movement at these sites. This variation in tree line response may be extremely challenging to outline general strategies for climate change adaptation in Arctic environments. Our long-term objectives are: 1) to model temporal and spatial tree line dynamics and to situate these processes within a comprehensive conceptual framework of environmental change that addresses ecological, social and cultural factors; 2) to assess the impact of climate change on processes within the tree line ecotone; 3) to determine ecosystem services of the tree line ecotone and their vulnerability with climate change and land use impacts; and 4) to develop conceptual models of the long term relationship of environmental change and human health and well-being in the Arctic and Sub-Arctic.</gco:CharacterString>
+            </gmd:abstract>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Treeline</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Climate change</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Northern Canada</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Arctic</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Vegetation</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Soils</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Forest-tundra</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Mapping</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:MD_KeywordTypeCode>
+                        <gmd:type>
+                            <gmd:MD_KeywordTypeCode>subTopicCategory</gmd:MD_KeywordTypeCode>
+                        </gmd:type>
+                    </gmd:MD_KeywordTypeCode>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:supplementalInformation>
+                <gco:CharacterString>Type: Research Program: Notes: IPY-PPS Arctic &lt;p&gt;This metadata record corresponds to an IPY project.  Studies completed under this research project are identified as related materials.  These studies can also be retrieved using the &lt;a href="http://www.polardata.ca/whitesnow/"&gt;Polar Data Catalogue&lt;/a&gt;.&lt;/p&gt;;</gco:CharacterString>
+            </gmd:supplementalInformation>
+            <gmd:pointOfContact>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Individual>
+                            <gmd:name>
+                                <gco:CharacterString>Polar Data Catalogue</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:contactInfo>
+                                <gmd:CI_Citation>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>pdc@uwaterloo.ca</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Citation>
+                            </gmd:contactInfo>
+                        </gmd:CI_Individual>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>Canadian Cryospheric Information Network</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:name>
+                                <gco:CharacterString>Scholars Portal Dataverse</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                    <gmd:role>
+                        <gmd:CI_RoleCode>pointOfContact</gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_Responsibility>
+            </gmd:pointOfContact>
+            <gmd:additionalDocumentation>
+                <gmd:CI_Citation>
+                    <gmd:series>
+                        <gmd:CI_Series>
+                            <gmd:name>
+                                <gco:CharacterString/>
+                            </gmd:name>
+                        </gmd:CI_Series>
+                    </gmd:series>
+                    <gmd:otherCitationDetails>
+                        <gco:CharacterString>Methods and findings of PPS Arctic Canada researchers. CCIN Reference No: 11009
+&lt;br/&gt; Residents' views on environmental change and traditional use of the Old Crow Flats and Vuntut Gwitchin Territory. CCIN Reference No: 11008&lt;br/&gt; Interviews with northern educators on how to integrate IPY science and traditional knowledge in northern schools. CCIN Reference No: 10997&lt;br/&gt; Printer's Pass, Yukon tree species limit data. CCIN Reference No: 1348&lt;br/&gt; Snow Survey Data in Central Labrador (Mealy Mountains). CCIN Reference No: 1645&lt;br/&gt; Growth rate and environmental stress of Bryop
+hytes in the Torngat and Mealy Mountains, Labrador. CCIN Reference No: 9932
+&lt;br/&gt; Size structure of a Black Spruce forest in Churchill, Manitoba. CCIN Reference No: 1479&lt;br/&gt; Forest edge dynamics transects in Churchill, Manitoba. CCIN Reference No: 1482&lt;br/&gt; Forest-Tundra Plots in Churchill, Manitoba. CCIN Reference No: 1402&lt;br/&gt; Spatial protocols (Level II) for trees and vegetation in Churchill, Manitoba. CCIN Reference No: 1481&lt;br/&gt; Dendrochronological analysis at Angie Lake, Western Labrador, Canada. CCIN Reference No: 1526&lt;br/&gt; Dendrochronological analysis at Ritchi
+e Lake, Western Labrador, Canada. CCIN Reference No: 1524&lt;br/&gt; Dendrochronological analysis at Lac Indian, Western Labrador, Canada. CCIN Reference No: 1522&lt;br/&gt; Dendrochronological analysis at Sims Lake, Western Labrador, Canada. CCIN Reference No: 1523&lt;br/&gt; The effect of rocks on krummholz growth in the Mealy Mountains, Labrador. CCIN Reference No: 10993&lt;br/&gt; Dendrochronological and soil data in Northern Labrador. CCIN Reference No: 862&lt;br/&gt; PPS Arctic Canada: Timberline-related data, Mt. Nans
+en area, Yukon Plateau. CCIN Reference No: 1256&lt;br/&gt; Treeline structure in northern Yukon. CCIN Reference No: 1579&lt;br/&gt; Black spruce emergence and early seedling survival in the Mealy Mountains, Labrador. CCIN Reference No: 1217&lt;br/&gt; Nurse effects of dwarf birch (Betula glandulosa) on black spruce seedlings (Picea mariana) during the first year of growth in Labrador. CCIN Reference No: 864&lt;br/&gt; Dendrochronological and forest structure data from the Mealy Mountains, Labrador. CCIN Reference No: 8
+61&lt;br/&gt; Seed cone productivity in the Mealy Mountains, 2008. CCIN Reference No: 1270&lt;br/&gt; Soil temperature data and profiles in the Mealy Mountains of Labrador. CCIN Reference No: 822&lt;br/&gt; Avian Diversity in Relation to Elevation, Habitat, and Climate Change in the Mealy Mountains, Labrador. CCIN Reference No: 865&lt;br/&gt; Tree islands in Churchill, Manitoba and Mealy Mountains, Labrador. CCIN Reference No: 1401&lt;br/&gt; Altitudinal distribution of berry species in Labrador. CCIN Reference No: 1322&lt;br/&gt;
+Dendrochronological analysis at Mariana Lake, Eastern Labrador, Canada. CCIN Reference No: 1533
+&lt;br/&gt; Dendrochronological analysis at Bush Pond, Central Labrador, Canada. CCIN Reference No: 1530&lt;br/&gt; Dendrochronological analysis at Tanya's Tickle, Eastern Labrador, Canada. CCIN Reference No: 1534&lt;br/&gt; Dendrochronological analysis at Churchill River, Central Labrador, Canada. CCIN Reference No: 1515&lt;br/&gt; Dendrochronological analysis at Petit Lac aux Sauterelles, Western Labrador, Canada. CCIN Reference No: 1521&lt;br/&gt; Dendrochronological analysis at Lac des Marets, Central Labrador, Canada. C
+CIN Reference No: 1525&lt;br/&gt; Dendrochronological analysis at Lac Therese, Western Labrador, Canada. CCIN Reference No: 1520&lt;br/&gt; Dendrochronological analysis at Dumaresq Lake, Eastern Labrador, Canada. CCIN Reference No: 1531&lt;br/&gt; Dendrochronological analysis at Temple Bay, Eastern Labrador, Canada. CCIN Reference No: 1535&lt;br/&gt; Dendrochronological analysis at Freeman's Pond, Eastern Labrador, Canada. CCIN Reference No: 1532&lt;br/&gt; Dendrochronological analysis at Lac Betaux, Central Labrador, Canada
+. CCIN Reference No: 10955&lt;br/&gt; Dendrochronological analysis at Hawk Bay, Eastern Labrador, Canada. CCIN Reference No: 1536&lt;br/&gt; Dendrochronological analysis at Claude Lake, Western Labrador, Canada. CCIN Reference No: 1518&lt;br/&gt; Dendrochronological analysis at Harp Lake, Central Labrador, Canada. CCIN Reference No: 1516&lt;br/&gt; Dendrochronological analysis at Smallwood Reservoir, Western Labrador, Canada. CCIN Reference No: 1519&lt;br/&gt; Dendrochronological analysis at George's Lake, Central Labrador,
+Canada. CCIN Reference No: 1517&lt;br/&gt; Dendrochronological analysis at Bug Tussle, Central Labrador, Canada. CCIN Reference No: 1529&lt;br/&gt; Dendrochronological analysis at Kenamu Lake, Central Labrador, Canada. CCIN Reference No: 1528&lt;br/&gt; IPY PPS Arctic Canada: Impacts of a Changing Treeline - Photos and Plants Through Time. CCIN Reference No: 10031&lt;br/&gt; Dendroclimatic record of 3 conifer species (Picea mariana, Abies balsamea and Larix laricina) in south eastern Labrador. CCIN Reference No: 859&lt;br
+/&gt; PPS Arctic Canada (Present processes, Past changes, Spatio-temporal variability in the Arctic delimitation zone, Canada). CCIN Reference No: 11396</gco:CharacterString>
+                    </gmd:otherCitationDetails>
+                </gmd:CI_Citation>
+            </gmd:additionalDocumentation>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                            <gmd:extent>
+                                <gmd:TimePeriod>
+                                    <gmd:beginPosition>2007-04-01</gmd:beginPosition>
+                                    <gmd:endPosition>2011-03-31</gmd:endPosition>
+                                </gmd:TimePeriod>
+                            </gmd:extent>
+                            <gmd:description>Time Period Covered</gmd:description>
+                            <gmd:description>Date of Collection</gmd:description>
+                        </gmd:EX_TemporalExtent>
+                    </gmd:temporalElement>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>, Churchil, Mealy Mountains, Mistastin Lake, Nain, Red Wine Mountains, Aklavik, Inuvik, central NWT, Baker Lake, Cape Dorset, Boniface River, Kuujjuarapik, Lac à l'Eau Clair, Radisson, Schefferville, Ca</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-140.0</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>-59.0</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>68.0</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>53.0</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                    </gmd:geographicElement>
+                </gmd:EX_extent>
+            </gmd:extent>
+        </gmd:MD_DataIdentification>
+    </gmd:identificationInfo>
+    <gmd:distributionInfo>
+        <gmd:MD_Distribution>
+            <gmd:distributor>
+                <gmd:MD_Distributor>
+                    <gmd:distributorContact>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>Polar Data Catalogue</gco:CharacterString>
+                                    </gmd:name>
+                                    <gmd:contactInfo>
+                                        <gmd:CI_Citation>
+                                            <gmd:onlineResource>
+                                                <gmd:CI_OnlineResource>
+                                                    <gmd:linkage>
+                                                        <gco:CharacterString>http://www.polardata.ca/home/</gco:CharacterString>
+                                                    </gmd:linkage>
+                                                </gmd:CI_OnlineResource>
+                                            </gmd:onlineResource>
+                                        </gmd:CI_Citation>
+                                    </gmd:contactInfo>
+                                    <gmd:logo>
+                                        <gmd:MD_BrowseGraphic>
+                                            <gmd:linkage>
+                                                <gmd:CI_OnlineResource>
+                                                    <gmd:linkage>
+                                                        <gco:CharacterString>http://www.polardata.ca/home/sites/all/themes/gazette/images/banner/logo-default.jpg</gco:CharacterString>
+                                                    </gmd:linkage>
+                                                </gmd:CI_OnlineResource>
+                                            </gmd:linkage>
+                                        </gmd:MD_BrowseGraphic>
+                                    </gmd:logo>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>distributor</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                    </gmd:distributorContact>
+                </gmd:MD_Distributor>
+            </gmd:distributor>
+        </gmd:MD_Distribution>
+    </gmd:distributionInfo>
+</gmd:MD_Metadata>

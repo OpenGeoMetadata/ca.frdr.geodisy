@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <gmd:metadataIdentifier>
+        <gmd:MD_Identifier>
+            <gmd:codeSpace>
+                <gco:CharacterString>313af182-5821-3167-86ce-0a46a14bfacf</gco:CharacterString>
+            </gmd:codeSpace>
+        </gmd:MD_Identifier>
+    </gmd:metadataIdentifier>
+    <gmd:parentMetadata>
+        <gmd:CI_Citation>
+            <gmd:title>
+                <gco:CharacterString>[Canada's Economic Action Plan], [July 2011]:</gco:CharacterString>
+            </gmd:title>
+            <gmd:identifier>
+                <gmd:MD_Identifier>
+                    <gmd:code>
+                        <gco:CharacterString>10.5683/SP2/LAWLTI</gco:CharacterString>
+                    </gmd:code>
+                    <gmd:code>
+                        <gco:CharacterString>doi</gco:CharacterString>
+                    </gmd:code>
+                </gmd:MD_Identifier>
+            </gmd:identifier>
+            <gmd:onlineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gco:CharacterString>https://doi.org/10.5683/SP2/LAWLTI</gco:CharacterString>
+                    </gmd:linkage>
+                </gmd:CI_OnlineResource>
+            </gmd:onlineResource>
+            <gmd:citedResponsibilityParty>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>Scholars Portal Dataverse</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                    <gmd:role>
+                        <gmd:CI_RoleCode>publisher</gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_Responsibility>
+            </gmd:citedResponsibilityParty>
+        </gmd:CI_Citation>
+    </gmd:parentMetadata>
+    <gmd:identificationInfo>
+        <gmd:MD_DataIdentification>
+            <gmd:citation>
+                <gmd:CI_Citation>
+                    <gmd:identifier>
+                        <gmd:MD_Identifier>
+                            <gmd:code>
+                                <gco:CharacterString>https://doi.org/10.5683/SP2/LAWLTI</gco:CharacterString>
+                            </gmd:code>
+                            <gmd:codeSpace>
+                                <gco:CharacterString>doi</gco:CharacterString>
+                            </gmd:codeSpace>
+                        </gmd:MD_Identifier>
+                    </gmd:identifier>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:DateTime>2019-03-04</gco:DateTime>
+                            </gmd:date>
+                        </gmd:CI_Date>
+                        <gmd:CI_Date>
+                            <gmd:CI_DateTypeCode>publication</gmd:CI_DateTypeCode>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:title>
+                        <gco:CharacterString>[Canada's Economic Action Plan], [July 2011]</gco:CharacterString>
+                    </gmd:title>
+                    <gmd:citeResponsibleParty>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Government of Canada</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                    </gmd:citeResponsibleParty>
+                    <gmd:edition>
+                        <gco:CharacterString>1:0</gco:CharacterString>
+                    </gmd:edition>
+                </gmd:CI_Citation>
+            </gmd:citation>
+            <gmd:resourceConstraints>
+                <gmd:MD_LegalConstraints>
+                    <gmd:otherConstraints>
+                        <gco:CharacterString>CC0</gco:CharacterString>
+                    </gmd:otherConstraints>
+                </gmd:MD_LegalConstraints>
+            </gmd:resourceConstraints>
+            <gmd:supplementalInformation>
+                <gco:CharacterString>,.shp</gco:CharacterString>
+            </gmd:supplementalInformation>
+            <gmd:abstract>
+                <gco:CharacterString>Snapshot of data on Canada's Economic Action Plan (http://www.actionplan.gc.ca) from July 2011. The data contain latitude/longitude points, descriptions, federal funding values and links to project websites and images.</gco:CharacterString>
+            </gmd:abstract>
+            <gmd:topicCategory>
+                <gco:CharacterString>Other</gco:CharacterString>
+            </gmd:topicCategory>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Country::Canada</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                            <gmd:title>
+                                <gco:CharacterString>ACV</gco:CharacterString>
+                            </gmd:title>
+                        </gmd:CI_Citation>
+                    </gmd:thesaurusName>
+                    <gmd:keyword>
+                        <gco:CharacterString>Economic Behaviour</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                            <gmd:title>
+                                <gco:CharacterString>ACV</gco:CharacterString>
+                            </gmd:title>
+                        </gmd:CI_Citation>
+                    </gmd:thesaurusName>
+                    <gmd:keyword>
+                        <gco:CharacterString>Geospatial</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                            <gmd:title>
+                                <gco:CharacterString>ACV</gco:CharacterString>
+                            </gmd:title>
+                        </gmd:CI_Citation>
+                    </gmd:thesaurusName>
+                    <gmd:MD_KeywordTypeCode>
+                        <gmd:type>
+                            <gmd:MD_KeywordTypeCode>subTopicCategory</gmd:MD_KeywordTypeCode>
+                        </gmd:type>
+                    </gmd:MD_KeywordTypeCode>
+                </gmd:MD_Keywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Open</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                            <gmd:title>
+                                <gco:CharacterString>Open Access Tag</gco:CharacterString>
+                            </gmd:title>
+                        </gmd:CI_Citation>
+                    </gmd:thesaurusName>
+                    <gmd:MD_KeywordTypeCode>subTopicCategory,</gmd:MD_KeywordTypeCode>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:supplementalInformation>
+                <gco:CharacterString>http://hdl.handle.net/11272/IYD8D&lt;p&gt;&#13;
+&lt;p&gt;Info:Misc:&lt;br&gt;&#13;
+Data compiled from EAP open data as per API (http://www.actionplan.gc.ca/eng/feature.asp?pageId=134)[July 2011]&lt;br&gt;&#13;
+Lambert Conformal Conic projection&lt;br&gt;&#13;
+NAD 83 Datum&lt;p&gt;&#13;
+&lt;p&gt;Info:Migration:&lt;br&gt;&#13;
+UBC Library Data Services repository software migration from DSPACE to DATAVERSE.  Dataset 10573/42640 was migrated on 2013/10/03.&lt;br&gt;&#13;
+The former URI for this resource (&lt;a href="http://hdl.handle.net/10573/42640"&gt;http://hdl.handle.net/10573/42640&lt;/a&gt;) is deprecated.&lt;p&gt;&#13;
+&lt;h2 id="toc_0"&gt;Open Government Licence - Canada&lt;/h2&gt;&#13;
+&#13;
+&lt;h3 id="toc_1"&gt;You are encouraged to use the Information that is available under this licence with only a few conditions.&lt;/h3&gt;&#13;
+&#13;
+&lt;p&gt;Using Information under this licence&lt;/p&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Use of any Information indicates your acceptance of the terms below.&lt;/li&gt;&#13;
+&lt;li&gt;The Information Provider grants you a worldwide, royalty-free, perpetual, non-exclusive licence to use the Information, including for commercial purposes, subject to the terms below.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;h3 id="toc_2"&gt;You are free to:&lt;/h3&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;h3 id="toc_3"&gt;You must, where you do any of the above:&lt;/h3&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Acknowledge the source of the Information by including any attribution statement specified by the Information Provider(s) and, where possible, provide a link to this licence.&lt;/li&gt;&#13;
+&lt;li&gt;If the Information Provider does not provide a specific attribution statement, or if you are using Information from several information providers and multiple attributions are not practical for your product or application, you must use the following attribution statement:&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;p&gt;Contains information licensed under the Open Government Licence – Canada.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;The terms of this licence are important, and if you fail to comply with any of them, the rights granted to you under this licence, or any similar licence granted by the Information Provider, will end automatically.&lt;/p&gt;&#13;
+&#13;
+&lt;h3 id="toc_4"&gt;Exemptions&lt;/h3&gt;&#13;
+&#13;
+&lt;p&gt;This licence does not grant you any right to use:&lt;/p&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Personal Information;&lt;/li&gt;&#13;
+&lt;li&gt;third party rights the Information Provider is not authorized to license;&lt;/li&gt;&#13;
+&lt;li&gt;the names, crests, logos, or other official symbols of the Information Provider; and&lt;/li&gt;&#13;
+&lt;li&gt;Information subject to other intellectual property rights, including patents, trade-marks and official marks.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;h3 id="toc_5"&gt;Non-endorsement&lt;/h3&gt;&#13;
+&#13;
+&lt;p&gt;This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider endorses you or your use of the Information.&lt;/p&gt;&#13;
+&#13;
+&lt;h3 id="toc_6"&gt;No Warranty&lt;/h3&gt;&#13;
+&#13;
+&lt;p&gt;The Information is licensed “as is”, and the Information Provider excludes all representations, warranties, obligations, and liabilities, whether express or implied, to the maximum extent permitted by law.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;The Information Provider is not liable for any errors or omissions in the Information, and will not under any circumstances be liable for any direct, indirect, special, incidental, consequential, or other loss, injury or damage caused by its use or otherwise arising in connection with this licence or the Information, even if specifically advised of the possibility of such loss, injury or damage.&lt;/p&gt;&#13;
+&#13;
+&lt;h3 id="toc_7"&gt;Governing Law&lt;/h3&gt;&#13;
+&#13;
+&lt;p&gt;This licence is governed by the laws of the province of Ontario and the applicable laws of Canada.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Legal proceedings related to this licence may only be brought in the courts of Ontario or the Federal Court of Canada.&lt;/p&gt;&#13;
+&#13;
+&lt;h3 id="toc_8"&gt;Definitions&lt;/h3&gt;&#13;
+&#13;
+&lt;p&gt;In this licence, the terms below have the following meanings:&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;strong&gt;&amp;quot;Information&amp;quot;&lt;/strong&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;means information resources protected by copyright or other information that is offered for use under the terms of this licence.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;strong&gt;&amp;quot;Information Provider&amp;quot;&lt;/strong&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;means Her Majesty the Queen in right of Canada.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;strong&gt;“Personal Information”&lt;/strong&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;means “personal information” as defined in section 3 of the Privacy Act, R.S.C. 1985, c. P-21.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;strong&gt;&amp;quot;You&amp;quot;&lt;/strong&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;means the natural or legal person, or body of persons corporate or incorporate, acquiring rights under this licence.&lt;/p&gt;&#13;
+&#13;
+&lt;h3 id="toc_9"&gt;Versioning&lt;/h3&gt;&#13;
+&#13;
+&lt;p&gt;This is version 2.0 of the Open Government Licence – Canada. The Information Provider may make changes to the terms of this licence from time to time and issue a new version of the licence. Your use of the Information will be governed by the terms of the licence in force as of the date you accessed the information.&lt;/p&gt;</gco:CharacterString>
+            </gmd:supplementalInformation>
+            <gmd:pointOfContact>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Individual>
+                            <gmd:name>
+                                <gco:CharacterString>UBC Research Data</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:contactInfo>
+                                <gmd:CI_Citation>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>research.data@ubc.ca</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Citation>
+                            </gmd:contactInfo>
+                        </gmd:CI_Individual>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>University of British Columbia</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:name>
+                                <gco:CharacterString>Scholars Portal Dataverse</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                    <gmd:role>
+                        <gmd:CI_RoleCode>pointOfContact</gmd:CI_RoleCode>
+                    </gmd:role>
+                    <gmd:party>
+                        <gmd:CI_Individual>
+                            <gmd:name>
+                                <gco:CharacterString>Government of Canada</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Individual>
+                        <gmd:role>
+                            <gmd:CI_RoleCode>custodian</gmd:CI_RoleCode>
+                        </gmd:role>
+                    </gmd:party>
+                </gmd:CI_Responsibility>
+            </gmd:pointOfContact>
+            <gmd:additionalDocumentation>
+                <gmd:CI_Citation>
+                    <gmd:series>
+                        <gmd:CI_Series>
+                            <gmd:name>
+                                <gco:CharacterString>Economic Action Plan</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Series>
+                    </gmd:series>
+                    <gmd:otherCitationDetails>
+                        <gco:CharacterString>http://hdl.handle.net/10573/42640</gco:CharacterString>
+                    </gmd:otherCitationDetails>
+                </gmd:CI_Citation>
+            </gmd:additionalDocumentation>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                            <gmd:extent>
+                                <gmd:TimePeriod>
+                                    <gmd:beginPosition>2011</gmd:beginPosition>
+                                    <gmd:endPosition>9999</gmd:endPosition>
+                                </gmd:TimePeriod>
+                            </gmd:extent>
+                            <gmd:description>Time Period Covered</gmd:description>
+                            <gmd:description>Date of Collection</gmd:description>
+                        </gmd:EX_TemporalExtent>
+                    </gmd:temporalElement>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-140.876</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>-52.678585</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>83.0817</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>41.75584</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                    </gmd:geographicElement>
+                </gmd:EX_extent>
+            </gmd:extent>
+        </gmd:MD_DataIdentification>
+    </gmd:identificationInfo>
+    <gmd:distributionInfo>
+        <gmd:MD_Distribution>
+            <gmd:distributor>
+                <gmd:MD_Distributor>
+                    <gmd:distributorContact>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>Cuthill, Melissa</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>originator</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                    </gmd:distributorContact>
+                </gmd:MD_Distributor>
+            </gmd:distributor>
+        </gmd:MD_Distribution>
+    </gmd:distributionInfo>
+</gmd:MD_Metadata>

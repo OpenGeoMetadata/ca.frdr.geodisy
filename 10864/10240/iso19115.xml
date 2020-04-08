@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <gmd:metadataIdentifier>
+        <gmd:MD_Identifier>
+            <gmd:codeSpace>
+                <gco:CharacterString>65baab7b-f9b3-3238-9b4c-d1cb82b6778b</gco:CharacterString>
+            </gmd:codeSpace>
+        </gmd:MD_Identifier>
+    </gmd:metadataIdentifier>
+    <gmd:parentMetadata>
+        <gmd:CI_Citation>
+            <gmd:title>
+                <gco:CharacterString>Global Warming and Arctic Marine Mammals (GWAMM):</gco:CharacterString>
+            </gmd:title>
+            <gmd:identifier>
+                <gmd:MD_Identifier>
+                    <gmd:code>
+                        <gco:CharacterString>10864/10240</gco:CharacterString>
+                    </gmd:code>
+                    <gmd:code>
+                        <gco:CharacterString>handle</gco:CharacterString>
+                    </gmd:code>
+                </gmd:MD_Identifier>
+            </gmd:identifier>
+            <gmd:onlineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gco:CharacterString>https://hdl.handle.net/10864/10240</gco:CharacterString>
+                    </gmd:linkage>
+                </gmd:CI_OnlineResource>
+            </gmd:onlineResource>
+            <gmd:citedResponsibilityParty>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>Scholars Portal Dataverse</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                    <gmd:role>
+                        <gmd:CI_RoleCode>publisher</gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_Responsibility>
+            </gmd:citedResponsibilityParty>
+        </gmd:CI_Citation>
+    </gmd:parentMetadata>
+    <gmd:identificationInfo>
+        <gmd:MD_DataIdentification>
+            <gmd:citation>
+                <gmd:CI_Citation>
+                    <gmd:identifier>
+                        <gmd:MD_Identifier>
+                            <gmd:code>
+                                <gco:CharacterString>https://hdl.handle.net/10864/10240</gco:CharacterString>
+                            </gmd:code>
+                            <gmd:codeSpace>
+                                <gco:CharacterString>hdl</gco:CharacterString>
+                            </gmd:codeSpace>
+                        </gmd:MD_Identifier>
+                    </gmd:identifier>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:DateTime>2012-10-17</gco:DateTime>
+                            </gmd:date>
+                        </gmd:CI_Date>
+                        <gmd:CI_Date>
+                            <gmd:CI_DateTypeCode>publication</gmd:CI_DateTypeCode>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:title>
+                        <gco:CharacterString>Global Warming and Arctic Marine Mammals (GWAMM)</gco:CharacterString>
+                    </gmd:title>
+                    <gmd:identifier>
+                        <gmd:MD_Identifier>
+                            <gmd:authority>
+                                <gmd:CI_Citation>
+                                    <gmd:citedResponsibility>
+                                        <gmd:CI_Responsibility>
+                                            <gmd:party>
+                                                <gmd:CI_Organisation>
+                                                    <gmd:name>
+                                                        <gco:CharacterString>DataCite International</gco:CharacterString>
+                                                    </gmd:name>
+                                                    <gmd:partyIdentifier>
+                                                        <gmd:MD_Identifier>
+                                                            <gmd:code>
+                                                                <gco:CharacterString>http://dx.doi.org/10.5443/11336</gco:CharacterString>
+                                                            </gmd:code>
+                                                        </gmd:MD_Identifier>
+                                                    </gmd:partyIdentifier>
+                                                </gmd:CI_Organisation>
+                                            </gmd:party>
+                                            <gmd:role>
+                                                <gmd:CI_RoleCode>resourceProvider</gmd:CI_RoleCode>
+                                            </gmd:role>
+                                        </gmd:CI_Responsibility>
+                                    </gmd:citedResponsibility>
+                                </gmd:CI_Citation>
+                            </gmd:authority>
+                        </gmd:MD_Identifier>
+                    </gmd:identifier>
+                    <gmd:citeResponsibleParty>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Steven H Ferguson</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Andrew Derocher</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Elisabeth Peacock</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Jeff W. Higdon</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Lena Measures</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Magaly Chambellant</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Nick Lunn</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Tara Bortoluzzi</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Trish Kelley</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                    </gmd:citeResponsibleParty>
+                    <gmd:edition>
+                        <gco:CharacterString>1:0</gco:CharacterString>
+                    </gmd:edition>
+                </gmd:CI_Citation>
+            </gmd:citation>
+            <gmd:resourceConstraints>
+                <gmd:MD_LegalConstraints>
+                    <gmd:otherConstraints>
+                        <gco:CharacterString>NONE</gco:CharacterString>
+                    </gmd:otherConstraints>
+                </gmd:MD_LegalConstraints>
+            </gmd:resourceConstraints>
+            <gmd:supplementalInformation>
+                <gco:CharacterString/>
+            </gmd:supplementalInformation>
+            <gmd:abstract>
+                <gco:CharacterString>The GWAMM project has developed a Community-Based Monitoring (CBM) network within the greater Hudson Bay region. Our goal was to monitor marine ecosystem change using apex predators but also to understand the drivers of change. Results provided policy information required to allow northerners the ability to adapt to the environmental changes. During the Inuit subsistence hunts of 2007, the network relied on Arviat and Sanikiluaq community involvement. In 2008 and 2009, we expanded the network to include the communities of Repulse Bay and Igloolik, respectively. Partnering with northerners provided whale and seal tissue samples from hunts as well as a collection of prey species representing parts of the marine environment. A reference collection of samples from the complete food web was developed and used to build a model of trophic interactions from marine mammals down to nutrients and phytoplankton. GWAMM is also a network project that links to other marine mammal research projects in the region including satellite-telemetry movement studies of polar bears, seals, and whales, and photo-identification of bowhead and killer whales, and use of chemical signals to understand whale and seal diet, and tracking predation effects caused by invasive species such as killer whales. Results indicated that with declining sea ice, the Hudson Bay marine ecosystem is shifting from a polar bear-seal system with Inuit hunters at the apex to one dominated by cetaceans with killer whales at the apex. This shift is eroding Inuit traditional subsistence culture. As a result, our project has the added goal t
+o provide northerners with information required to adapt to a rapidly changing world where Arctic marine mammal populations are showing demographic strain due to polar warming.</gco:CharacterString>
+            </gmd:abstract>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Aerial surveys</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Fatty acids</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Climate change</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Body condition</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Abundance</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Biological sciences</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Marine mammals</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Contaminants</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Community-based monitoring</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:MD_KeywordTypeCode>
+                        <gmd:type>
+                            <gmd:MD_KeywordTypeCode>subTopicCategory</gmd:MD_KeywordTypeCode>
+                        </gmd:type>
+                    </gmd:MD_KeywordTypeCode>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:supplementalInformation>
+                <gco:CharacterString>Type: Research Program: Notes: IPY-GWAMM &lt;p&gt;This metadata record corresponds to an IPY project.  Studies completed under this research project are identified as related materials.  These studies can also be retrieved using the &lt;a href="http://www.polardata.ca/whitesnow/"&gt;Polar Data Catalogue&lt;/a&gt;.&lt;/p&gt;;</gco:CharacterString>
+            </gmd:supplementalInformation>
+            <gmd:pointOfContact>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Individual>
+                            <gmd:name>
+                                <gco:CharacterString>Polar Data Catalogue</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:contactInfo>
+                                <gmd:CI_Citation>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>pdc@uwaterloo.ca</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Citation>
+                            </gmd:contactInfo>
+                        </gmd:CI_Individual>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>Canadian Cryospheric Information Network</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:name>
+                                <gco:CharacterString>Scholars Portal Dataverse</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                    <gmd:role>
+                        <gmd:CI_RoleCode>pointOfContact</gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_Responsibility>
+            </gmd:pointOfContact>
+            <gmd:additionalDocumentation>
+                <gmd:CI_Citation>
+                    <gmd:series>
+                        <gmd:CI_Series>
+                            <gmd:name>
+                                <gco:CharacterString/>
+                            </gmd:name>
+                        </gmd:CI_Series>
+                    </gmd:series>
+                    <gmd:otherCitationDetails>
+                        <gco:CharacterString>Global Warming and Arctic Marine Mammals (GWAMM) - Community-based montoring of bowhead whales near Repulse Bay, Nunavut, 2009. CCIN Reference No: 9956
+&lt;br/&gt; Global Warming and Arctic Marine Mammals (GWAMM) - Community-based montoring of seals in Arviat, Nunavut, 2009/10 annual subsistence harvest. CCIN Reference No: 9953&lt;br/&gt; Global Warming and Arctic Marine Mammals (GWAMM) - Community-based montoring of seals in Repulse Bay, Nunavut, 2009/10 annual subsistence harvest. CCIN Reference No: 9955&lt;br/&gt; Global Warming and Arctic Marine Mammals (GWAMM) - Community-based montoring of bowhead whales in Foxe Basin, Igloolik, Nunavut, 2009. CCIN Referen
+ce No: 9954&lt;br/&gt; Global Warming and Arctic Marine Mammals (GWAMM) - Community-based montoring of seals in Igloolik, Nunavut, 2009/10 annual subsistence harvest. CCIN Reference No: 9949&lt;br/&gt; Polar Bears and Seals : Movement of ringed seals in the greater Hudson Bay region, Nunavut, 2009. CCIN Reference No: 9951&lt;br/&gt; Global Warming and Arctic Marine Mammals (GWAMM) - Community-based montoring of bowhead whales in Cape Dorset and Rankin Inlet, Nunavut, 2009. CCIN Reference No: 9948&lt;br/&gt; Global Warm
+ing and Arctic Marine Mammals (GWAMM) - Community-based montoring of bowhead whales in Kangiqsujuaq, Nunavik, 2009. CCIN Reference No: 9952
+&lt;br/&gt; Global Warming and Arctic Marine Mammals (GWAMM) - Community-based montoring of seals in Pangnirtung, Nunavut, 2009/10 annual subsistence harvest. CCIN Reference No: 9957&lt;br/&gt; Global Warming and Arctic Marine Mammals (GWAMM) - Community-based montoring of seals in Sanikiluaq, Nunavut, 2009/10 annual subsistence harvest. CCIN Reference No: 9950&lt;br/&gt; Global Warming and Arctic Marine Mammals (GWAMM) - community-based montoring of seals in Repulse Bay, Nunavut, 2007-2009. CCIN Reference No: 17
+19&lt;br/&gt; Global Warming and Arctic Marine Mammals (GWAMM) - community-based montoring of bowhead whales in Kugaaruk and Hall Beach, Nunavut, 2008. CCIN Reference No: 1725&lt;br/&gt; Global Warming and Arctic Marine Mammals (GWAMM) - community-based montoring of bowhead whales near Repulse Bay, Nunavut, 2007-2009. CCIN Reference No: 1723&lt;br/&gt; Global Warming and Arctic Marine Mammals (GWAMM) - community-based montoring of seals in Pangnirtung, Nunavut, 2008-2009. CCIN Reference No: 1720&lt;br/&gt; Global Warmi
+ng and Arctic Marine Mammals (GWAMM) - community-based montoring of seals in Arviat, Nunavut, 2007. CCIN Reference No: 726
+&lt;br/&gt; Global Warming and Arctic Marine Mammals (GWAMM) - community-based montoring of seals in Arviat, Nunavut, 2007-2009. CCIN Reference No: 1717&lt;br/&gt; Global Warming and Arctic Marine Mammals (GWAMM) - community-based montoring of seals in Arviat, Nunavut, 2007. CCIN Reference No: 629&lt;br/&gt; Global Warming and Arctic Marine Mammals (GWAMM) - community-based montoring of narwhal whales near Repulse Bay, Nunavut, 2007-2009. CCIN Reference No: 1722&lt;br/&gt; Global Warming and Arctic Marine Mammals (GWAM
+M) - community-based montoring of beluga whales near Sanikiluaq, Nunavut, 2007-2009. CCIN Reference No: 1721&lt;br/&gt; Global Warming and Arctic Marine Mammals (GWAMM) - community-based montoring of bowhead whales in Foxe Basin, Igloolik, Nunavut, 2007. CCIN Reference No: 729&lt;br/&gt; Global Warming and Arctic Marine Mammals (GWAMM) - community-based montoring of bowhead whales near Igloolik (Foxe Basin), Nunavut, 2007-2009. CCIN Reference No: 1724&lt;br/&gt; Photo-identification of bowhead whales (Balaena mys
+ticetus) - Foxe Basin and Hudson Bay. CCIN Reference No: 10411&lt;br/&gt; Bowhead whale (Balaena mysticetus) biopsy samples - Foxe Basin and Repulse Bay. CCIN Reference No: 10413&lt;br/&gt; Global Warming and Arctic Marine Mammals (GWAMM) - community-based montoring of seals in Sanikiluaq, Nunavut, 2007-2009. CCIN Reference No: 1718&lt;br/&gt; Global Warming and Arctic Marine Mammals (GWAMM) - community-based montoring of seals in Sanikiluaq, Nunavut, 2007. CCIN Reference No: 725&lt;br/&gt; Global Warming and Arctic Ma
+rine Mammals (GWAMM) - community-based montoring of narwhal whales in Repulse Bay, Nunavut, 2007. CCIN Reference No: 728
+&lt;br/&gt; Ecological monitoring of polar bears and seals in Nunavut a step toward the future. CCIN Reference No: 11419&lt;br/&gt; Global Warming and Arctic Marine Mammals (GWAMM) - community-based montoring of beluga whales in Arviat, Nunavut, 2007. CCIN Reference No: 727</gco:CharacterString>
+                    </gmd:otherCitationDetails>
+                </gmd:CI_Citation>
+            </gmd:additionalDocumentation>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                            <gmd:extent>
+                                <gmd:TimePeriod>
+                                    <gmd:beginPosition>2007-03-01</gmd:beginPosition>
+                                    <gmd:endPosition>2009-10-31</gmd:endPosition>
+                                </gmd:TimePeriod>
+                            </gmd:extent>
+                            <gmd:description>Time Period Covered</gmd:description>
+                            <gmd:description>Date of Collection</gmd:description>
+                        </gmd:EX_TemporalExtent>
+                    </gmd:temporalElement>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>, Hudson Bay; Foxe Basin; Hudson Strait; Nunavut; Arviat; Igloolik; Kangiqsujuaq; Kugaaruk; Hall Beach; Pangnirtung; Rankin Inlet; Cape Dorset; Repulse Bay; Sanikiluaq</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-95.0</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>-75.9</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>70.7</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>50.6</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                    </gmd:geographicElement>
+                </gmd:EX_extent>
+            </gmd:extent>
+        </gmd:MD_DataIdentification>
+    </gmd:identificationInfo>
+    <gmd:distributionInfo>
+        <gmd:MD_Distribution>
+            <gmd:distributor>
+                <gmd:MD_Distributor>
+                    <gmd:distributorContact>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>Polar Data Catalogue</gco:CharacterString>
+                                    </gmd:name>
+                                    <gmd:contactInfo>
+                                        <gmd:CI_Citation>
+                                            <gmd:onlineResource>
+                                                <gmd:CI_OnlineResource>
+                                                    <gmd:linkage>
+                                                        <gco:CharacterString>http://www.polardata.ca/home/</gco:CharacterString>
+                                                    </gmd:linkage>
+                                                </gmd:CI_OnlineResource>
+                                            </gmd:onlineResource>
+                                        </gmd:CI_Citation>
+                                    </gmd:contactInfo>
+                                    <gmd:logo>
+                                        <gmd:MD_BrowseGraphic>
+                                            <gmd:linkage>
+                                                <gmd:CI_OnlineResource>
+                                                    <gmd:linkage>
+                                                        <gco:CharacterString>http://www.polardata.ca/home/sites/all/themes/gazette/images/banner/logo-default.jpg</gco:CharacterString>
+                                                    </gmd:linkage>
+                                                </gmd:CI_OnlineResource>
+                                            </gmd:linkage>
+                                        </gmd:MD_BrowseGraphic>
+                                    </gmd:logo>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>distributor</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                    </gmd:distributorContact>
+                </gmd:MD_Distributor>
+            </gmd:distributor>
+        </gmd:MD_Distribution>
+    </gmd:distributionInfo>
+</gmd:MD_Metadata>
