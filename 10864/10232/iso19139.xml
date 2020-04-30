@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <gmd:metadataIdentifier>
+        <gmd:MD_Identifier>
+            <gmd:codeSpace>
+                <gco:CharacterString>c98dedd3-af23-30ba-8b83-2bf08ed3e29b</gco:CharacterString>
+            </gmd:codeSpace>
+        </gmd:MD_Identifier>
+    </gmd:metadataIdentifier>
+    <gmd:parentMetadata>
+        <gmd:CI_Citation>
+            <gmd:title>
+                <gco:CharacterString>The Circumpolar Flaw Lead (CFL) system study:</gco:CharacterString>
+            </gmd:title>
+            <gmd:identifier>
+                <gmd:MD_Identifier>
+                    <gmd:code>
+                        <gco:CharacterString>10864/10232</gco:CharacterString>
+                    </gmd:code>
+                    <gmd:code>
+                        <gco:CharacterString>handle</gco:CharacterString>
+                    </gmd:code>
+                </gmd:MD_Identifier>
+            </gmd:identifier>
+            <gmd:onlineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gco:CharacterString>https://hdl.handle.net/10864/10232</gco:CharacterString>
+                    </gmd:linkage>
+                </gmd:CI_OnlineResource>
+            </gmd:onlineResource>
+            <gmd:citedResponsibilityParty>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>Scholars Portal Dataverse</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                    <gmd:role>
+                        <gmd:CI_RoleCode>publisher</gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_Responsibility>
+            </gmd:citedResponsibilityParty>
+        </gmd:CI_Citation>
+    </gmd:parentMetadata>
+    <gmd:identificationInfo>
+        <gmd:MD_DataIdentification>
+            <gmd:citation>
+                <gmd:CI_Citation>
+                    <gmd:identifier>
+                        <gmd:MD_Identifier>
+                            <gmd:code>
+                                <gco:CharacterString>https://hdl.handle.net/10864/10232</gco:CharacterString>
+                            </gmd:code>
+                            <gmd:codeSpace>
+                                <gco:CharacterString>hdl</gco:CharacterString>
+                            </gmd:codeSpace>
+                        </gmd:MD_Identifier>
+                    </gmd:identifier>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:DateTime>2012-10-17</gco:DateTime>
+                            </gmd:date>
+                        </gmd:CI_Date>
+                        <gmd:CI_Date>
+                            <gmd:CI_DateTypeCode>publication</gmd:CI_DateTypeCode>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:title>
+                        <gco:CharacterString>The Circumpolar Flaw Lead (CFL) system study</gco:CharacterString>
+                    </gmd:title>
+                    <gmd:identifier>
+                        <gmd:MD_Identifier>
+                            <gmd:authority>
+                                <gmd:CI_Citation>
+                                    <gmd:citedResponsibility>
+                                        <gmd:CI_Responsibility>
+                                            <gmd:party>
+                                                <gmd:CI_Organisation>
+                                                    <gmd:name>
+                                                        <gco:CharacterString>DataCite International</gco:CharacterString>
+                                                    </gmd:name>
+                                                    <gmd:partyIdentifier>
+                                                        <gmd:MD_Identifier>
+                                                            <gmd:code>
+                                                                <gco:CharacterString>http://dx.doi.org/10.5443/11395</gco:CharacterString>
+                                                            </gmd:code>
+                                                        </gmd:MD_Identifier>
+                                                    </gmd:partyIdentifier>
+                                                </gmd:CI_Organisation>
+                                            </gmd:party>
+                                            <gmd:role>
+                                                <gmd:CI_RoleCode>resourceProvider</gmd:CI_RoleCode>
+                                            </gmd:role>
+                                        </gmd:CI_Responsibility>
+                                    </gmd:citedResponsibility>
+                                </gmd:CI_Citation>
+                            </gmd:authority>
+                        </gmd:MD_Identifier>
+                    </gmd:identifier>
+                    <gmd:citeResponsibleParty>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>David Barber</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Daniel Bourgault</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Jacques Gagné</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Jessica Beaubier</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Louis Fortier</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Michel Gosselin</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Peter Galbraith</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Philippe Archambault</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Steve Ferguson</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                    </gmd:citeResponsibleParty>
+                    <gmd:edition>
+                        <gco:CharacterString>1:0</gco:CharacterString>
+                    </gmd:edition>
+                </gmd:CI_Citation>
+            </gmd:citation>
+            <gmd:resourceConstraints>
+                <gmd:MD_LegalConstraints>
+                    <gmd:otherConstraints>
+                        <gco:CharacterString>NONE</gco:CharacterString>
+                    </gmd:otherConstraints>
+                </gmd:MD_LegalConstraints>
+            </gmd:resourceConstraints>
+            <gmd:supplementalInformation>
+                <gco:CharacterString>FileTypes: .txt</gco:CharacterString>
+            </gmd:supplementalInformation>
+            <gmd:abstract>
+                <gco:CharacterString>The CFL project consisted of ten sub-project teams: Physical oceanography; Sea ice; Light, nutrients, and primary production; Food webs; Marine mammals and birds; Gas fluxes; Carbon and nutrient fluxes; Contaminants; Modeling; and Traditional Knowledge. In the fall of 2007, 74 open water sites were sampled throughout the Amundsen Gulf and southern Beaufort Sea. During the winter months, 44 drift sites were sampled, ranging in duration from 1-22 days. Due to thin sea ice and high ice mobility, the fast ice bridge between Cape Parry and Banks Island did not form. For this reason, we were unable to establish a semi-permanent ice camp as originally planned. Instead, a series of ice camps were set up at the fast ice edge at the mouths of Franklin and Darnley Bays in May and June. Early results suggest that with decreasing ice cover we can expect powerful feedbacks into the climate system thereby exacerbating the reduction in multiyear sea ice, with commensurate changes in the ecosystem, biogeochemical cycling and human use of the flaw lead region. Nutrients may become more available to the food web through a higher occurrence of ice edge upwelling as well as eddies carrying Pacific water into the Amundsen Gulf. Frost flowers, which are produced on young first year ice, have been found to have an important role in atmospheric chemistry around flaw leads and may be important for contaminant transport. Marine mammal use of the flaw lead occurs much earlier and more extensively than previously known. Traditional Knowledge research efforts included the development,
+coordination and completion of community interviews in Sachs Harbour, Paulatuk and Ulukhaktok. This comprised of community-based field programs involving semi-directed interviews, a mapping component, and database development and input. The data gathered from 49 experts in 3 communities represents the first and most comprehensive documentation of Inuvialuit knowledge of the circumpolar flaw lead in the Beaufort Sea. The Traditional Knowledge study showed that Inuvialuit have extensive knowledge of changes taking place in seasonal patterns, marine and freshwater systems, fish and wildlife of the Beaufort Sea and their uses of these resources, as well as the implications of these changes for human travel and Inuvialuit subsistence and traditional activities.</gco:CharacterString>
+            </gmd:abstract>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Traditional Knowledge</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Modeling</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Sea ice</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Primary production</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Nutrient cycling</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Marine mammals</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Marine birds</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Carbon dioxide</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Canadian Arctic Archipelago</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Beaufort Sea</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:MD_KeywordTypeCode>
+                        <gmd:type>
+                            <gmd:MD_KeywordTypeCode>subTopicCategory</gmd:MD_KeywordTypeCode>
+                        </gmd:type>
+                    </gmd:MD_KeywordTypeCode>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:supplementalInformation>
+                <gco:CharacterString>Type: Research Program: Notes: IPY-CFL &lt;p&gt;This metadata record corresponds to an IPY project.  Studies completed under this research project are identified as related materials.  These studies can also be retrieved using the &lt;a href="http://www.polardata.ca/whitesnow/"&gt;Polar Data Catalogue&lt;/a&gt;.&lt;/p&gt;;</gco:CharacterString>
+            </gmd:supplementalInformation>
+            <gmd:pointOfContact>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Individual>
+                            <gmd:name>
+                                <gco:CharacterString>Polar Data Catalogue</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:contactInfo>
+                                <gmd:CI_Citation>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>pdc@uwaterloo.ca</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Citation>
+                            </gmd:contactInfo>
+                        </gmd:CI_Individual>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>Canadian Cryospheric Information Network</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:name>
+                                <gco:CharacterString>Scholars Portal Dataverse</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                    <gmd:role>
+                        <gmd:CI_RoleCode>pointOfContact</gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_Responsibility>
+            </gmd:pointOfContact>
+            <gmd:additionalDocumentation>
+                <gmd:CI_Citation>
+                    <gmd:series>
+                        <gmd:CI_Series>
+                            <gmd:name>
+                                <gco:CharacterString/>
+                            </gmd:name>
+                        </gmd:CI_Series>
+                    </gmd:series>
+                    <gmd:otherCitationDetails>
+                        <gco:CharacterString>Community perspectives on communicating contaminants research. CCIN Reference No: 1697
+&lt;br/&gt; Surface based radiometer data taken in the Amundsen Gulf, Canadian Arctic during the IPY Circumpolar Flaw Lead (CFL) study 2009. CCIN Reference No: 10097 &lt;br/&gt; LAser WAve Slope (LAWAS) laser profiling data from the Amundsen Gulf during the IPY Circumpolar Flaw Lead (CFL) study 2009. CCIN Reference No: 10099 &lt;br/&gt; Ceilometer data taken in the southern Beaufort Sea and Amundsen Gulf, Canadian Arctic during the IPY Circumpolar Flaw Lead (CFL) study 2009. CCIN Reference No: 10105 &lt;br/&gt; Beluga
+observations in the Southern Beaufort Sea in May and June 2008. CCIN Reference No: 1714
+&lt;br/&gt; Snow and sea ice thickness using EM Induction System. CCIN Reference No: 1272 &lt;br/&gt; CFL 0802 - Amundsen Gulf CTD data. CCIN Reference No: 1498 &lt;br/&gt; Mercury and methyl mercury in western Canadian Arctic water. CCIN Reference No: 1640 &lt;br/&gt; Functioning of Benthic Hotspots versus Coldspots Ecosystems in the Canadian Arctic. CCIN Reference No: 11152 &lt;br/&gt; Meteorological Ocean Buoys (MOBs) data. CCIN Reference No: 1411 &lt;br/&gt; Body condition data for King Eiders harvested in Ulukhatok, NT. CCIN
+Reference No: 1705 &lt;br/&gt; CFL 0805 - Beaufort Sea CTD data. CCIN Reference No: 1501 &lt;br/&gt; CFL 0801 - Amundsen Gulf CTD data. CCIN Reference No: 1497 &lt;br/&gt; Zooplankton and Algae Mercury Data in Amundsen Gulf. CCIN Reference No: 1621 &lt;br/&gt; Ringed seal (Phoca hispida) Tagging Project via the moon pool of the CCGS Amundsen. CCIN Reference No: 1713 &lt;br/&gt; Atmospheric Mercury depletion events over the Amundsen Gulf and their net contribution to the mercury flux to the flaw lead system. CCIN Reference No
+: 1624 &lt;br/&gt; Nutrient data for the Beaufort Sea in 2008. CCIN Reference No: 10504 &lt;br/&gt; OASIS-CANADA CFL: Atmospheric composition and structure during the CFL campaign from the Amundsen icebreaker in the Amundsen Gulf. CCIN Reference No: 1844 &lt;br/&gt; OASIS-CANADA-OOTI CFL: Atmospheric composition and structure during the CFL campaign near the Amundsen icebreaker in the Amundsen Gulf. CCIN Reference No: 1843 &lt;br/&gt; Cloud cover during the Circumpolar Flaw Lead (CFL) project. CCIN Reference No: 1570 &lt;
+br/&gt; Pesticides in the Canadian Archipelago: 3. Banks Island. CCIN Reference No: 1702
+&lt;br/&gt; Viability of phytoplankton and photoprotection. CCIN Reference No: 9934 &lt;br/&gt; CFL 0803 - Beaufort Sea CTD data. CCIN Reference No: 1499 &lt;br/&gt; Dissolved organic carbon distribution in the Canadian Arctic, fall 2007. CCIN Reference No: 998 &lt;br/&gt; Alpha- and gamma- hexachlorocyclohexane (HCH) concentrations and alpha-HCH enantiomeric composition in the sea ice, snow, brine, sea water, air and biota samples from the Amundsen Gulf, Canadian High Arctic. CCIN Reference No: 1619 &lt;br/&gt; Surface-Base
+d Radiometer (SBR) data from the South Beaufort Sea, aboard the Amundsen icebreaker. CCIN Reference No: 1483
+&lt;br/&gt; Ship-Based Sea Surface Dissolved CO2 (pCO2), 2007-2008 CFL IPY Project. CCIN Reference No: 10587 &lt;br/&gt; Mesozooplankton vertical distribution data in the Cape Bathurst polynya complex, southern Beaufort Sea. CCIN Reference No: 1703 &lt;br/&gt; Sea ice vertical and horizontal texture. CCIN Reference No: 1414 &lt;br/&gt; Ship-Based Meteorological Data, 2007-2008 CFL IPY Project. CCIN Reference No: 10582 &lt;br/&gt; Beaufort Sea Moorings 2007-2008. CCIN Reference No: 9873 &lt;br/&gt; Ship-Based Eddy Covariance Data,
+2007-2008 CFL IPY Project. CCIN Reference No: 10578 &lt;br/&gt; LAser WAve Slope (LAWAS) laser profiling data. CCIN Reference No: 1271 &lt;br/&gt; Ship-Based Incoming Solar and Longwave Radiation, 2007-2008 CFL IPY Project. CCIN Reference No: 10576 &lt;br/&gt; Cloud base height in the southern Beaufort Sea during the IPY Circumpolar Flaw Lead (CFL) study 2007-2008. CCIN Reference No: 1571 &lt;br/&gt; Ocean and sea ice surface temperature in the southern Beaufort Sea during the IPY Circumpolar Flaw Lead (CFL) study 2007
+-2008. CCIN Reference No: 1572 &lt;br/&gt; Nutrient data for the Beaufort Sea in 2007. CCIN Reference No: 779 &lt;br/&gt; ArcticNet - CFL - Arctic SOLAS 0706 - Beaufort Sea CTD data. CCIN Reference No: 800 &lt;br/&gt; Precipitation (Laser precipitation gauge). CCIN Reference No: 1556 &lt;br/&gt; Nutrient data for the Northwest Passage in 2007. CCIN Reference No: 778 &lt;br/&gt; CO2 system data during the Circumpolar Flaw Lead. CCIN Reference No: 10900 &lt;br/&gt; Sinking export of organic material in the High Arctic in fall 2007.
+CCIN Reference No: 997 &lt;br/&gt; Sea ice texture (Beaufort Sea area 2007-2008). CCIN Reference No: 	1605 &lt;br/&gt; Sea ice delta oxygen-18 (Beaufort Sea area 2007-2008). CCIN Reference No: 1601 &lt;br/&gt; CO2 fluxes, by accumulation chamber (Beaufort Sea, 2007-2008). CCIN Reference No: 1598 &lt;br/&gt; Sea ice total gas content (Beaufort Sea area 2007-2008). CCIN Reference No: 1606 &lt;br/&gt; Sea ice salinity profiles (Beaufort Sea area 2007-2008). CCIN Reference No: 1603 &lt;br/&gt; Sea ice temperature profiles (Beaufort Se
+a area 2007-2008). CCIN Reference No: 1604 &lt;br/&gt; Precipitation of CaCO3 (Beaufort Sea, 2007-2008). CCIN Reference No: 1599 &lt;br/&gt; Atmospheric Profiling Radiometer. CCIN Reference No: 1554 &lt;br/&gt; Temporal dynamics of eukaryotic heterotrophic microbes in CFL area during 2007-2008. CCIN Reference No: 1245 &lt;br/&gt; Sea ice motion from disposable beacons during the Circumpolar Flaw Lead project. CCIN Reference No: 1569 &lt;br/&gt; Egg production data of the Arctic copepods Calanus glacialis/marshallae, C. hyper
+boreus and Metridia longa in Amundsen Gulf. CCIN Reference No: 1704
+&lt;br/&gt; Sea ice DMS,P profiles (Beaufort Sea area 2007-2008). CCIN Reference No: 1600 &lt;br/&gt; CFL 0707-Beaufort Sea CTD data. CCIN Reference No: 936 &lt;br/&gt; Microbial abundance and distribution in newly formed sea ice. CCIN Reference No: 9759&lt;br/&gt; Particle-associated microbial community dynamics in the Southern Beaufort Sea. CCIN Reference No: 9756&lt;br/&gt; Ground Penetrating Radar (GPR) Experiment. CCIN Reference No: 1555&lt;br/&gt; Snow and Ice Physical Properties. CCIN Reference No: 1413&lt;br/&gt; Diet data for K
+ing Eiders (Somateria spectabilis) in the Beaufort Sea area. CCIN Reference No: 1706
+&lt;br/&gt; Community-Based Monitoring of Beluga Health in the Beaufort Sea Region. CCIN Reference No: 1716&lt;br/&gt; Total Mercury in the Cryosphere in the Western Arctic Ocean. CCIN Reference No: 1620&lt;br/&gt; Particulate matter in snow and ice of the southern Beaufort Sea during the IPY Circumpolar Flaw Lead (CFL) study 2007-2008. CCIN Reference No: 1574&lt;br/&gt; Temporal changes in the heterotrophic activity of the prokaryotic plankton in CFL area during 2007-2008. CCIN Reference No: 1243&lt;br/&gt; CFL 0708 - Amund
+sen Gulf CTD data. CCIN Reference No: 1496&lt;br/&gt; Temporal changes in the quality of dissolved organic matter in CFL area during 2007-2008. CCIN Reference No: 1244&lt;br/&gt; Sea-ice microbial processes during the dark winter period. CCIN Reference No: 1023&lt;br/&gt; Temporal changes in bacterivory and herbivory in CFL during 2007-2008. CCIN Reference No: 1242&lt;br/&gt; Rawinsonde atmospheric profiles in the southern Beaufort Sea during the IPY Circumpolar Flaw Lead (CFL) study 2007-2008. CCIN Reference No: 10527
+&lt;br/&gt; Bowhead Whale Aerial Surveys in the SE Beaufort Sea, 2007-2008. CCIN Reference No: 1712&lt;br/&gt; Dendrochronological analysis at Lac Therese, Western Labrador, Canada. CCIN Reference No: 1520&lt;br/&gt; Baseline description and monitoring of the Cape Parry Murre colony. CCIN Reference No: 1711&lt;br/&gt;</gco:CharacterString>
+                    </gmd:otherCitationDetails>
+                </gmd:CI_Citation>
+            </gmd:additionalDocumentation>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                            <gmd:extent>
+                                <gmd:TimePeriod>
+                                    <gmd:beginPosition>2007-04-01</gmd:beginPosition>
+                                    <gmd:endPosition>2011-03-31</gmd:endPosition>
+                                </gmd:TimePeriod>
+                            </gmd:extent>
+                            <gmd:description>Time Period Covered</gmd:description>
+                            <gmd:description>Date of Collection</gmd:description>
+                        </gmd:EX_TemporalExtent>
+                    </gmd:temporalElement>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>, Amundsen Gulf and southern Beaufort Sea, Arctic Ocean; Inuvik (NT, Canada); Paulatuk (NT, Canada); Sachs Harbour (NT, Canada); Tuktoyaktuk (NT, Canada); Ulukhaktok (NT, Canada)</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-141.0</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>-113.0</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>76.0</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>66.0</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                    </gmd:geographicElement>
+                </gmd:EX_extent>
+            </gmd:extent>
+        </gmd:MD_DataIdentification>
+    </gmd:identificationInfo>
+    <gmd:distributionInfo>
+        <gmd:MD_Distribution>
+            <gmd:distributor>
+                <gmd:MD_Distributor>
+                    <gmd:distributorContact>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>Polar Data Catalogue</gco:CharacterString>
+                                    </gmd:name>
+                                    <gmd:contactInfo>
+                                        <gmd:CI_Citation>
+                                            <gmd:onlineResource>
+                                                <gmd:CI_OnlineResource>
+                                                    <gmd:linkage>
+                                                        <gco:CharacterString>http://www.polardata.ca/home/</gco:CharacterString>
+                                                    </gmd:linkage>
+                                                </gmd:CI_OnlineResource>
+                                            </gmd:onlineResource>
+                                        </gmd:CI_Citation>
+                                    </gmd:contactInfo>
+                                    <gmd:logo>
+                                        <gmd:MD_BrowseGraphic>
+                                            <gmd:linkage>
+                                                <gmd:CI_OnlineResource>
+                                                    <gmd:linkage>
+                                                        <gco:CharacterString>http://www.polardata.ca/home/sites/all/themes/gazette/images/banner/logo-default.jpg</gco:CharacterString>
+                                                    </gmd:linkage>
+                                                </gmd:CI_OnlineResource>
+                                            </gmd:linkage>
+                                        </gmd:MD_BrowseGraphic>
+                                    </gmd:logo>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>distributor</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                    </gmd:distributorContact>
+                </gmd:MD_Distributor>
+            </gmd:distributor>
+        </gmd:MD_Distribution>
+    </gmd:distributionInfo>
+</gmd:MD_Metadata>

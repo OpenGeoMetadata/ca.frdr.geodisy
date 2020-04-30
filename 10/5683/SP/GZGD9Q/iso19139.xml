@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <gmd:metadataIdentifier>
+        <gmd:MD_Identifier>
+            <gmd:codeSpace>
+                <gco:CharacterString>43d5f0f3-fdf4-3bef-852d-dfccb3cec031</gco:CharacterString>
+            </gmd:codeSpace>
+        </gmd:MD_Identifier>
+    </gmd:metadataIdentifier>
+    <gmd:parentMetadata>
+        <gmd:CI_Citation>
+            <gmd:title>
+                <gco:CharacterString>Replication data for: Developing protocols for the collection and valuation of wild native seed from the Hudson Bay Lowland:</gco:CharacterString>
+            </gmd:title>
+            <gmd:identifier>
+                <gmd:MD_Identifier>
+                    <gmd:code>
+                        <gco:CharacterString>10.5683/SP/GZGD9Q</gco:CharacterString>
+                    </gmd:code>
+                    <gmd:code>
+                        <gco:CharacterString>doi</gco:CharacterString>
+                    </gmd:code>
+                </gmd:MD_Identifier>
+            </gmd:identifier>
+            <gmd:onlineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gco:CharacterString>https://doi.org/10.5683/SP/GZGD9Q</gco:CharacterString>
+                    </gmd:linkage>
+                </gmd:CI_OnlineResource>
+            </gmd:onlineResource>
+            <gmd:citedResponsibilityParty>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>Scholars Portal Dataverse</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                    <gmd:role>
+                        <gmd:CI_RoleCode>publisher</gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_Responsibility>
+            </gmd:citedResponsibilityParty>
+        </gmd:CI_Citation>
+    </gmd:parentMetadata>
+    <gmd:identificationInfo>
+        <gmd:MD_DataIdentification>
+            <gmd:citation>
+                <gmd:CI_Citation>
+                    <gmd:identifier>
+                        <gmd:MD_Identifier>
+                            <gmd:code>
+                                <gco:CharacterString>https://doi.org/10.5683/SP/GZGD9Q</gco:CharacterString>
+                            </gmd:code>
+                            <gmd:codeSpace>
+                                <gco:CharacterString>doi</gco:CharacterString>
+                            </gmd:codeSpace>
+                        </gmd:MD_Identifier>
+                    </gmd:identifier>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:DateTime>2017-10-04</gco:DateTime>
+                            </gmd:date>
+                        </gmd:CI_Date>
+                        <gmd:CI_Date>
+                            <gmd:CI_DateTypeCode>publication</gmd:CI_DateTypeCode>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:title>
+                        <gco:CharacterString>Replication data for: Developing protocols for the collection and valuation of wild native seed from the Hudson Bay Lowland</gco:CharacterString>
+                    </gmd:title>
+                    <gmd:citeResponsibleParty>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Rantala-Sykes, Brittany</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>Department of Biology, Laurentian University</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Campbell, Daniel</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>School of the Environment, Laurentian University</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                    </gmd:citeResponsibleParty>
+                    <gmd:edition>
+                        <gco:CharacterString>2:3</gco:CharacterString>
+                    </gmd:edition>
+                </gmd:CI_Citation>
+            </gmd:citation>
+            <gmd:resourceConstraints>
+                <gmd:MD_LegalConstraints>
+                    <gmd:otherConstraints>
+                        <gco:CharacterString>CC0</gco:CharacterString>
+                    </gmd:otherConstraints>
+                </gmd:MD_LegalConstraints>
+            </gmd:resourceConstraints>
+            <gmd:supplementalInformation>
+                <gco:CharacterString/>
+            </gmd:supplementalInformation>
+            <gmd:abstract>
+                <gco:CharacterString>Native species are being more commonly used and often even mandated in restoration projects. However, commercial seed sources are often unavailable or not of a suitable provenance. Collecting seed from wild sources is an alternative, but it can be challenging. The objectives of this study were to: 1) identify key attributes that influence the value of seed and to evaluate and quantify these differences for 57 native species with potential for restoration in subarctic Ontario; 2) determine if fertilizers could increase the seed yield of wild species with a low seed output; 3) determine and compile simple and effective protocols for the collection, processing, storage, and germination of 60 wild species native to northeastern Ontario. Field studies were conducted at De Beers’ Victor diamond mine, located in the Hudson Bay Lowland in north-central Canada from 2014 to 2016. To complete the first objective, I evaluated the attributes that affect the time and cost of using wild seeds from upland native plants. Taking into account the regional abundance of species, collection obstacles, requirements for identification, ease of processing and storing seeds, and propagation effort, I ranked the results for each species within each attribute. Each category provided a relative value reflective of the effort required to collect, process, store, and propagate seed of a given species. I demonstrate how these relative values could be used to prioritize species in revegetation planning. These relative seed values can also be used to determine seed prices for a variety of projects and locations. For my second objective, I fertilized wild populations of American vetch (Vicia americana) and silverweed (Potentilla anserina). These herbaceous upland species may be useful in reclamation, but had low seed yields in 2014. Fertilization had no effect on seed yield and neither species set seed, regardless of treatment, except for a single American vetch plot. I discuss various environmental factors that may have had an influence on the poor seed yields. Fertilizing wild populations may not be an effective approach to increase seed yield for these species in a subarctic environment, although testing a variety of fertilizer rates and environments could guide future studies.&#13;
+ For the final objective, I field-tested seed collection and seed processing protocols for native species desired for revegetation, and I compiled information from the literature on their storage and propagation requirements. I produced both a general guide and profiles for 60 species. The guide is written in lay language, with many photographs and provides an overview of the required knowledge for harvesting seed from wild plants. This guide will be useful to people who wish to begin collecting seed for any reason, including restoration projects, nursery establishment and even gardening. The demand for native and local seed is growing. With increased mining development in remote areas, the demand for local native seed for restoration will continue to increase. This research will contribute to the knowledge of collecting wild seed from native species and improve the success of these collection programs. This work could provide a base for small business development in remote communities.</gco:CharacterString>
+            </gmd:abstract>
+            <gmd:topicCategory>
+                <gco:CharacterString>Earth and Environmental Sciences</gco:CharacterString>
+            </gmd:topicCategory>
+            <gmd:topicCategory>
+                <gco:CharacterString>Other</gco:CharacterString>
+            </gmd:topicCategory>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>local native seed</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>restoration planning</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>ecological restoration</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>seed value</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>seed collection</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>subarctic environment</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:MD_KeywordTypeCode>
+                        <gmd:type>
+                            <gmd:MD_KeywordTypeCode>subTopicCategory</gmd:MD_KeywordTypeCode>
+                        </gmd:type>
+                    </gmd:MD_KeywordTypeCode>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:additionalDocumentation>
+                <gmd:CI_Citation>
+                    <gmd:otherCitationDetails>
+                        <gco:CharacterString>Rantala-Sykes, B., 2017. Developing protocols for the collection and valuation of wild native seed from the Hudson Bay Lowland [thesis]. Sudbury: Laurentian University.</gco:CharacterString>
+                    </gmd:otherCitationDetails>
+                    <gmd:identifier>
+                        <gmd:MD_Identifier>
+                            <gmd:codeSpace>
+                                <gco:CharacterString>handle</gco:CharacterString>
+                            </gmd:codeSpace>
+                        </gmd:MD_Identifier>
+                        <gmd:MD_Identifier>
+                            <gmd:code>
+                                <gco:CharacterString>10219/2825</gco:CharacterString>
+                            </gmd:code>
+                        </gmd:MD_Identifier>
+                    </gmd:identifier>
+                </gmd:CI_Citation>
+                <gmd:CI_Citation>
+                    <gmd:onlineResource>
+                        <gmd:CI_OnlineResource>
+                            <gmd:linkage>
+                                <gco:CharacterString>https://zone.biblio.laurentian.ca/handle/10219/2825</gco:CharacterString>
+                            </gmd:linkage>
+                        </gmd:CI_OnlineResource>
+                    </gmd:onlineResource>
+                </gmd:CI_Citation>
+            </gmd:additionalDocumentation>
+            <gmd:supplementalInformation>
+                <gco:CharacterString>This data is associated with the first chapter in the related thesis. Refer to thesis for detailed methods.</gco:CharacterString>
+            </gmd:supplementalInformation>
+            <gmd:defaultLocale>
+                <gmd:PT_Locale>
+                    <gmd:defaultLocale>
+                        <gco:LanguageCode>English</gco:LanguageCode>
+                    </gmd:defaultLocale>
+                </gmd:PT_Locale>
+            </gmd:defaultLocale>
+            <gmd:pointOfContact>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Individual>
+                            <gmd:name>
+                                <gco:CharacterString>Rantala-Sykes, Brittany</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:contactInfo>
+                                <gmd:CI_Citation>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>bgrantalasykes@gmail.com</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Citation>
+                            </gmd:contactInfo>
+                        </gmd:CI_Individual>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>Laurentian University</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:name>
+                                <gco:CharacterString>Scholars Portal Dataverse</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                    <gmd:role>
+                        <gmd:CI_RoleCode>pointOfContact</gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_Responsibility>
+            </gmd:pointOfContact>
+            <gmd:credit>
+                <gco:CharacterString>Natural Sciences and Engineering Research Council of Canada</gco:CharacterString>
+            </gmd:credit>
+            <gmd:credit>
+                <gco:CharacterString>De Beers Canada</gco:CharacterString>
+            </gmd:credit>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                            <gmd:description>Time Period Covered</gmd:description>
+                            <gmd:extent>
+                                <gmd:TimePeriod>
+                                    <gmd:beginPosition>2016-06-02</gmd:beginPosition>
+                                    <gmd:endPosition>2016-10-31</gmd:endPosition>
+                                </gmd:TimePeriod>
+                            </gmd:extent>
+                            <gmd:description>Date of Collection</gmd:description>
+                        </gmd:EX_TemporalExtent>
+                    </gmd:temporalElement>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-95.15483</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>-74.34403</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>56.85904</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>41.68144</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                    </gmd:geographicElement>
+                </gmd:EX_extent>
+            </gmd:extent>
+        </gmd:MD_DataIdentification>
+    </gmd:identificationInfo>
+    <gmd:distributionInfo>
+        <gmd:MD_Distribution>
+            <gmd:distributor>
+                <gmd:MD_Distributor>
+                    <gmd:distributorContact>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>Rantala-Sykes, Brittany</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>originator</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                    </gmd:distributorContact>
+                </gmd:MD_Distributor>
+            </gmd:distributor>
+        </gmd:MD_Distribution>
+    </gmd:distributionInfo>
+</gmd:MD_Metadata>

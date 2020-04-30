@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <gmd:metadataIdentifier>
+        <gmd:MD_Identifier>
+            <gmd:codeSpace>
+                <gco:CharacterString>7c9e41c2-66f0-3d4d-b64c-2c2259c5d9f7</gco:CharacterString>
+            </gmd:codeSpace>
+        </gmd:MD_Identifier>
+    </gmd:metadataIdentifier>
+    <gmd:parentMetadata>
+        <gmd:CI_Citation>
+            <gmd:title>
+                <gco:CharacterString>Residential Schools Locations Dataset (Geodatabase):</gco:CharacterString>
+            </gmd:title>
+            <gmd:identifier>
+                <gmd:MD_Identifier>
+                    <gmd:code>
+                        <gco:CharacterString>10.5683/SP2/JFQ1SZ</gco:CharacterString>
+                    </gmd:code>
+                    <gmd:code>
+                        <gco:CharacterString>doi</gco:CharacterString>
+                    </gmd:code>
+                </gmd:MD_Identifier>
+            </gmd:identifier>
+            <gmd:onlineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gco:CharacterString>https://doi.org/10.5683/SP2/JFQ1SZ</gco:CharacterString>
+                    </gmd:linkage>
+                </gmd:CI_OnlineResource>
+            </gmd:onlineResource>
+            <gmd:citedResponsibilityParty>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>Scholars Portal Dataverse</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                    <gmd:role>
+                        <gmd:CI_RoleCode>publisher</gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_Responsibility>
+            </gmd:citedResponsibilityParty>
+        </gmd:CI_Citation>
+    </gmd:parentMetadata>
+    <gmd:identificationInfo>
+        <gmd:MD_DataIdentification>
+            <gmd:citation>
+                <gmd:CI_Citation>
+                    <gmd:identifier>
+                        <gmd:MD_Identifier>
+                            <gmd:code>
+                                <gco:CharacterString>https://doi.org/10.5683/SP2/JFQ1SZ</gco:CharacterString>
+                            </gmd:code>
+                            <gmd:codeSpace>
+                                <gco:CharacterString>doi</gco:CharacterString>
+                            </gmd:codeSpace>
+                        </gmd:MD_Identifier>
+                    </gmd:identifier>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:DateTime>2019-05-15</gco:DateTime>
+                            </gmd:date>
+                        </gmd:CI_Date>
+                        <gmd:CI_Date>
+                            <gmd:CI_DateTypeCode>publication</gmd:CI_DateTypeCode>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:title>
+                        <gco:CharacterString>Residential Schools Locations Dataset (Geodatabase)</gco:CharacterString>
+                    </gmd:title>
+                    <gmd:citeResponsibleParty>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Orlandini, Rosa</gco:CharacterString>
+                                    </gmd:name>
+                                    <gmd:partyIdentifier>
+                                        <gmd:MD_Identifier>
+                                            <gmd:codeSpace>
+                                                <gco:CharacterString>ORCID</gco:CharacterString>
+                                            </gmd:codeSpace>
+                                            <gmd:code>
+                                                <gco:CharacterString>https://orcid.org/0000-0002-7609-9356</gco:CharacterString>
+                                            </gmd:code>
+                                        </gmd:MD_Identifier>
+                                    </gmd:partyIdentifier>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>York University</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                    </gmd:citeResponsibleParty>
+                    <gmd:edition>
+                        <gco:CharacterString>1:4</gco:CharacterString>
+                    </gmd:edition>
+                </gmd:CI_Citation>
+            </gmd:citation>
+            <gmd:resourceConstraints>
+                <gmd:MD_LegalConstraints>
+                    <gmd:otherConstraints>
+                        <gco:CharacterString>NONE</gco:CharacterString>
+                    </gmd:otherConstraints>
+                </gmd:MD_LegalConstraints>
+            </gmd:resourceConstraints>
+            <gmd:supplementalInformation>
+                <gco:CharacterString/>
+            </gmd:supplementalInformation>
+            <gmd:abstract>
+                <gco:CharacterString>&lt;p&gt;The Residential Schools Locations Dataset in Geodatabase format (IRS_Locations.gbd) contains a feature layer "IRS_Locations" that contains the locations (latitude and longitude) of Residential Schools and student hostels operated by the federal government in Canada.&lt;p&gt;&#13;
+&lt;p&gt;All the residential schools and hostels that are listed in the Residential Schools Settlement Agreement are included in this dataset, as well as several Industrial schools and residential schools that were not part of the IRRSA. This version of the dataset doesn’t include the five schools under the Newfoundland and Labrador Residential Schools Settlement Agreement.&lt;/p&gt;&#13;
+&lt;p&gt;The original school location data was created by the Truth and Reconciliation Commission, and was provided to the researcher (Rosa Orlandini) by the National Centre for Truth and Reconciliation in April 2017. The dataset was created by Rosa Orlandini, and builds upon and enhances the previous work of the Truth and Reconcilation Commission, Morgan Hite (creator of the Atlas of Indian Residential Schools in Canada that was produced for the Tk'emlups First Nation and Justice for Day Scholar's Initiative, and Stephanie Pyne (project lead for the Residential Schools Interactive Map). Each individual school location in this dataset is attributed either to RSIM, Morgan Hite, NCTR or Rosa Orlandini.&lt;/p&gt;&#13;
+&lt;p&gt;Many schools/hostels had several locations throughout the history of the institution. If the school/hostel moved from its’ original location to another property, then the school is considered to have two unique locations in this dataset,the original location and the new location. For example, Lejac Indian Residential School had two locations while it was operating, Stuart Lake and Fraser Lake. If a new school building was constructed on the same property as the original school building, it isn't considered to be a new location, as is the case of Girouard Indian Residential School.When the precise location is known, the coordinates of the main building are provided, and when the precise location of the building isn’t known, an approximate location is provided.&lt;/p&gt;&#13;
+&lt;p&gt;For each residential school institution location, the following information is provided: official names, alternative name, dates of operation, religious affiliation, latitude and longitude coordinates, community location, Indigenous community name, contributor (of the location coordinates), school/institution photo (when available), location point precision, type of school (hostel or residential school) and list of references used to determine the location of the main buildings or sites.&lt;/p&gt;&#13;
+&lt;p&gt;&lt;strong&gt;Access Instructions&lt;/strong&gt;: there are 47 files in this data package. Please download the entire data package by selecting all the 47 files and click on download. Two files will be downloaded, IRS_Locations.gbd.zip and IRS_LocFields.csv. Uncompress the IRS_Locations.gbd.zip. Use QGIS, ArcGIS Pro, and ArcMap to open the feature layer IRS_Locations that is contained within the IRS_Locations.gbd data package. The feature layer is in WGS 1984 coordinate system. There is also detailed file level metadata included in this feature layer file. The IRS_locations.csv provides the full description of the fields and codes used in this dataset. &lt;/p&gt;</gco:CharacterString>
+            </gmd:abstract>
+            <gmd:topicCategory>
+                <gco:CharacterString>Arts and Humanities</gco:CharacterString>
+            </gmd:topicCategory>
+            <gmd:topicCategory>
+                <gco:CharacterString>Social Sciences</gco:CharacterString>
+            </gmd:topicCategory>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Indigenous Youth</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                            <gmd:title>
+                                <gco:CharacterString>Government of Canada Core Subject Thesaurus</gco:CharacterString>
+                            </gmd:title>
+                            <gmd:onlineResource>
+                                <gco:CharacterString>http://canada.multites.net/cst/default.asp?lang=ENG&amp;searchString=Indigenous+youth&amp;op=DISPTERM</gco:CharacterString>
+                            </gmd:onlineResource>
+                        </gmd:CI_Citation>
+                    </gmd:thesaurusName>
+                    <gmd:keyword>
+                        <gco:CharacterString>Residential Schools</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                            <gmd:title>
+                                <gco:CharacterString>Government of Canada Core Subject Thesaurus</gco:CharacterString>
+                            </gmd:title>
+                            <gmd:onlineResource>
+                                <gco:CharacterString>http://canada.multites.net/cst/default.asp?op=DISPTERM&amp;searchString=Residential+schools&amp;lang=ENG</gco:CharacterString>
+                            </gmd:onlineResource>
+                        </gmd:CI_Citation>
+                    </gmd:thesaurusName>
+                    <gmd:MD_KeywordTypeCode>
+                        <gmd:type>
+                            <gmd:MD_KeywordTypeCode>subTopicCategory</gmd:MD_KeywordTypeCode>
+                        </gmd:type>
+                    </gmd:MD_KeywordTypeCode>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:defaultLocale>
+                <gmd:PT_Locale>
+                    <gmd:defaultLocale>
+                        <gco:LanguageCode>English</gco:LanguageCode>
+                    </gmd:defaultLocale>
+                </gmd:PT_Locale>
+            </gmd:defaultLocale>
+            <gmd:pointOfContact>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Individual>
+                            <gmd:name>
+                                <gco:CharacterString>Orlandini, Rosa</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:contactInfo>
+                                <gmd:CI_Citation>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>rorlan@yorku.ca</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Citation>
+                            </gmd:contactInfo>
+                        </gmd:CI_Individual>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>York University</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:name>
+                                <gco:CharacterString>Scholars Portal Dataverse</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                    <gmd:role>
+                        <gmd:CI_RoleCode>pointOfContact</gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_Responsibility>
+            </gmd:pointOfContact>
+            <gmd:environmentDescription>
+                <gco:CharacterString>Excel</gco:CharacterString>
+            </gmd:environmentDescription>
+            <gmd:environmentDescription>
+                <gco:CharacterString>ArcGIS Desktop 10.5</gco:CharacterString>
+            </gmd:environmentDescription>
+            <gmd:additionalDocumentation>
+                <gmd:CI_Citation>
+                    <gmd:series>
+                        <gmd:CI_Series>
+                            <gmd:name>
+                                <gco:CharacterString/>
+                            </gmd:name>
+                        </gmd:CI_Series>
+                    </gmd:series>
+                    <gmd:otherCitationDetails>
+                        <gco:CharacterString>This dataset is also available in Shapefile format &lt;a href="https://doi.org/10.5683/SP2/FJG5TG"&gt;https://doi.org/10.5683/SP2/FJG5TG&lt;/a&gt; and CSV Format &lt;a href="https://doi.org/10.5683/SP2/RIYEMU"&gt; https://doi.org/10.5683/SP2/RIYEMU&lt;/a&gt;</gco:CharacterString>
+                    </gmd:otherCitationDetails>
+                </gmd:CI_Citation>
+            </gmd:additionalDocumentation>
+            <gmd:credit>
+                <gco:CharacterString>York University: Hosting Institution</gco:CharacterString>
+            </gmd:credit>
+            <gmd:credit>
+                <gco:CharacterString>Truth and Reconciliation Commission: Data Collector</gco:CharacterString>
+            </gmd:credit>
+            <gmd:credit>
+                <gco:CharacterString>Orlandini, Rosa: Data Curator</gco:CharacterString>
+            </gmd:credit>
+            <gmd:credit>
+                <gco:CharacterString>Hite, Morgan: Data Collector</gco:CharacterString>
+            </gmd:credit>
+            <gmd:credit>
+                <gco:CharacterString>National Centre for Truth and Reconcilation: Sponsor</gco:CharacterString>
+            </gmd:credit>
+            <gmd:credit>
+                <gco:CharacterString>Orlandini, Rosa: Data Collector</gco:CharacterString>
+            </gmd:credit>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                            <gmd:extent>
+                                <gmd:TimePeriod>
+                                    <gmd:beginPosition>1863-01-01</gmd:beginPosition>
+                                    <gmd:endPosition>1998-06-30</gmd:endPosition>
+                                </gmd:TimePeriod>
+                            </gmd:extent>
+                            <gmd:description>Time Period Covered</gmd:description>
+                            <gmd:extent>
+                                <gmd:TimePeriod>
+                                    <gmd:beginPosition>2008-06-02</gmd:beginPosition>
+                                    <gmd:endPosition>2019-02-01</gmd:endPosition>
+                                </gmd:TimePeriod>
+                            </gmd:extent>
+                            <gmd:description>Date of Collection</gmd:description>
+                        </gmd:EX_TemporalExtent>
+                    </gmd:temporalElement>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-141.0</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>-52.636291</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>83.110626</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>41.67598</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-139.436741</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>-63.410545</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>72.700413</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>42.80722</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                    </gmd:geographicElement>
+                </gmd:EX_extent>
+            </gmd:extent>
+        </gmd:MD_DataIdentification>
+    </gmd:identificationInfo>
+    <gmd:dataQualityInfo>
+        <gmd:DQ_DataQuality>
+            <gmd:scope>
+                <gmd:resourceLineage>
+                    <gmd:LI_Lineage>
+                        <gmd:statement>
+                            <gco:CharacterString>The information pertaining to the official school names and alternate, dates of opening and closing and religious affiliation were provided by the National Centre for Truth and Reconciliation. The school location data was collected by the Truth and Reconciliation Commission/National Centre for Truth and Reconciliation, Morgan Hite, Residential Schools Land Memory Mapping Project/Stephanie Pyne, and Rosa Orlandini. Rosa Orlandini verified the location data using primary and secondary sources: aerial photographs, survey plans, topographic maps, sketch maps, engineering and architectural drawings, photographs, manuscripts, journal articles, magazine articles, government reports and documents, websites, local history books, and archaeological reports.</gco:CharacterString>
+                        </gmd:statement>
+                        <gmd:processStep>
+                            <gmd:LI_ProcessStep>
+                                <gmd:description>
+                                    <gco:CharacterString>The sources came from the National Centre for Truth and Reconciliation, Library Archives Canada, Canada Lands Survey, National Air Photo Library, Archives of Ontario, York University Libraries, Toronto Public Libraries, numerous church archives (Presbyterian, Anglican, United Church, and Roman Catholic), government websites, museums and other cultural institutions.</gco:CharacterString>
+                                </gmd:description>
+                            </gmd:LI_ProcessStep>
+                        </gmd:processStep>
+                        <gmd:additionalDocumentation>
+                            <gmd:CI_Citation>
+                                <gmd:otherCitationDetails>
+                                    <gco:CharacterString>Please contact Rosa Orlandini for a the list of 900+ sources that were used to compile this dataset.</gco:CharacterString>
+                                </gmd:otherCitationDetails>
+                            </gmd:CI_Citation>
+                        </gmd:additionalDocumentation>
+                    </gmd:LI_Lineage>
+                </gmd:resourceLineage>
+            </gmd:scope>
+        </gmd:DQ_DataQuality>
+    </gmd:dataQualityInfo>
+    <gmd:distributionInfo>
+        <gmd:MD_Distribution>
+            <gmd:distributor>
+                <gmd:MD_Distributor>
+                    <gmd:distributorContact>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>Orlandini, Rosa</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>originator</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                    </gmd:distributorContact>
+                </gmd:MD_Distributor>
+            </gmd:distributor>
+        </gmd:MD_Distribution>
+    </gmd:distributionInfo>
+</gmd:MD_Metadata>

@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <gmd:metadataIdentifier>
+        <gmd:MD_Identifier>
+            <gmd:codeSpace>
+                <gco:CharacterString>bde09695-6e2d-3424-a4df-ad5ca753081e</gco:CharacterString>
+            </gmd:codeSpace>
+        </gmd:MD_Identifier>
+    </gmd:metadataIdentifier>
+    <gmd:parentMetadata>
+        <gmd:CI_Citation>
+            <gmd:title>
+                <gco:CharacterString>McMaster Weather Station (MUWS) Data:</gco:CharacterString>
+            </gmd:title>
+            <gmd:identifier>
+                <gmd:MD_Identifier>
+                    <gmd:code>
+                        <gco:CharacterString>10864/10559</gco:CharacterString>
+                    </gmd:code>
+                    <gmd:code>
+                        <gco:CharacterString>handle</gco:CharacterString>
+                    </gmd:code>
+                </gmd:MD_Identifier>
+            </gmd:identifier>
+            <gmd:onlineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gco:CharacterString>https://hdl.handle.net/10864/10559</gco:CharacterString>
+                    </gmd:linkage>
+                </gmd:CI_OnlineResource>
+            </gmd:onlineResource>
+            <gmd:citedResponsibilityParty>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>Scholars Portal Dataverse</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                    <gmd:role>
+                        <gmd:CI_RoleCode>publisher</gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_Responsibility>
+            </gmd:citedResponsibilityParty>
+        </gmd:CI_Citation>
+    </gmd:parentMetadata>
+    <gmd:identificationInfo>
+        <gmd:MD_DataIdentification>
+            <gmd:citation>
+                <gmd:CI_Citation>
+                    <gmd:identifier>
+                        <gmd:MD_Identifier>
+                            <gmd:code>
+                                <gco:CharacterString>https://hdl.handle.net/10864/10559</gco:CharacterString>
+                            </gmd:code>
+                            <gmd:codeSpace>
+                                <gco:CharacterString>hdl</gco:CharacterString>
+                            </gmd:codeSpace>
+                        </gmd:MD_Identifier>
+                    </gmd:identifier>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:DateTime>2014-01-24</gco:DateTime>
+                            </gmd:date>
+                        </gmd:CI_Date>
+                        <gmd:CI_Date>
+                            <gmd:CI_DateTypeCode>publication</gmd:CI_DateTypeCode>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:title>
+                        <gco:CharacterString>McMaster Weather Station (MUWS) Data</gco:CharacterString>
+                    </gmd:title>
+                    <gmd:citeResponsibleParty>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Jason Brodeur</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>McMaster University</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                    </gmd:citeResponsibleParty>
+                    <gmd:edition>
+                        <gco:CharacterString>1:0</gco:CharacterString>
+                    </gmd:edition>
+                </gmd:CI_Citation>
+            </gmd:citation>
+            <gmd:resourceConstraints>
+                <gmd:MD_LegalConstraints>
+                    <gmd:otherConstraints>
+                        <gco:CharacterString>NONE</gco:CharacterString>
+                    </gmd:otherConstraints>
+                </gmd:MD_LegalConstraints>
+            </gmd:resourceConstraints>
+            <gmd:supplementalInformation>
+                <gco:CharacterString>FileTypes: .txt</gco:CharacterString>
+            </gmd:supplementalInformation>
+            <gmd:abstract>
+                <gco:CharacterString>Introduction&#13; McMaster Weather Station is operated by the Hydrometeorology and Climatology Lab in the School of Geography and Earth Sciences, &#13; McMaster University, Hamilton, Ontario, Canada. It is being supervised by Dr. Altaf Arain, Professor in the School. &#13; The primary purpose of this weather station is to support undergraduate and graduate teaching and serve the campus and &#13; surrounding community in west Hamilton. &#13; The station was established in October 2007 and a number of meteorological
+variables are being measured. Those using data are &#13; encouraged to check sensor details. &#13; &#13; Note: A large open space free of surrounding obstacles was not available at McMaster University campus to install this weather station. &#13; General Science Building roof top was the most appropriate location, available.  &#13; ================================================================&#13; * Station location:&#13; &#13; McMaster University, 1280 Main Street West, Hamilton, Ontario, L8S 4K1, Canada.&#13; Latitude: 43°15'
+42.93" N&#13; Longitude: 79°  55'  11.86" W&#13; Ground elevation: 90 m above sea level&#13; Roof surface elevation: 114 m above sea level&#13; &#13; ================================================================&#13; * Sensor descriptions and heights:&#13; &#13; 1. Wind sensor at 7m above the roof surface&#13; - Wind speed and wind direction are measured using R.M. Young Wind Monitor, model 05103. The wind speed sensor is a helicoid-shaped, &#13; four-blade propeller-type, anemometer, with fuselage and tail wind vane.&#13; (http://ww
+w.campbellsci.com/05103-l)&#13; &#13; 2. Radiation sensor at 2m above the roof surface&#13; - Measured using four-sensor net radiometer, manufactured by the Kipp and Zonen, model CNR1. The radiometer measures the energy &#13; balance between incoming short-wave (CM3 sensor) and long-wave (CG3 sensor) radiation versus surface reflected shortwave and outgoing longwave radiation. &#13; The CNR1 also includes a sensor to measure the radiometer's internal temperature and a heater that is used to prevent condensation.&#13; (
+http://www.kippzonen.com/Product/33/CNR-1)&#13; &#13; 3. Air temperature and humidity sensors at 2 m above the roof surface&#13; - Air temperature and relative humidity are measured using Vaisala RH and Temperature Probe, model HMP45C. Probe is covered with a radiation shield. &#13; The probe uses a capacitive polymer H chip to measure RH and a PRT to measure temperature.&#13; (http://www.campbellsci.com/hmp45c-l)&#13; &#13; 4. Barometer at 1.5 m above the roof surface&#13; - Atmospheric pressure is measured by R.M. Young Baro
+metric Pressure Sensor, model 61205.&#13; &#13; 5. Rain gauge at 1 m above the roof surface&#13; - Precipitation is measured by a R.M. Young Tipping Bucket Rain Gauge, model 52202, which meets the specifications of the World Meteorological Organization (WMO). &#13; It is heated for operation in cold temperatures.&#13; (http://www.campbellsci.ca/52202)&#13; &#13; Data File Description:&#13; - Data are available as comma-separated, ASCII-encoded files, produced separately for each year.  Three files are created for each year, wh
+ich reflect the time&#13; step of measurements:&#13; 1. 15-minute files (e.g. MCM_WX_Met_Stn_Met2_2010.csv) are time series of variables, calculated by the data logging software as the average (or sum) value&#13; for all 5-second sample measurements within that period.  The values reported represent the mean for the preceding 15 minutes. &#13; 2*. Hourly files (e.g. MCM_WX_Met_Stn_Met2_2010_Hourly.csv) are aggregated at hourly time steps from the 15-minute files.&#13; 3*. Daily files (e.g. MCM_WX_Met_Stn_Met2_2010_
+Daily.csv) are aggregated at daily time steps from the 15-minute files.
+* Note that some variables (e.g. Albedo) are not well-represented by the hourly and daily aggregation. Therefore, it is recommended for the 15-minute files to be &#13; used as the bases for further analyses&#13; &#13; ================================================================&#13; * Descriptions of Variables&#13; &#13; Year	(EST) &#13; JulianDay	(EST) - Day of year (1-365 or 366)&#13; End_Time	(HrMn_EST) -ending Hour and Minute of samples used to make average&#13; Month	(EST)&#13; Day	(EST)&#13; CM3_DownSW_Avg	(W/m2)	 - Mean dow
+n-welling shortwave radiation&#13; CM3_DownSW_Max	(W/m2)	 - Maximum down-welling shortwave radiation&#13; CM3_DownSW_Min	(W/m2)	 - Minimum down-welling shortwave radiation&#13; CM3_UpSW_Avg	(W/m2)	 - Mean up-welling shortwave radiation&#13; CM3_UpSW_Max	(W/m2)	 - Maximum up-welling shortwave radiation&#13; CM3_UpSW_Min	(W/m2)	 - Minimum up-welling shortwave radiation&#13; CNR1_DownLW_Avg	(W/m2)	 - Mean down-welling longwave radiation&#13; CNR1_UpLW_Avg	(W/m2)	 - Mean up-welling longwave radiation&#13; CNR1_Temp_Avg	(degC)	 - M
+ean CNR1 correction temperature (not air temperature)&#13; CNR1_NetRad_SW_Avg	(W/m2)	 - Mean net shortwave radiation&#13; CNR1_NetRad_LW_Avg	(W/m2)	 - Mean net longwave radiation&#13; Albedo_Avg	(n/a)	 - Mean  albedo&#13; CNR1_DownSW_Avg	(W/m2)	 - Mean down-welling shortwave radiation&#13; CNR1_UpSW_Avg	(W/m2)	 - Mean up-welling shortwave radiation&#13; CNR1_NetRad_Avg	(W/m2)	 - Mean net radiation&#13; PanelTemp_Avg	(degC)	 - Mean datalogger panel temperature (not air temperature)&#13; HMP45C_AirTemp_Avg	(degC)	 - Mean  air te
+mperature&#13; HMP45C_AirTemp_Max	(degC)	 - Maximum  air temperature&#13; HMP45C_AirTemp_Min	(degC)	 - Minimum  air temperature&#13; WindChill_Avg	(degC)	 - Mean wind chill temperature&#13; HMP45C_RelHum_Avg	(%)	 - Mean  relative humidity&#13; HMP45C_RelHum_Max	(%)	 - Maximum  relative humidity&#13; HMP45C_RelHum_Min	(%)	 - Minimum  relative humidity&#13; DewPoint_Avg	(degC)	 - Mean  Dewpoint temperature&#13; VapPres_Avg	(kPa)	 - Mean  vapour pressure&#13; SatVapPres_Avg	(kPa)	 - Mean  saturation vapour pressure&#13; Humidex_Avg	(degC
+)	 - Mean  humidex&#13; WindSpd_m/s_Avg	(m/s)	 - Mean  wind speed&#13; WindDir_Avg	(deg)	 - Mean  wind direction&#13; WindDir_Std_Avg	(deg)	 - Mean  wind direction&#13; WindSpd_k/h_Avg	(k/h)	 - Mean  wind speed&#13; WindDir2_Avg	(deg)	 - Mean  wind direction&#13; WindDir_Std2_Avg	(deg)	 - Mean  wind direction&#13; WindSpd_k/h_Max	(k/h)	 - Maximum  wind speed&#13; WindDir_WindSpd_Max	(deg)	 - Wind direction at maximum wind speed  &#13; WindSpd_k/h_Min	(k/h)	 - Minimum  wind speed&#13; WindDir_WindSpd_Min	(deg)	 - Wind direction at mini
+mum wind speed  &#13; Pressure_Raw_Avg	(kPa)	 - Mean  barometric pressure (uncorrected)&#13; Pressure	(kPa)	 - Mean  barometric pressure (corrected)&#13; Pressure_Max	(kPa)	 - Maximum  barometric pressure&#13; Pressure_Min	(kPa)	 - Minimum  barometric pressure&#13; Precipitation_Sum	(mm)	 - Summed  precipitation&#13; CertificationCode	(n/a)	 -   &#13; RevisionDate	(YYYYMMDD)	 - Last date of update</gco:CharacterString>
+            </gmd:abstract>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>weather, mcmaster, hamilton, ontario</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:MD_KeywordTypeCode>
+                        <gmd:type>
+                            <gmd:MD_KeywordTypeCode>subTopicCategory</gmd:MD_KeywordTypeCode>
+                        </gmd:type>
+                    </gmd:MD_KeywordTypeCode>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:additionalDocumentation>
+                <gmd:CI_Citation>
+                    <gmd:otherCitationDetails>
+                        <gco:CharacterString>None</gco:CharacterString>
+                    </gmd:otherCitationDetails>
+                </gmd:CI_Citation>
+            </gmd:additionalDocumentation>
+            <gmd:pointOfContact>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Individual>
+                            <gmd:name>
+                                <gco:CharacterString>Jason Brodeur</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:contactInfo>
+                                <gmd:CI_Citation>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>brodeujj@mcmaster.ca</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Citation>
+                            </gmd:contactInfo>
+                        </gmd:CI_Individual>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>McMaster University</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:name>
+                                <gco:CharacterString>Scholars Portal Dataverse</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                    <gmd:role>
+                        <gmd:CI_RoleCode>pointOfContact</gmd:CI_RoleCode>
+                    </gmd:role>
+                    <gmd:party>
+                        <gmd:CI_Individual>
+                            <gmd:name>
+                                <gco:CharacterString>School of Geography and Earth Sciences</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Individual>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>McMaster University</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:contactInfo>
+                                <gmd:CI_Citation>
+                                    <gmd:onlineResource>
+                                        <gmd:CI_OnlineResource>
+                                            <gmd:linkage>
+                                                <gco:CharacterString>http://geomedia.mcmaster.ca/muws/index.php</gco:CharacterString>
+                                            </gmd:linkage>
+                                        </gmd:CI_OnlineResource>
+                                    </gmd:onlineResource>
+                                </gmd:CI_Citation>
+                            </gmd:contactInfo>
+                            <gmd:logo>
+                                <gmd:MD_BrowseGraphic>
+                                    <gmd:linkage>
+                                        <gmd:CI_OnlineResource>
+                                            <gmd:linkage>
+                                                <gco:CharacterString>http://www.mcmaster.ca/opr/html/opr/mcmaster_brand/visual_identity/download/full_colour.jpg</gco:CharacterString>
+                                            </gmd:linkage>
+                                        </gmd:CI_OnlineResource>
+                                    </gmd:linkage>
+                                </gmd:MD_BrowseGraphic>
+                            </gmd:logo>
+                        </gmd:CI_Organisation>
+                        <gmd:role>
+                            <gmd:CI_RoleCode>custodian</gmd:CI_RoleCode>
+                        </gmd:role>
+                    </gmd:party>
+                </gmd:CI_Responsibility>
+            </gmd:pointOfContact>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                            <gmd:extent>
+                                <gmd:TimePeriod>
+                                    <gmd:beginPosition>2009-01-01</gmd:beginPosition>
+                                    <gmd:endPosition>2013-12-31</gmd:endPosition>
+                                </gmd:TimePeriod>
+                            </gmd:extent>
+                            <gmd:description>Time Period Covered</gmd:description>
+                            <gmd:extent>
+                                <gmd:TimePeriod>
+                                    <gmd:beginPosition>2009-01-01</gmd:beginPosition>
+                                    <gmd:endPosition>2013-12-31</gmd:endPosition>
+                                </gmd:TimePeriod>
+                            </gmd:extent>
+                            <gmd:description>Date of Collection</gmd:description>
+                        </gmd:EX_TemporalExtent>
+                    </gmd:temporalElement>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>, Hamilton, Ontario</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Hamilton, Ontario</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-141.0</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>-52.636291</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>83.110626</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>41.67598</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                    </gmd:geographicElement>
+                </gmd:EX_extent>
+            </gmd:extent>
+        </gmd:MD_DataIdentification>
+    </gmd:identificationInfo>
+    <gmd:distributionInfo>
+        <gmd:MD_Distribution>
+            <gmd:distributor>
+                <gmd:MD_Distributor>
+                    <gmd:distributorContact>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>School of Geography and Earth Sciences</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>distributor</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                    </gmd:distributorContact>
+                </gmd:MD_Distributor>
+            </gmd:distributor>
+        </gmd:MD_Distribution>
+    </gmd:distributionInfo>
+</gmd:MD_Metadata>

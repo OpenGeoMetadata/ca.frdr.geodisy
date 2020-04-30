@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <gmd:metadataIdentifier>
+        <gmd:MD_Identifier>
+            <gmd:codeSpace>
+                <gco:CharacterString>726281f4-e80b-3816-9229-fedb20016ab4</gco:CharacterString>
+            </gmd:codeSpace>
+        </gmd:MD_Identifier>
+    </gmd:metadataIdentifier>
+    <gmd:parentMetadata>
+        <gmd:CI_Citation>
+            <gmd:title>
+                <gco:CharacterString>Leisure, lifestyle, and lifecycle project (LLLP): A longitudinal study of gambling in Alberta [Canada]:</gco:CharacterString>
+            </gmd:title>
+            <gmd:identifier>
+                <gmd:MD_Identifier>
+                    <gmd:code>
+                        <gco:CharacterString>10.5683/SP2/Z7YEYI</gco:CharacterString>
+                    </gmd:code>
+                    <gmd:code>
+                        <gco:CharacterString>doi</gco:CharacterString>
+                    </gmd:code>
+                </gmd:MD_Identifier>
+            </gmd:identifier>
+            <gmd:onlineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gco:CharacterString>https://doi.org/10.5683/SP2/Z7YEYI</gco:CharacterString>
+                    </gmd:linkage>
+                </gmd:CI_OnlineResource>
+            </gmd:onlineResource>
+            <gmd:citedResponsibilityParty>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>Scholars Portal Dataverse</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                    <gmd:role>
+                        <gmd:CI_RoleCode>publisher</gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_Responsibility>
+            </gmd:citedResponsibilityParty>
+        </gmd:CI_Citation>
+    </gmd:parentMetadata>
+    <gmd:identificationInfo>
+        <gmd:MD_DataIdentification>
+            <gmd:citation>
+                <gmd:CI_Citation>
+                    <gmd:identifier>
+                        <gmd:MD_Identifier>
+                            <gmd:code>
+                                <gco:CharacterString>https://doi.org/10.5683/SP2/Z7YEYI</gco:CharacterString>
+                            </gmd:code>
+                            <gmd:codeSpace>
+                                <gco:CharacterString>doi</gco:CharacterString>
+                            </gmd:codeSpace>
+                        </gmd:MD_Identifier>
+                    </gmd:identifier>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:DateTime>2019-01-30</gco:DateTime>
+                            </gmd:date>
+                        </gmd:CI_Date>
+                        <gmd:CI_Date>
+                            <gmd:CI_DateTypeCode>publication</gmd:CI_DateTypeCode>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:title>
+                        <gco:CharacterString>Leisure, lifestyle, and lifecycle project (LLLP): A longitudinal study of gambling in Alberta [Canada]</gco:CharacterString>
+                    </gmd:title>
+                    <gmd:citeResponsibleParty>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>el-Guebaly, Nady</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Casey, David M.</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Currie, Shawn R.</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Hodgins, David C.</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Schopflocher, Donald P.</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Smith, Garry J.</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Williams, Robert J.</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                    </gmd:citeResponsibleParty>
+                    <gmd:edition>
+                        <gco:CharacterString>2:0</gco:CharacterString>
+                    </gmd:edition>
+                </gmd:CI_Citation>
+            </gmd:citation>
+            <gmd:resourceConstraints>
+                <gmd:MD_LegalConstraints>
+                    <gmd:otherConstraints>
+                        <gco:CharacterString>NONE</gco:CharacterString>
+                    </gmd:otherConstraints>
+                </gmd:MD_LegalConstraints>
+            </gmd:resourceConstraints>
+            <gmd:supplementalInformation>
+                <gco:CharacterString>FileTypes: .pdf</gco:CharacterString>
+            </gmd:supplementalInformation>
+            <gmd:abstract>
+                <gco:CharacterString>&lt;p&gt;&lt;em&gt;The Leisure, Lifestyle, and Lifecycle Project (LLLP)&lt;/em&gt; is a five-year longitudinal study that was conducted by the Alberta Gambling Research Institute (AGRI). Prior to the LLLP, knowledge of problem gambling risk factors had been derived mainly from cross-sectional and retrospective studies of people coping with disordered gambling. This project was developed with the understanding that prevention and early intervention services for disordered gambling could be better informed by a rigorous longitudinal study of the natural progression of gambling in the general population.&lt;/p&gt;&#13;
+&lt;p&gt;In order to examine the determinants and the course of both non-problematic gambling and problem gambling, the LLLP surveys collected data on a number of gambling-specific and general aspects of the responders' lives. The LLLP contains data relating to gambling-specific information, including:&lt;/p&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;demographics;&lt;/li&gt;&#13;
+&lt;li&gt;past year and lifetime gambling behaviour;&lt;/li&gt;&#13;
+&lt;li&gt;gambling attitudes and beliefs in gambling fallacies;&lt;/li&gt;&#13;
+&lt;li&gt;motivations for gambling;&lt;/li&gt;&#13;
+&lt;li&gt;stigma experienced from gambling; and&lt;/li&gt;&#13;
+&lt;li&gt;family history of gambling.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;p&gt;In addition to gambling-specific data, the LLLP survey contains a number of general data variables, including:&lt;/p&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;general/physical health;&lt;/li&gt;&#13;
+&lt;li&gt;psychological factors (personality and temperament, psychopathology, coping strategies);&lt;/li&gt;&#13;
+&lt;li&gt;comorbid factors (ADHD, eating disorders, substance use disorders);&lt;/li&gt;&#13;
+&lt;li&gt;cultural factors (religiosity) and;&lt;/li&gt;&#13;
+&lt;li&gt;social factors (social support/networks, non-gambling activity participation).&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;p&gt;A sample of 1,808 participants was recruited from four diverse regions of Alberta: Edmonton, Calgary, Lethbridge, and Grand Prairie. Participants were recruited primarily by random digit dialing, and five critical age ranges were targeted (13-15, 18-20, 23-25, and 63-65 year-olds) in order to assess problem gambling development throughout the lifespan. There are two separate LLLP datasets: one for adolescents (&lt;em&gt;n=&lt;/em&gt;436) and another for adults (&lt;em&gt;n=&lt;/em&gt;1,372). Data were collected over four waves, with a retention rate of 71.8% for adolescents and 76.2% for adults. A subsequent wave, combining adolescent and adult participants, was undertaken in 2013-2014. Additional information on sampling, retention, study variables, and survey questionnaires can be located in the &lt;em&gt;LLLP User Manual&lt;/em&gt;. &lt;/p&gt;</gco:CharacterString>
+            </gmd:abstract>
+            <gmd:topicCategory>
+                <gco:CharacterString>Medicine, Health and Life Sciences</gco:CharacterString>
+            </gmd:topicCategory>
+            <gmd:topicCategory>
+                <gco:CharacterString>Social Sciences</gco:CharacterString>
+            </gmd:topicCategory>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Canadian Problem Gambling Index (CPGI)</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>gambling</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>gambling involvement</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>gambling behaviour</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>longitudinal study</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:MD_KeywordTypeCode>
+                        <gmd:type>
+                            <gmd:MD_KeywordTypeCode>subTopicCategory</gmd:MD_KeywordTypeCode>
+                        </gmd:type>
+                    </gmd:MD_KeywordTypeCode>
+                </gmd:MD_Keywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Compulsive gamblers</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                            <gmd:title>
+                                <gco:CharacterString>LOC Subject Headings</gco:CharacterString>
+                            </gmd:title>
+                            <gmd:onlineResource>
+                                <gmd:CI_OnlineResource>
+                                    <gmd:linkage>
+                                        <gco:CharacterString>http://id.loc.gov/authorities/subjects/sh92002418.html</gco:CharacterString>
+                                    </gmd:linkage>
+                                </gmd:CI_OnlineResource>
+                            </gmd:onlineResource>
+                        </gmd:CI_Citation>
+                    </gmd:thesaurusName>
+                    <gmd:keyword>
+                        <gco:CharacterString>Compulsive gambling</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                            <gmd:title>
+                                <gco:CharacterString>LOC Subject Headings</gco:CharacterString>
+                            </gmd:title>
+                            <gmd:onlineResource>
+                                <gmd:CI_OnlineResource>
+                                    <gmd:linkage>
+                                        <gco:CharacterString>http://id.loc.gov/authorities/subjects/sh85029466.html</gco:CharacterString>
+                                    </gmd:linkage>
+                                </gmd:CI_OnlineResource>
+                            </gmd:onlineResource>
+                        </gmd:CI_Citation>
+                    </gmd:thesaurusName>
+                    <gmd:keyword>
+                        <gco:CharacterString>Gambling--Psychological aspects</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                            <gmd:title>
+                                <gco:CharacterString>LOC Subject Headings</gco:CharacterString>
+                            </gmd:title>
+                            <gmd:onlineResource>
+                                <gmd:CI_OnlineResource>
+                                    <gmd:linkage>
+                                        <gco:CharacterString>http://id.loc.gov/authorities/subjects/sh2009125662</gco:CharacterString>
+                                    </gmd:linkage>
+                                </gmd:CI_OnlineResource>
+                            </gmd:onlineResource>
+                        </gmd:CI_Citation>
+                    </gmd:thesaurusName>
+                    <gmd:keyword>
+                        <gco:CharacterString>Gambling</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                            <gmd:title>
+                                <gco:CharacterString>LOC Subject Headings</gco:CharacterString>
+                            </gmd:title>
+                            <gmd:onlineResource>
+                                <gmd:CI_OnlineResource>
+                                    <gmd:linkage>
+                                        <gco:CharacterString>http://id.loc.gov/authorities/subjects/sh85052909</gco:CharacterString>
+                                    </gmd:linkage>
+                                </gmd:CI_OnlineResource>
+                            </gmd:onlineResource>
+                        </gmd:CI_Citation>
+                    </gmd:thesaurusName>
+                    <gmd:keyword>
+                        <gco:CharacterString>Research</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                            <gmd:title>
+                                <gco:CharacterString>LOC Subject Headings</gco:CharacterString>
+                            </gmd:title>
+                            <gmd:onlineResource>
+                                <gmd:CI_OnlineResource>
+                                    <gmd:linkage>
+                                        <gco:CharacterString>http://id.loc.gov/authorities/subjects/sh85113021</gco:CharacterString>
+                                    </gmd:linkage>
+                                </gmd:CI_OnlineResource>
+                            </gmd:onlineResource>
+                        </gmd:CI_Citation>
+                    </gmd:thesaurusName>
+                    <gmd:keyword>
+                        <gco:CharacterString>Pathological gambling</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                            <gmd:title>
+                                <gco:CharacterString>ICD-10</gco:CharacterString>
+                            </gmd:title>
+                            <gmd:onlineResource>
+                                <gmd:CI_OnlineResource>
+                                    <gmd:linkage>
+                                        <gco:CharacterString>https://icd.who.int/browse10/2010/en#/F63.0</gco:CharacterString>
+                                    </gmd:linkage>
+                                </gmd:CI_OnlineResource>
+                            </gmd:onlineResource>
+                        </gmd:CI_Citation>
+                    </gmd:thesaurusName>
+                    <gmd:keyword>
+                        <gco:CharacterString>Gambling and betting</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                            <gmd:title>
+                                <gco:CharacterString>ICD-10</gco:CharacterString>
+                            </gmd:title>
+                            <gmd:onlineResource>
+                                <gmd:CI_OnlineResource>
+                                    <gmd:linkage>
+                                        <gco:CharacterString>https://icd.who.int/browse10/2010/en#/Z72.6</gco:CharacterString>
+                                    </gmd:linkage>
+                                </gmd:CI_OnlineResource>
+                            </gmd:onlineResource>
+                        </gmd:CI_Citation>
+                    </gmd:thesaurusName>
+                    <gmd:MD_KeywordTypeCode>subTopicCategory,</gmd:MD_KeywordTypeCode>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:additionalDocumentation>
+                <gmd:CI_Citation>
+                    <gmd:otherCitationDetails>
+                        <gco:CharacterString>El-Guebaly, N., Casey, D. M., Currie, S. R., Hodgins, D. C., Schopflocher, D. P., Smith, G. J., &amp; Williams, R. J. (2015). The Leisure, Lifestyle, and Lifecycle Project (LLLP): A longitudinal study of gambling in Alberta. Final report for the Alberta Gambling Research Institute.</gco:CharacterString>
+                    </gmd:otherCitationDetails>
+                    <gmd:identifier>
+                        <gmd:MD_Identifier>
+                            <gmd:codeSpace>
+                                <gco:CharacterString>doi</gco:CharacterString>
+                            </gmd:codeSpace>
+                        </gmd:MD_Identifier>
+                    </gmd:identifier>
+                </gmd:CI_Citation>
+                <gmd:CI_Citation>
+                    <gmd:onlineResource>
+                        <gmd:CI_OnlineResource>
+                            <gmd:linkage>
+                                <gco:CharacterString>http://dx.doi.org/10.11575/PRISM/9908</gco:CharacterString>
+                            </gmd:linkage>
+                        </gmd:CI_OnlineResource>
+                    </gmd:onlineResource>
+                </gmd:CI_Citation>
+            </gmd:additionalDocumentation>
+            <gmd:defaultLocale>
+                <gmd:PT_Locale>
+                    <gmd:defaultLocale>
+                        <gco:LanguageCode>English</gco:LanguageCode>
+                    </gmd:defaultLocale>
+                </gmd:PT_Locale>
+            </gmd:defaultLocale>
+            <gmd:pointOfContact>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Individual>
+                            <gmd:name>
+                                <gco:CharacterString>GREO, Evidence Centre</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:contactInfo>
+                                <gmd:CI_Citation>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>dataset@greo.ca</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Citation>
+                            </gmd:contactInfo>
+                        </gmd:CI_Individual>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>Gambling Research Exchange Ontario</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:name>
+                                <gco:CharacterString>Scholars Portal Dataverse</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                    <gmd:role>
+                        <gmd:CI_RoleCode>pointOfContact</gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_Responsibility>
+            </gmd:pointOfContact>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                            <gmd:description>Time Period Covered</gmd:description>
+                            <gmd:extent>
+                                <gmd:TimePeriod>
+                                    <gmd:beginPosition>2006-02-01</gmd:beginPosition>
+                                    <gmd:endPosition>2006-10-31</gmd:endPosition>
+                                </gmd:TimePeriod>
+                            </gmd:extent>
+                            <gmd:extent>
+                                <gmd:TimePeriod>
+                                    <gmd:beginPosition>2007-11-01</gmd:beginPosition>
+                                    <gmd:endPosition>2008-07-31</gmd:endPosition>
+                                </gmd:TimePeriod>
+                            </gmd:extent>
+                            <gmd:extent>
+                                <gmd:TimePeriod>
+                                    <gmd:beginPosition>2009-07-31</gmd:beginPosition>
+                                    <gmd:endPosition>2010-05-31</gmd:endPosition>
+                                </gmd:TimePeriod>
+                            </gmd:extent>
+                            <gmd:extent>
+                                <gmd:TimePeriod>
+                                    <gmd:beginPosition>2011-02-01</gmd:beginPosition>
+                                    <gmd:endPosition>2011-10-31</gmd:endPosition>
+                                </gmd:TimePeriod>
+                            </gmd:extent>
+                            <gmd:extent>
+                                <gmd:TimePeriod>
+                                    <gmd:beginPosition>2013-05-31</gmd:beginPosition>
+                                    <gmd:endPosition>2014-06-30</gmd:endPosition>
+                                </gmd:TimePeriod>
+                            </gmd:extent>
+                            <gmd:description>Date of Collection</gmd:description>
+                        </gmd:EX_TemporalExtent>
+                    </gmd:temporalElement>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Alberta, Edmonton</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Alberta, Calgary</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Alberta, Lethbridge</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Alberta, Grand Prairie</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-113.7137</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>-113.2715</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>53.7161</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>53.3956</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-114.315759</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>-113.860002</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>51.2</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>50.842526</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-113.276833</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>-112.217613</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>50.13</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>49.52359</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-120.0014</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>-118.1435</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>55.5638</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>54.7267</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                    </gmd:geographicElement>
+                </gmd:EX_extent>
+            </gmd:extent>
+        </gmd:MD_DataIdentification>
+    </gmd:identificationInfo>
+    <gmd:distributionInfo>
+        <gmd:MD_Distribution>
+            <gmd:distributor>
+                <gmd:MD_Distributor>
+                    <gmd:distributorContact>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>Gambling Research Exchange Ontario, </gco:CharacterString>
+                                    </gmd:name>
+                                    <gmd:contactInfo>
+                                        <gmd:CI_Citation>
+                                            <gmd:onlineResource>
+                                                <gmd:CI_OnlineResource>
+                                                    <gmd:linkage>
+                                                        <gco:CharacterString>http://www.greo.ca/</gco:CharacterString>
+                                                    </gmd:linkage>
+                                                </gmd:CI_OnlineResource>
+                                            </gmd:onlineResource>
+                                        </gmd:CI_Citation>
+                                    </gmd:contactInfo>
+                                    <gmd:logo>
+                                        <gmd:MD_BrowseGraphic>
+                                            <gmd:linkage>
+                                                <gmd:CI_OnlineResource>
+                                                    <gmd:linkage>
+                                                        <gco:CharacterString>http://www.greo.ca/en/images/structure/logo.svg</gco:CharacterString>
+                                                    </gmd:linkage>
+                                                </gmd:CI_OnlineResource>
+                                            </gmd:linkage>
+                                        </gmd:MD_BrowseGraphic>
+                                    </gmd:logo>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>distributor</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>GREO, Evidence Centre</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>originator</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                    </gmd:distributorContact>
+                </gmd:MD_Distributor>
+            </gmd:distributor>
+        </gmd:MD_Distribution>
+    </gmd:distributionInfo>
+</gmd:MD_Metadata>

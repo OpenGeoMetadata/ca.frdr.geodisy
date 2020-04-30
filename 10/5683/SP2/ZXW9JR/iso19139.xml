@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <gmd:metadataIdentifier>
+        <gmd:MD_Identifier>
+            <gmd:codeSpace>
+                <gco:CharacterString>d97a7188-6ebb-3f69-be82-d0b8e04f057c</gco:CharacterString>
+            </gmd:codeSpace>
+        </gmd:MD_Identifier>
+    </gmd:metadataIdentifier>
+    <gmd:parentMetadata>
+        <gmd:CI_Citation>
+            <gmd:title>
+                <gco:CharacterString>2018 Statistics Canada – Canadian Housing Statistics Program 46-10-0029-01:</gco:CharacterString>
+            </gmd:title>
+            <gmd:identifier>
+                <gmd:MD_Identifier>
+                    <gmd:code>
+                        <gco:CharacterString>10.5683/SP2/ZXW9JR</gco:CharacterString>
+                    </gmd:code>
+                    <gmd:code>
+                        <gco:CharacterString>doi</gco:CharacterString>
+                    </gmd:code>
+                </gmd:MD_Identifier>
+            </gmd:identifier>
+            <gmd:onlineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gco:CharacterString>https://doi.org/10.5683/SP2/ZXW9JR</gco:CharacterString>
+                    </gmd:linkage>
+                </gmd:CI_OnlineResource>
+            </gmd:onlineResource>
+            <gmd:citedResponsibilityParty>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>Scholars Portal Dataverse</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                    <gmd:role>
+                        <gmd:CI_RoleCode>publisher</gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_Responsibility>
+            </gmd:citedResponsibilityParty>
+        </gmd:CI_Citation>
+    </gmd:parentMetadata>
+    <gmd:identificationInfo>
+        <gmd:MD_DataIdentification>
+            <gmd:citation>
+                <gmd:CI_Citation>
+                    <gmd:identifier>
+                        <gmd:MD_Identifier>
+                            <gmd:code>
+                                <gco:CharacterString>https://doi.org/10.5683/SP2/ZXW9JR</gco:CharacterString>
+                            </gmd:code>
+                            <gmd:codeSpace>
+                                <gco:CharacterString>doi</gco:CharacterString>
+                            </gmd:codeSpace>
+                        </gmd:MD_Identifier>
+                    </gmd:identifier>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:DateTime>2020-02-25</gco:DateTime>
+                            </gmd:date>
+                        </gmd:CI_Date>
+                        <gmd:CI_Date>
+                            <gmd:CI_DateTypeCode>publication</gmd:CI_DateTypeCode>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:title>
+                        <gco:CharacterString>2018 Statistics Canada – Canadian Housing Statistics Program 46-10-0029-01</gco:CharacterString>
+                    </gmd:title>
+                    <gmd:citeResponsibleParty>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Statistics Canada</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                    </gmd:citeResponsibleParty>
+                    <gmd:edition>
+                        <gco:CharacterString>1:0</gco:CharacterString>
+                    </gmd:edition>
+                </gmd:CI_Citation>
+            </gmd:citation>
+            <gmd:resourceConstraints>
+                <gmd:MD_LegalConstraints>
+                    <gmd:otherConstraints>
+                        <gco:CharacterString>NONE</gco:CharacterString>
+                    </gmd:otherConstraints>
+                </gmd:MD_LegalConstraints>
+            </gmd:resourceConstraints>
+            <gmd:supplementalInformation>
+                <gco:CharacterString/>
+            </gmd:supplementalInformation>
+            <gmd:abstract>
+                <gco:CharacterString>This dataset includes Statistics Canada table 46-10-0029-01, titled “Property use of residential properties, by property type and residency ownership”.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+The table has been edited to include only geographies from British Columbia and to have the unique ID numbers added to the Census Subdivisions and Census Metropolitan Areas. The table is available in CSV and Excel Workbook format. Definitions and notes are included at the bottom of the spreadsheet.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+This data set was collected as part of the Canadian Housing Statistics Program by Statistics Canada.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+The original dataset can be accessed at: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=4610002901&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+Geographies:&lt;br&gt;&#13;
+British Columbia,&#13;
+Abbotsford-Mission, census metropolitan area,&#13;
+Abbotsford,&#13;
+Mission,&#13;
+Kelowna, census metropolitan area,&#13;
+Central Okanagan,&#13;
+Central Okanagan J,&#13;
+Kelowna,&#13;
+Lake Country,&#13;
+Peachland,&#13;
+West Kelowna,&#13;
+Vancouver, census metropolitan area,&#13;
+Anmore,&#13;
+Belcarra,&#13;
+Bowen Island,&#13;
+Burnaby,&#13;
+Coquitlam,&#13;
+Delta,&#13;
+Langley, city,&#13;
+Langley, municipal district,&#13;
+Lions Bay,&#13;
+Maple Ridge,&#13;
+Metro Vancouver A,&#13;
+New Westminster,&#13;
+North Vancouver, city,&#13;
+North Vancouver, municipal district,&#13;
+Pitt Meadows,&#13;
+Port Coquitlam,&#13;
+Port Moody,&#13;
+Richmond,&#13;
+Surrey,&#13;
+Vancouver,&#13;
+West Vancouver,&#13;
+White Rock,&#13;
+Victoria, census metropolitan area,&#13;
+Central Saanich,&#13;
+Colwood,&#13;
+Esquimalt,&#13;
+Highlands,&#13;
+Juan de Fuca (Part 1),&#13;
+Langford,&#13;
+Metchosin,&#13;
+North Saanich,&#13;
+Oak Bay,&#13;
+Saanich,&#13;
+Sidney,&#13;
+Sooke,&#13;
+Victoria,&#13;
+View Royal,&#13;
+British Columbia, outside of census metropolitan areas,&#13;
+Alberni-Clayoquot A,&#13;
+Alberni-Clayoquot B,&#13;
+Alberni-Clayoquot C,&#13;
+Alberni-Clayoquot D,&#13;
+Alberni-Clayoquot E,&#13;
+Alberni-Clayoquot F,&#13;
+Alert Bay,&#13;
+Armstrong,&#13;
+Ashcroft,&#13;
+Barriere,&#13;
+Bulkley-Nechako A,&#13;
+Bulkley-Nechako B,&#13;
+Bulkley-Nechako C,&#13;
+Bulkley-Nechako D,&#13;
+Bulkley-Nechako E,&#13;
+Bulkley-Nechako F,&#13;
+Bulkley-Nechako G,&#13;
+Burns Lake,&#13;
+Cache Creek,&#13;
+Campbell River,&#13;
+Canal Flats,&#13;
+Cariboo A,&#13;
+Cariboo B,&#13;
+Cariboo C,&#13;
+Cariboo D,&#13;
+Cariboo E,&#13;
+Cariboo F,&#13;
+Cariboo G,&#13;
+Cariboo H,&#13;
+Cariboo I,&#13;
+Cariboo J,&#13;
+Cariboo K,&#13;
+Cariboo L,&#13;
+Castlegar,&#13;
+Central Coast A,&#13;
+Central Coast C,&#13;
+Central Coast D,&#13;
+Central Coast E,&#13;
+Central Kootenay A,&#13;
+Central Kootenay B,&#13;
+Central Kootenay C,&#13;
+Central Kootenay D,&#13;
+Central Kootenay E,&#13;
+Central Kootenay F,&#13;
+Central Kootenay G,&#13;
+Central Kootenay H,&#13;
+Central Kootenay I,&#13;
+Central Kootenay J,&#13;
+Central Kootenay K,&#13;
+Chase,&#13;
+Chetwynd,&#13;
+Chilliwack,&#13;
+Clearwater,&#13;
+Clinton,&#13;
+Coldstream,&#13;
+Columbia-Shuswap A,&#13;
+Columbia-Shuswap B,&#13;
+Columbia-Shuswap C,&#13;
+Columbia-Shuswap D,&#13;
+Columbia-Shuswap E,&#13;
+Columbia-Shuswap F,&#13;
+Comox,&#13;
+Comox Valley A,&#13;
+Comox Valley B (Lazo North),&#13;
+Comox Valley C (Puntledge - Black Creek),&#13;
+Courtenay,&#13;
+Cowichan Valley A,&#13;
+Cowichan Valley B,&#13;
+Cowichan Valley C,&#13;
+Cowichan Valley D,&#13;
+Cowichan Valley E,&#13;
+Cowichan Valley F,&#13;
+Cowichan Valley G,&#13;
+Cowichan Valley H,&#13;
+Cowichan Valley I,&#13;
+Cranbrook,&#13;
+Creston,&#13;
+Cumberland,&#13;
+Dawson Creek,&#13;
+Duncan,&#13;
+East Kootenay A,&#13;
+East Kootenay B,&#13;
+East Kootenay C,&#13;
+East Kootenay E,&#13;
+East Kootenay F,&#13;
+East Kootenay G,&#13;
+Elkford,&#13;
+Enderby,&#13;
+Fernie,&#13;
+Fort St. James,&#13;
+Fort St. John,&#13;
+Fraser Lake,&#13;
+Fraser Valley A,&#13;
+Fraser Valley B,&#13;
+Fraser Valley C,&#13;
+Fraser Valley D,&#13;
+Fraser Valley E,&#13;
+Fraser Valley F,&#13;
+Fraser Valley G,&#13;
+Fraser Valley H,&#13;
+Fraser-Fort George A,&#13;
+Fraser-Fort George C,&#13;
+Fraser-Fort George D,&#13;
+Fraser-Fort George E,&#13;
+Fraser-Fort George F,&#13;
+Fraser-Fort George G,&#13;
+Fraser-Fort George H,&#13;
+Fruitvale,&#13;
+Gibsons,&#13;
+Gold River,&#13;
+Golden,&#13;
+Grand Forks,&#13;
+Granisle,&#13;
+Greenwood,&#13;
+Harrison Hot Springs,&#13;
+Hazelton,&#13;
+Hope,&#13;
+Houston,&#13;
+Hudson's Hope,&#13;
+Invermere,&#13;
+Juan de Fuca (Part 2),&#13;
+Kamloops,&#13;
+Kaslo,&#13;
+Kent,&#13;
+Keremeos,&#13;
+Kimberley,&#13;
+Kitimat,&#13;
+Kitimat-Stikine A,&#13;
+Kitimat-Stikine B,&#13;
+Kitimat-Stikine C (Part 1),&#13;
+Kitimat-Stikine C (Part 2),&#13;
+Kitimat-Stikine D,&#13;
+Kitimat-Stikine E,&#13;
+Kitimat-Stikine F,&#13;
+Kootenay Boundary A,&#13;
+Kootenay Boundary B / Lower Columbia-Old-Glory,&#13;
+Kootenay Boundary C / Christina Lake,&#13;
+Kootenay Boundary D / Rural Grand Forks,&#13;
+Kootenay Boundary E / West Boundary,&#13;
+Ladysmith,&#13;
+Lake Cowichan,&#13;
+Lantzville,&#13;
+Lillooet,&#13;
+Logan Lake,&#13;
+Lumby,&#13;
+Lytton,&#13;
+Mackenzie,&#13;
+Masset,&#13;
+McBride,&#13;
+Merritt,&#13;
+Midway,&#13;
+Montrose,&#13;
+Mount Waddington A,&#13;
+Mount Waddington B,&#13;
+Mount Waddington C,&#13;
+Mount Waddington D,&#13;
+Nakusp,&#13;
+Nanaimo,&#13;
+Nanaimo A,&#13;
+Nanaimo B,&#13;
+Nanaimo C,&#13;
+Nanaimo E,&#13;
+Nanaimo F,&#13;
+Nanaimo G,&#13;
+Nanaimo H,&#13;
+Nelson,&#13;
+New Denver,&#13;
+New Hazelton,&#13;
+North Coast A,&#13;
+North Coast C,&#13;
+North Coast D,&#13;
+North Coast E,&#13;
+North Cowichan,&#13;
+North Okanagan B,&#13;
+North Okanagan C,&#13;
+North Okanagan D,&#13;
+North Okanagan E,&#13;
+North Okanagan F,&#13;
+Northern Rockies,&#13;
+Okanagan-Similkameen A,&#13;
+Okanagan-Similkameen B,&#13;
+Okanagan-Similkameen C,&#13;
+Okanagan-Similkameen D,&#13;
+Okanagan-Similkameen E,&#13;
+Okanagan-Similkameen F,&#13;
+Okanagan-Similkameen G,&#13;
+Okanagan-Similkameen H,&#13;
+Oliver,&#13;
+One Hundred Mile House,&#13;
+Osoyoos,&#13;
+Parksville,&#13;
+Peace River B,&#13;
+Peace River C,&#13;
+Peace River D,&#13;
+Peace River E,&#13;
+Pemberton,&#13;
+Penticton,&#13;
+Port Alberni,&#13;
+Port Alice,&#13;
+Port Clements,&#13;
+Port Edward,&#13;
+Port Hardy,&#13;
+Port McNeill,&#13;
+Pouce Coupe,&#13;
+Powell River,&#13;
+Powell River A,&#13;
+Powell River B,&#13;
+Powell River C,&#13;
+Powell River D,&#13;
+Powell River E,&#13;
+Prince George,&#13;
+Prince Rupert,&#13;
+Princeton,&#13;
+Qualicum Beach,&#13;
+Queen Charlotte,&#13;
+Quesnel,&#13;
+Radium Hot Springs,&#13;
+Revelstoke,&#13;
+Rossland,&#13;
+Salmo,&#13;
+Salmon Arm,&#13;
+Saltspring Island,&#13;
+Sayward,&#13;
+Sechelt,&#13;
+Sicamous,&#13;
+Silverton,&#13;
+Slocan,&#13;
+Smithers,&#13;
+Southern Gulf Islands,&#13;
+Spallumcheen,&#13;
+Sparwood,&#13;
+Squamish,&#13;
+Squamish-Lillooet A,&#13;
+Squamish-Lillooet B,&#13;
+Squamish-Lillooet C,&#13;
+Squamish-Lillooet D,&#13;
+Stewart,&#13;
+Stikine Region,&#13;
+Strathcona A,&#13;
+Strathcona B,&#13;
+Strathcona C,&#13;
+Strathcona D (Oyster Bay - Buttle Lake),&#13;
+Summerland,&#13;
+Sun Peaks Mountain,&#13;
+Sunshine Coast A,&#13;
+Sunshine Coast B,&#13;
+Sunshine Coast D,&#13;
+Sunshine Coast E,&#13;
+Sunshine Coast F,&#13;
+Tahsis,&#13;
+Taylor,&#13;
+Telkwa,&#13;
+Terrace,&#13;
+Thompson-Nicola A (Wells Gray Country),&#13;
+Thompson-Nicola B (Thompson Headwaters),&#13;
+Thompson-Nicola E (Bonaparte Plateau),&#13;
+Thompson-Nicola I (Blue Sky Country),&#13;
+Thompson-Nicola J (Copper Desert Country),&#13;
+Thompson-Nicola L (Grasslands),&#13;
+Thompson-Nicola M (Beautiful Nicola Valley - North),&#13;
+Thompson-Nicola N (Beautiful Nicola Valley - South),&#13;
+Thompson-Nicola O (Lower North Thompson),&#13;
+Thompson-Nicola P (Rivers and the Peaks),&#13;
+Tofino,&#13;
+Trail,&#13;
+Tumbler Ridge,&#13;
+Ucluelet,&#13;
+Valemount,&#13;
+Vanderhoof,&#13;
+Vernon,&#13;
+Warfield,&#13;
+Wells,&#13;
+Whistler,&#13;
+Williams Lake,&#13;
+Zeballos</gco:CharacterString>
+            </gmd:abstract>
+            <gmd:topicCategory>
+                <gco:CharacterString>Social Sciences</gco:CharacterString>
+            </gmd:topicCategory>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                    <gmd:MD_KeywordTypeCode>
+                        <gmd:type>
+                            <gmd:MD_KeywordTypeCode>subTopicCategory</gmd:MD_KeywordTypeCode>
+                        </gmd:type>
+                    </gmd:MD_KeywordTypeCode>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:defaultLocale>
+                <gmd:PT_Locale>
+                    <gmd:defaultLocale>
+                        <gco:LanguageCode>English</gco:LanguageCode>
+                    </gmd:defaultLocale>
+                </gmd:PT_Locale>
+            </gmd:defaultLocale>
+            <gmd:pointOfContact>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Individual>
+                            <gmd:name>
+                                <gco:CharacterString>Jones, Craig</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:contactInfo>
+                                <gmd:CI_Citation>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>hrc.coordinator@ubc.ca</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Citation>
+                            </gmd:contactInfo>
+                        </gmd:CI_Individual>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>University of British Columbia</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:name>
+                                <gco:CharacterString>Scholars Portal Dataverse</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                    <gmd:role>
+                        <gmd:CI_RoleCode>pointOfContact</gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_Responsibility>
+            </gmd:pointOfContact>
+            <gmd:additionalDocumentation>
+                <gmd:CI_Citation>
+                    <gmd:series>
+                        <gmd:CI_Series>
+                            <gmd:name>
+                                <gco:CharacterString>Canadian Housing Statistics Program</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Series>
+                    </gmd:series>
+                </gmd:CI_Citation>
+            </gmd:additionalDocumentation>
+            <gmd:credit>
+                <gco:CharacterString>Tinsley, Mikayla: Data Curator</gco:CharacterString>
+            </gmd:credit>
+            <gmd:credit>
+                <gco:CharacterString>Jones, Craig: Supervisor</gco:CharacterString>
+            </gmd:credit>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                            <gmd:extent>
+                                <gmd:TimePeriod>
+                                    <gmd:beginPosition>2018</gmd:beginPosition>
+                                    <gmd:endPosition>2018</gmd:endPosition>
+                                </gmd:TimePeriod>
+                            </gmd:extent>
+                            <gmd:description>Time Period Covered</gmd:description>
+                            <gmd:description>Date of Collection</gmd:description>
+                        </gmd:EX_TemporalExtent>
+                    </gmd:temporalElement>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, British Columbia</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Census Subdivision</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Census Metropolitan Area</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-139.0522</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>-114.05422</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>60.00006</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>48.30892</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                    </gmd:geographicElement>
+                </gmd:EX_extent>
+            </gmd:extent>
+        </gmd:MD_DataIdentification>
+    </gmd:identificationInfo>
+    <gmd:distributionInfo>
+        <gmd:MD_Distribution>
+            <gmd:distributor>
+                <gmd:MD_Distributor>
+                    <gmd:distributorContact>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>Tinsley, Mikayla</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>originator</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                    </gmd:distributorContact>
+                </gmd:MD_Distributor>
+            </gmd:distributor>
+        </gmd:MD_Distribution>
+    </gmd:distributionInfo>
+</gmd:MD_Metadata>

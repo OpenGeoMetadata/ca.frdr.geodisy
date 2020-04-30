@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <gmd:metadataIdentifier>
+        <gmd:MD_Identifier>
+            <gmd:codeSpace>
+                <gco:CharacterString>4b646469-893e-35fa-8ad2-013842fd1531</gco:CharacterString>
+            </gmd:codeSpace>
+        </gmd:MD_Identifier>
+    </gmd:metadataIdentifier>
+    <gmd:parentMetadata>
+        <gmd:CI_Citation>
+            <gmd:title>
+                <gco:CharacterString>Canadian Problem Gambling Index (CPGI) prevalence studies [Canada]:  Consolidated dataset:</gco:CharacterString>
+            </gmd:title>
+            <gmd:identifier>
+                <gmd:MD_Identifier>
+                    <gmd:code>
+                        <gco:CharacterString>10864/10595</gco:CharacterString>
+                    </gmd:code>
+                    <gmd:code>
+                        <gco:CharacterString>handle</gco:CharacterString>
+                    </gmd:code>
+                </gmd:MD_Identifier>
+            </gmd:identifier>
+            <gmd:onlineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gco:CharacterString>https://hdl.handle.net/10864/10595</gco:CharacterString>
+                    </gmd:linkage>
+                </gmd:CI_OnlineResource>
+            </gmd:onlineResource>
+            <gmd:citedResponsibilityParty>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>Scholars Portal Dataverse</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                    <gmd:role>
+                        <gmd:CI_RoleCode>publisher</gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_Responsibility>
+            </gmd:citedResponsibilityParty>
+        </gmd:CI_Citation>
+    </gmd:parentMetadata>
+    <gmd:identificationInfo>
+        <gmd:MD_DataIdentification>
+            <gmd:citation>
+                <gmd:CI_Citation>
+                    <gmd:identifier>
+                        <gmd:MD_Identifier>
+                            <gmd:code>
+                                <gco:CharacterString>https://hdl.handle.net/10864/10595</gco:CharacterString>
+                            </gmd:code>
+                            <gmd:codeSpace>
+                                <gco:CharacterString>hdl</gco:CharacterString>
+                            </gmd:codeSpace>
+                        </gmd:MD_Identifier>
+                    </gmd:identifier>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:DateTime>2014-02-14</gco:DateTime>
+                            </gmd:date>
+                        </gmd:CI_Date>
+                        <gmd:CI_Date>
+                            <gmd:CI_DateTypeCode>publication</gmd:CI_DateTypeCode>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:title>
+                        <gco:CharacterString>Canadian Problem Gambling Index (CPGI) prevalence studies [Canada]:  Consolidated dataset</gco:CharacterString>
+                    </gmd:title>
+                    <gmd:citeResponsibleParty>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Ontario Problem Gambling Research Centre</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                    </gmd:citeResponsibleParty>
+                    <gmd:edition>
+                        <gco:CharacterString>6:1</gco:CharacterString>
+                    </gmd:edition>
+                </gmd:CI_Citation>
+            </gmd:citation>
+            <gmd:resourceConstraints>
+                <gmd:MD_LegalConstraints>
+                    <gmd:otherConstraints>
+                        <gco:CharacterString>NONE</gco:CharacterString>
+                    </gmd:otherConstraints>
+                </gmd:MD_LegalConstraints>
+            </gmd:resourceConstraints>
+            <gmd:supplementalInformation>
+                <gco:CharacterString>FileTypes: .pdf</gco:CharacterString>
+            </gmd:supplementalInformation>
+            <gmd:abstract>
+                <gco:CharacterString>The Canadian Problem Gambling Index (CPGI) originated in 2000 as a Canadian interprovincial research initiative to develop and validate a new measure to identify problem gamblers in population health surveys.  Since the CPGI was introduced, all Canadian provinces and many jurisdictions in other countries have relied on this measure to estimate the prevalence of problem gambling in general and special populations. In 2007, the OPGRC carried out the process of soliciting researchers for data that were collected using the CPGI instrument in order to compile and harmonize data into one large dataset.  This is a cross-national and cross sectional dataset (n=21,374) compiled from seven major prevalence studies of Canadian adults (18 or older) residing in the Canadian provinces. It includes 2191 variables with information on gambling activities, gambling behaviours, adverse consequences related to gambling, and problem gambling correlates. Selected variables were harmonized to facilitate cross national comparisons. Included in this concatenated dataset are the following individual problem gambling prevalence studies: National Validation Study 2001, Alberta 2002, British Columbia 2003, Manitoba 2002, Ontario 2001, Ontario 2005, and Newfoundland and Labrador 2005. Please see the Data Source section below for the citations and direct links to the individual datasets comprising this consolidated dataset.</gco:CharacterString>
+            </gmd:abstract>
+            <gmd:topicCategory>
+                <gco:CharacterString>Medicine, Health and Life Sciences</gco:CharacterString>
+            </gmd:topicCategory>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Canadian Problem Gambling Index</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>gambling</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>gambling involvement</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>prevalence</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>problem gambling</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>problem gambling assessment</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:MD_KeywordTypeCode>
+                        <gmd:type>
+                            <gmd:MD_KeywordTypeCode>subTopicCategory</gmd:MD_KeywordTypeCode>
+                        </gmd:type>
+                    </gmd:MD_KeywordTypeCode>
+                </gmd:MD_Keywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Gambling</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                            <gmd:title>
+                                <gco:CharacterString>LOC Subject Headings</gco:CharacterString>
+                            </gmd:title>
+                            <gmd:onlineResource>
+                                <gmd:CI_OnlineResource>
+                                    <gmd:linkage>
+                                        <gco:CharacterString>http://www.loc.gov/catdir/cpso/lcco/</gco:CharacterString>
+                                    </gmd:linkage>
+                                </gmd:CI_OnlineResource>
+                            </gmd:onlineResource>
+                        </gmd:CI_Citation>
+                    </gmd:thesaurusName>
+                    <gmd:keyword>
+                        <gco:CharacterString>Compulsive gamblers</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                            <gmd:title>
+                                <gco:CharacterString>LOC Subject Headings</gco:CharacterString>
+                            </gmd:title>
+                            <gmd:onlineResource>
+                                <gmd:CI_OnlineResource>
+                                    <gmd:linkage>
+                                        <gco:CharacterString>http://www.loc.gov/catdir/cpso/lcco/</gco:CharacterString>
+                                    </gmd:linkage>
+                                </gmd:CI_OnlineResource>
+                            </gmd:onlineResource>
+                        </gmd:CI_Citation>
+                    </gmd:thesaurusName>
+                    <gmd:keyword>
+                        <gco:CharacterString>Compulsive gambling</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                            <gmd:title>
+                                <gco:CharacterString>LOC Subject Headings</gco:CharacterString>
+                            </gmd:title>
+                            <gmd:onlineResource>
+                                <gmd:CI_OnlineResource>
+                                    <gmd:linkage>
+                                        <gco:CharacterString>http://www.loc.gov/catdir/cpso/lcco/</gco:CharacterString>
+                                    </gmd:linkage>
+                                </gmd:CI_OnlineResource>
+                            </gmd:onlineResource>
+                        </gmd:CI_Citation>
+                    </gmd:thesaurusName>
+                    <gmd:keyword>
+                        <gco:CharacterString>Psychological aspects</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                            <gmd:title>
+                                <gco:CharacterString>LOC Subject Headings</gco:CharacterString>
+                            </gmd:title>
+                            <gmd:onlineResource>
+                                <gmd:CI_OnlineResource>
+                                    <gmd:linkage>
+                                        <gco:CharacterString>http://www.loc.gov/catdir/cpso/lcco/</gco:CharacterString>
+                                    </gmd:linkage>
+                                </gmd:CI_OnlineResource>
+                            </gmd:onlineResource>
+                        </gmd:CI_Citation>
+                    </gmd:thesaurusName>
+                    <gmd:keyword>
+                        <gco:CharacterString>Research</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                            <gmd:title>
+                                <gco:CharacterString>LOC Subject Headings</gco:CharacterString>
+                            </gmd:title>
+                            <gmd:onlineResource>
+                                <gmd:CI_OnlineResource>
+                                    <gmd:linkage>
+                                        <gco:CharacterString>http://www.loc.gov/catdir/cpso/lcco/</gco:CharacterString>
+                                    </gmd:linkage>
+                                </gmd:CI_OnlineResource>
+                            </gmd:onlineResource>
+                        </gmd:CI_Citation>
+                    </gmd:thesaurusName>
+                    <gmd:keyword>
+                        <gco:CharacterString>Pathological gambling</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                            <gmd:title>
+                                <gco:CharacterString>ICD-10</gco:CharacterString>
+                            </gmd:title>
+                            <gmd:onlineResource>
+                                <gmd:CI_OnlineResource>
+                                    <gmd:linkage>
+                                        <gco:CharacterString>http://apps.who.int/classifications/icd10/browse/2010/en</gco:CharacterString>
+                                    </gmd:linkage>
+                                </gmd:CI_OnlineResource>
+                            </gmd:onlineResource>
+                        </gmd:CI_Citation>
+                    </gmd:thesaurusName>
+                    <gmd:keyword>
+                        <gco:CharacterString>Gambling and betting</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                            <gmd:title>
+                                <gco:CharacterString>ICD-10</gco:CharacterString>
+                            </gmd:title>
+                            <gmd:onlineResource>
+                                <gmd:CI_OnlineResource>
+                                    <gmd:linkage>
+                                        <gco:CharacterString>http://apps.who.int/classifications/icd10/browse/2010/en</gco:CharacterString>
+                                    </gmd:linkage>
+                                </gmd:CI_OnlineResource>
+                            </gmd:onlineResource>
+                        </gmd:CI_Citation>
+                    </gmd:thesaurusName>
+                    <gmd:MD_KeywordTypeCode>subTopicCategory,</gmd:MD_KeywordTypeCode>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:supplementalInformation>
+                <gco:CharacterString>Type: Acknowledgements: Notes: This metadata relates exclusively to the OPGRC project to consolidate CPGI prevalence data from existing data sources.  The following individuals and primary investigators deserve recognition for being instrumental in the release of this consolidated dataset: Ipsos-Reid, Gemini Research, Jackie Ferris, Harold Wynne, Garry Smith, David Patton, David Brown, Jaste Dhaliwal, Curt Pankratz, Brian Broszeit, Jamie Wiebe, Eric Single, Agata Falkowski-Ham, Phil Mun, Nadine Kaufman, Carolyn O’Keefe, and Heather Legg. It is also important to highlight the main funding sources for each of the contributing datasets used to create this consolidated dataset: Ministry of Public Safety and Solicitor General (British Columbia), Alberta Gaming Research Institute, Addictions Foundation of Manitoba, Canadian Centre on Substance Abuse, Responsible Gambling Council, and the Department of Health and Community Services (Newfoundland and Labrador).;</gco:CharacterString>
+            </gmd:supplementalInformation>
+            <gmd:pointOfContact>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Individual>
+                            <gmd:name>
+                                <gco:CharacterString>GREO, Evidence Centre</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:contactInfo>
+                                <gmd:CI_Citation>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>dataset@greo.ca</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Citation>
+                            </gmd:contactInfo>
+                        </gmd:CI_Individual>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>Gambling Research Exchange Ontario</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:name>
+                                <gco:CharacterString>Scholars Portal Dataverse</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                    <gmd:role>
+                        <gmd:CI_RoleCode>pointOfContact</gmd:CI_RoleCode>
+                    </gmd:role>
+                    <gmd:party>
+                        <gmd:CI_Individual>
+                            <gmd:name>
+                                <gco:CharacterString>Ontario Problem Gambling Research Centre</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Individual>
+                        <gmd:role>
+                            <gmd:CI_RoleCode>custodian</gmd:CI_RoleCode>
+                        </gmd:role>
+                    </gmd:party>
+                </gmd:CI_Responsibility>
+            </gmd:pointOfContact>
+            <gmd:additionalDocumentation>
+                <gmd:CI_Citation>
+                    <gmd:series>
+                        <gmd:CI_Series>
+                            <gmd:name>
+                                <gco:CharacterString/>
+                            </gmd:name>
+                        </gmd:CI_Series>
+                    </gmd:series>
+                    <gmd:otherCitationDetails>
+                        <gco:CharacterString>&lt;p&gt;Ferris, Jackie; Wynne, Harold; Single, Eric, 2014, "The Canadian Problem Gambling Index 2000 [Canada]: Canadian National Validation Survey", &lt;a href="https://hdl.handle.net/10864/10724"&gt;https://hdl.handle.net/10864/10724&lt;/a&gt;, Scholars Portal Dataverse, V5&lt;/p&gt;&#13;
+&lt;p&gt;Ipsos-Reid; Gemini Research, 2014, "British Columbia problem gambling prevalence study 2002 [Canada]", &lt;a href="https://hdl.handle.net/10864/10723"&gt;https://hdl.handle.net/10864/10723&lt;/a&gt;, Scholars Portal Dataverse, V6 &lt;/p&gt;&#13;
+&lt;p&gt;O'Keefe, Carolyne; Legg, Heather, 2014, "Newfoundland and Labrador gambling prevalence study 2005 [Canada]", &lt;a href="https://hdl.handle.net/10864/10725"&gt;https://hdl.handle.net/10864/10725&lt;/a&gt;, Scholars Portal Dataverse, V5&lt;/p&gt;&#13;
+&lt;p&gt;Patton, David; Brown, David; Dhaliwal, Jaste; Pankratz, Curt; Broszeit, Brian, 2014, "Gambling involvement and problem gambling in Manitoba 2001 [Canada]", &lt;a href="https://hdl.handle.net/10864/10728"&gt;https://hdl.handle.net/10864/10728&lt;/a&gt;, Scholars Portal Dataverse, V4 &lt;/p&gt;&#13;
+&lt;p&gt;Smith, Gary; Wynne, Harold, 2014, "Measuring gambling and problem gambling in Alberta using the Canadian Problem Gambling Index (CPGI) 2001 [Canada]", &lt;a href="https://hdl.handle.net/10864/10722"&gt;https://hdl.handle.net/10864/10722&lt;/a&gt;, Scholars Portal Dataverse, V6&lt;/p&gt;&#13;
+&lt;p&gt;Wiebe, Jamie; Single, Eric; Falkowski-Ham, Agata, 2014, "Measuring gambling and problem gambling in Ontario 2001 [Canada]", &lt;a href="https://hdl.handle.net/10864/10726"&gt;https://hdl.handle.net/10864/10726&lt;/a&gt;, Scholars Portal Dataverse, V6 &lt;/p&gt;&#13;
+&lt;p&gt;Wiebe, Jamie; Mun, Phil; Kaufman, Nadine, 2014, "Gambling and problem gambling in Ontario 2005 Canada]", &lt;a href="https://hdl.handle.net/10864/10727"&gt;https://hdl.handle.net/10864/10727&lt;/a&gt;, Scholars Portal Dataverse, V5 &lt;/p&gt;</gco:CharacterString>
+                    </gmd:otherCitationDetails>
+                </gmd:CI_Citation>
+            </gmd:additionalDocumentation>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                            <gmd:extent>
+                                <gmd:TimePeriod>
+                                    <gmd:beginPosition>2000</gmd:beginPosition>
+                                    <gmd:endPosition>2005</gmd:endPosition>
+                                </gmd:TimePeriod>
+                            </gmd:extent>
+                            <gmd:description>Time Period Covered</gmd:description>
+                            <gmd:extent>
+                                <gmd:TimePeriod>
+                                    <gmd:beginPosition>2001</gmd:beginPosition>
+                                    <gmd:endPosition>2005</gmd:endPosition>
+                                </gmd:TimePeriod>
+                            </gmd:extent>
+                            <gmd:description>Date of Collection</gmd:description>
+                        </gmd:EX_TemporalExtent>
+                    </gmd:temporalElement>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>, Alberta; British Columbia; Canada; Manitoba; New Brunswick; Newfoundland and Labrador; Nova Scotia; Ontario; Prince Edward Island; Quebec; Saskatchewan</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Province</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-141.0</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>-52.636291</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>83.110626</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>41.67598</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                    </gmd:geographicElement>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:pointOfContact>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>The data was compiled and harmonized by Agata Falkowski-Ham.</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                </gmd:CI_Responsibility>
+            </gmd:pointOfContact>
+            <gmd:pointOfContact>
+                <gmd:CI_Responsibility>
+                    <gmd:CI_RoleCode>contributor</gmd:CI_RoleCode>
+                </gmd:CI_Responsibility>
+            </gmd:pointOfContact>
+        </gmd:MD_DataIdentification>
+    </gmd:identificationInfo>
+    <gmd:dataQualityInfo>
+        <gmd:DQ_DataQuality>
+            <gmd:scope>
+                <gmd:resourceLineage>
+                    <gmd:LI_Lineage>
+                        <gmd:statement>
+                            <gco:CharacterString>&lt;p&gt;Ferris, Jackie; Wynne, Harold; Single, Eric, 2014, "The Canadian Problem Gambling Index 2000 [Canada]: Canadian National Validation Survey", &lt;a href="https://hdl.handle.net/10864/10724"&gt;https://hdl.handle.net/10864/10724&lt;/a&gt;, Scholars Portal Dataverse, V5&lt;/p&gt;&#13;
+&lt;p&gt;Ipsos-Reid; Gemini Research, 2014, "British Columbia problem gambling prevalence study 2002 [Canada]", &lt;a href="https://hdl.handle.net/10864/10723"&gt;https://hdl.handle.net/10864/10723&lt;/a&gt;, Scholars Portal Dataverse, V6 &lt;/p&gt;&#13;
+&lt;p&gt;O'Keefe, Carolyne; Legg, Heather, 2014, "Newfoundland and Labrador gambling prevalence study 2005 [Canada]", &lt;a href="https://hdl.handle.net/10864/10725"&gt;https://hdl.handle.net/10864/10725&lt;/a&gt;, Scholars Portal Dataverse, V5&lt;/p&gt;&#13;
+&lt;p&gt;Patton, David; Brown, David; Dhaliwal, Jaste; Pankratz, Curt; Broszeit, Brian, 2014, "Gambling involvement and problem gambling in Manitoba 2001 [Canada]", &lt;a href="https://hdl.handle.net/10864/10728"&gt;https://hdl.handle.net/10864/10728&lt;/a&gt;, Scholars Portal Dataverse, V4 &lt;/p&gt;&#13;
+&lt;p&gt;Smith, Gary; Wynne, Harold, 2014, "Measuring gambling and problem gambling in Alberta using the Canadian Problem Gambling Index (CPGI) 2001 [Canada]", &lt;a href="https://hdl.handle.net/10864/10722"&gt;https://hdl.handle.net/10864/10722&lt;/a&gt;, Scholars Portal Dataverse, V6&lt;/p&gt;&#13;
+&lt;p&gt;Wiebe, Jamie; Single, Eric; Falkowski-Ham, Agata, 2014, "Measuring gambling and problem gambling in Ontario 2001 [Canada]", &lt;a href="https://hdl.handle.net/10864/10726"&gt;https://hdl.handle.net/10864/10726&lt;/a&gt;, Scholars Portal Dataverse, V6 &lt;/p&gt;&#13;
+&lt;p&gt;Wiebe, Jamie; Mun, Phil; Kaufman, Nadine, 2014, "Gambling and problem gambling in Ontario 2005 Canada]", &lt;a href="https://hdl.handle.net/10864/10727"&gt;https://hdl.handle.net/10864/10727&lt;/a&gt;, Scholars Portal Dataverse, V5 &lt;/p&gt;</gco:CharacterString>
+                        </gmd:statement>
+                    </gmd:LI_Lineage>
+                </gmd:resourceLineage>
+            </gmd:scope>
+        </gmd:DQ_DataQuality>
+    </gmd:dataQualityInfo>
+    <gmd:distributionInfo>
+        <gmd:MD_Distribution>
+            <gmd:distributor>
+                <gmd:MD_Distributor>
+                    <gmd:distributorContact>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>Gambling Research Exchange Ontario, </gco:CharacterString>
+                                    </gmd:name>
+                                    <gmd:contactInfo>
+                                        <gmd:CI_Citation>
+                                            <gmd:onlineResource>
+                                                <gmd:CI_OnlineResource>
+                                                    <gmd:linkage>
+                                                        <gco:CharacterString>http://www.greo.ca/</gco:CharacterString>
+                                                    </gmd:linkage>
+                                                </gmd:CI_OnlineResource>
+                                            </gmd:onlineResource>
+                                        </gmd:CI_Citation>
+                                    </gmd:contactInfo>
+                                    <gmd:logo>
+                                        <gmd:MD_BrowseGraphic>
+                                            <gmd:linkage>
+                                                <gmd:CI_OnlineResource>
+                                                    <gmd:linkage>
+                                                        <gco:CharacterString>http://greo.ca/sites/all/themes/opgrc_phase2/logo.png</gco:CharacterString>
+                                                    </gmd:linkage>
+                                                </gmd:CI_OnlineResource>
+                                            </gmd:linkage>
+                                        </gmd:MD_BrowseGraphic>
+                                    </gmd:logo>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>distributor</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>Ontario Problem Gambling Research Centre</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>originator</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                    </gmd:distributorContact>
+                </gmd:MD_Distributor>
+            </gmd:distributor>
+        </gmd:MD_Distribution>
+    </gmd:distributionInfo>
+</gmd:MD_Metadata>

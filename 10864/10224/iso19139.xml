@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <gmd:metadataIdentifier>
+        <gmd:MD_Identifier>
+            <gmd:codeSpace>
+                <gco:CharacterString>8e82d979-0eaf-3dab-af4e-b692414388b3</gco:CharacterString>
+            </gmd:codeSpace>
+        </gmd:MD_Identifier>
+    </gmd:metadataIdentifier>
+    <gmd:parentMetadata>
+        <gmd:CI_Citation>
+            <gmd:title>
+                <gco:CharacterString>Climate change Impacts on Canadian Arctic Tundra ecosystems (CICAT): Interdisciplinary and multi-scale assessments:</gco:CharacterString>
+            </gmd:title>
+            <gmd:identifier>
+                <gmd:MD_Identifier>
+                    <gmd:code>
+                        <gco:CharacterString>10864/10224</gco:CharacterString>
+                    </gmd:code>
+                    <gmd:code>
+                        <gco:CharacterString>handle</gco:CharacterString>
+                    </gmd:code>
+                </gmd:MD_Identifier>
+            </gmd:identifier>
+            <gmd:onlineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gco:CharacterString>https://hdl.handle.net/10864/10224</gco:CharacterString>
+                    </gmd:linkage>
+                </gmd:CI_OnlineResource>
+            </gmd:onlineResource>
+            <gmd:citedResponsibilityParty>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>Scholars Portal Dataverse</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                    <gmd:role>
+                        <gmd:CI_RoleCode>publisher</gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_Responsibility>
+            </gmd:citedResponsibilityParty>
+        </gmd:CI_Citation>
+    </gmd:parentMetadata>
+    <gmd:identificationInfo>
+        <gmd:MD_DataIdentification>
+            <gmd:citation>
+                <gmd:CI_Citation>
+                    <gmd:identifier>
+                        <gmd:MD_Identifier>
+                            <gmd:code>
+                                <gco:CharacterString>https://hdl.handle.net/10864/10224</gco:CharacterString>
+                            </gmd:code>
+                            <gmd:codeSpace>
+                                <gco:CharacterString>hdl</gco:CharacterString>
+                            </gmd:codeSpace>
+                        </gmd:MD_Identifier>
+                    </gmd:identifier>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:DateTime>2012-10-17</gco:DateTime>
+                            </gmd:date>
+                        </gmd:CI_Date>
+                        <gmd:CI_Date>
+                            <gmd:CI_DateTypeCode>publication</gmd:CI_DateTypeCode>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:title>
+                        <gco:CharacterString>Climate change Impacts on Canadian Arctic Tundra ecosystems (CICAT): Interdisciplinary and multi-scale assessments</gco:CharacterString>
+                    </gmd:title>
+                    <gmd:identifier>
+                        <gmd:MD_Identifier>
+                            <gmd:authority>
+                                <gmd:CI_Citation>
+                                    <gmd:citedResponsibility>
+                                        <gmd:CI_Responsibility>
+                                            <gmd:party>
+                                                <gmd:CI_Organisation>
+                                                    <gmd:name>
+                                                        <gco:CharacterString>DataCite International</gco:CharacterString>
+                                                    </gmd:name>
+                                                    <gmd:partyIdentifier>
+                                                        <gmd:MD_Identifier>
+                                                            <gmd:code>
+                                                                <gco:CharacterString>http://dx.doi.org/10.5443/11401</gco:CharacterString>
+                                                            </gmd:code>
+                                                        </gmd:MD_Identifier>
+                                                    </gmd:partyIdentifier>
+                                                </gmd:CI_Organisation>
+                                            </gmd:party>
+                                            <gmd:role>
+                                                <gmd:CI_RoleCode>resourceProvider</gmd:CI_RoleCode>
+                                            </gmd:role>
+                                        </gmd:CI_Responsibility>
+                                    </gmd:citedResponsibility>
+                                </gmd:CI_Citation>
+                            </gmd:authority>
+                        </gmd:MD_Identifier>
+                    </gmd:identifier>
+                    <gmd:citeResponsibleParty>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Greg Henry</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Alain Cuerrier</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Angela Bedard-Haughn</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Darwyn Coxson</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Keith Egger</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Michelle Garneau</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Richard Farrell</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Robert Grant</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Wenjun Chen</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                    </gmd:citeResponsibleParty>
+                    <gmd:edition>
+                        <gco:CharacterString>1:0</gco:CharacterString>
+                    </gmd:edition>
+                </gmd:CI_Citation>
+            </gmd:citation>
+            <gmd:resourceConstraints>
+                <gmd:MD_LegalConstraints>
+                    <gmd:otherConstraints>
+                        <gco:CharacterString>NONE</gco:CharacterString>
+                    </gmd:otherConstraints>
+                </gmd:MD_LegalConstraints>
+            </gmd:resourceConstraints>
+            <gmd:supplementalInformation>
+                <gco:CharacterString/>
+            </gmd:supplementalInformation>
+            <gmd:abstract>
+                <gco:CharacterString>At some CICAT research sites, we established experiments that simulate warming and changes in snow depth and measured the responses. Warming causes earlier flowering, greater growth and an increase in the cover of shrubs and grasses. We also examined the changes in vegetation across large areas using satellite data, and our results have shown a decrease in important winter range of the Bathurst caribou herd during the past twenty years due mainly to increases in fires. We have also made the first coordinated measurements of the amounts of carbon dioxide absorbed by tundra plants and given off by plants and soils over a variety of tundra ecosystems. We have found they all absorb more carbon dioxide than they emit during the growing season. We also found that polar desert soils are surprisingly important sources of methane, a potent greenhouse gas. How tundra vegetation and processes such as carbon dioxide fluxes respond to warming will depend on the responses of soil microorganisms, such as bacteria and fungi. These organisms control the release and availability of nutrients in the soil and hence affect the ability of plants to respond to warming. We are studying these organisms and how they are likely to respond to climate change. We are using much of our information in ecosystem models linked to CiCAT, which provide predictions of how these tundra systems are likely to change over the coming decades. The preliminary model
+ling indicates that tundra ecosystems will continue to absorb more carbon than they release, although there will be variation between years and between tundra types. Interviews with elders in communities have provided invaluable information on how tundra ecosystems have changed over the past decades and help direct the scientific research. School classes are also involved in monitoring vegetation change near communities, and students are learning how traditional ecological knowledge and science can be used together. Bringing together scientific knowledge with traditional/local knowledge, allows a better understanding of changes that have occurred across the landscape and prepare the Métis of the North Slave and other Aboriginal organizations for expected changes due to climate change.</gco:CharacterString>
+            </gmd:abstract>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Traditional Knowledge</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Modeling</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Climate change</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Vegetation</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Tundra</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Soils</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Peatland</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Carbon dioxide</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Carbon</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Birds</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:MD_KeywordTypeCode>
+                        <gmd:type>
+                            <gmd:MD_KeywordTypeCode>subTopicCategory</gmd:MD_KeywordTypeCode>
+                        </gmd:type>
+                    </gmd:MD_KeywordTypeCode>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:supplementalInformation>
+                <gco:CharacterString>Type: Research Program: Notes: IPY-CICAT/ITEX &lt;p&gt;This metadata record corresponds to an IPY project.  Studies completed under this research project are identified as related materials.  These studies can also be retrieved using the &lt;a href="http://www.polardata.ca/whitesnow/"&gt;Polar Data Catalogue&lt;/a&gt;.&lt;/p&gt;;</gco:CharacterString>
+            </gmd:supplementalInformation>
+            <gmd:pointOfContact>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Individual>
+                            <gmd:name>
+                                <gco:CharacterString>Polar Data Catalogue</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:contactInfo>
+                                <gmd:CI_Citation>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>pdc@uwaterloo.ca</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Citation>
+                            </gmd:contactInfo>
+                        </gmd:CI_Individual>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>Canadian Cryospheric Information Network</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:name>
+                                <gco:CharacterString>Scholars Portal Dataverse</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                    <gmd:role>
+                        <gmd:CI_RoleCode>pointOfContact</gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_Responsibility>
+            </gmd:pointOfContact>
+            <gmd:additionalDocumentation>
+                <gmd:CI_Citation>
+                    <gmd:series>
+                        <gmd:CI_Series>
+                            <gmd:name>
+                                <gco:CharacterString/>
+                            </gmd:name>
+                        </gmd:CI_Series>
+                    </gmd:series>
+                    <gmd:otherCitationDetails>
+                        <gco:CharacterString>2010 Assessment of Vegetation Phenology, Cape Bounty. CCIN Reference No: 10697
+&lt;br/&gt; 2010 Assessment of Vegetation NDVI, Cape Bounty. CCIN Reference No: 10699&lt;br/&gt; Erect woody vegetation change analysis in the vicinity of Deception Bay, Quebec. CCIN Reference No: 11240&lt;br/&gt; Community-based environmental monitoring in the context of climate change in Nunavik and Nunavut: Kangiqsualujjuaq. CCIN Reference No: 11244&lt;br/&gt; Berry productivity and environmental monitoring in the context of climate change in Nunavik and Nunavut: Daring Lake. CCIN Reference No: 11247&lt;br/&gt; Berry prod
+uctivity monitoring in the context of climate change in Nunavik and Nunavut: Bylot Island. CCIN Reference No: 11246
+&lt;br/&gt; Community-based environmental monitoring in the context of climate change in Nunavik and Nunavut: Kangiqsujuaq. CCIN Reference No: 11242&lt;br/&gt; Community-based environmental monitoring in the context of climate change in Nunavik and Nunavut: Iqaluit. CCIN Reference No: 11245&lt;br/&gt; Community-based environmental monitoring in the context of climate change in Nunavik and Nunavut: Kugluktuk. CCIN Reference No: 11241&lt;br/&gt; Soil gas profiles in 6 Arctic vegetation communities. CCIN Reference No: 989
+8&lt;br/&gt; Erect woody vegetation change analysis in the vicinity of Baker Lake, Nunavut. CCIN Reference No: 11239&lt;br/&gt; Carbon and nitrogen cycling in tundra soils - site 3. CCIN Reference No: 10960&lt;br/&gt; Shorebird surveys in the Kivalliq Region, Nunavut. CCIN Reference No: 10622&lt;br/&gt; Local and traditional ecological knowledge of vegetation and environment in the context of climate change in Nunavik and Nunavut: Pond Inlet. CCIN Reference No: 11237&lt;br/&gt; Impact of climatic variability on berries produ
+ctivity in Nunavik: Kangiqsujuaq. CCIN Reference No: 1513&lt;br/&gt; Local and traditional ecological knowledge of vegetation and environment in the context of climate change in Nunavik and Nunavut: Kugluktuk. CCIN Reference No: 11235&lt;br/&gt; Local and traditional ecological knowledge of vegetation and environment in the context of climate change in Nunavik and Nunavut: Kangiqsualujjuaq. CCIN Reference No: 11233&lt;br/&gt; Local and traditional ecological knowledge of vegetation and environment in the context
+of climate change in Nunavik and Nunavut: Baker Lake. CCIN Reference No: 11232
+&lt;br/&gt; Local and traditional ecological knowledge of vegetation and environment in the context of climate change in Nunavik and Nunavut: Umiujaq. CCIN Reference No: 11238&lt;br/&gt; Local and traditional ecological knowledge of vegetation and environment in the context of climate change in Nunavik and Nunavut: Pangnirtung. CCIN Reference No: 11236&lt;br/&gt; Tundra Flux data, Iqaluit. CCIN Reference No: 10953&lt;br/&gt; Black Spruce colonisation of snow beds near tree line, Northern Quebec. CCIN Reference No: 1545
+&lt;br/&gt; Net ecosystem exchange of carbon greenhouse gases in high Arctic ecoregions (Lake Hazen, Quttinirpaaq National Park, Nunavut). CCIN Reference No: 10675&lt;br/&gt; 2009 ITEX site data, Cape Bounty. CCIN Reference No: 9888&lt;br/&gt; 2008 Vegetation Surveys, Cape Bounty. CCIN Reference No: 9858&lt;br/&gt; Soils data for geospatial characterization using fractal and wavelet analysis at Truelove. CCIN Reference No: 958&lt;br/&gt; 2008 ITEX site data, Cape Bounty. CCIN Reference No: 9862&lt;br/&gt; Dendrochronological analy
+sis at Cabot Lake, Northern Labrador, Canada. CCIN Reference No: 1537
+&lt;br/&gt; Dendrochronological analysis at Tasiuyak Lake, Northern Labrador, Canada. CCIN Reference No: 1542&lt;br/&gt; Dendrochronological analysis at Diana Lake, Northern Labrador, Canada. CCIN Reference No: 1538&lt;br/&gt; Dendrochronological analysis at Kingurtik Lake, Northern Labrador, Canada. CCIN Reference No: 1541&lt;br/&gt; Dendrochronological analysis at Anaktalik Lake, Northern Labrador, Canada. CCIN Reference No: 1539&lt;br/&gt; Dendrochronological analysis at Tasisuak Lake, Northern Labrador, Canada. CCIN Refe
+rence No: 1540&lt;br/&gt; Soils data for geospatial characterization at Eastwind Lake. CCIN Reference No: 960&lt;br/&gt; Field measurements of vegetation in the Ivvavik National Park. CCIN Reference No: 1548&lt;br/&gt; Soils data for geospatial characterization at Alexandra Fiord. CCIN Reference No: 959&lt;br/&gt; Fungal Community Assessment at Alexandra Fiord. CCIN Reference No: 10901&lt;br/&gt; Carbon and nitrogen cycling in tundra soils. CCIN Reference No: 10958&lt;br/&gt; Climate data in McCornick River Valley (Torngat Mountai
+ns). CCIN Reference No: 1406&lt;br/&gt; Community-based environmental monitoring in the context of climate change in Nunavik and Nunavut: Umiujaq. CCIN Reference No: 9817&lt;br/&gt; Soils data for geospatial characterization at Daring Lake. CCIN Reference No: 961&lt;br/&gt; Berry Monitoring Experiment in Kugluktuk, NU. CCIN Reference No: 1871&lt;br/&gt; Diversity and reproduction ecology of bryophytes (mosses) (Nakvak Brook, Nunatsiavut). CCIN Reference No: 9933&lt;br/&gt; Climate data in the Torngat Mountains (McCornick Val
+ley). CCIN Reference No: 1394&lt;br/&gt; Tundra Carbon, Water and Energy Fluxes. CCIN Reference No: 780&lt;br/&gt; Local and traditional ecological knowledge of vegetation and environment in the context of climate change in Nunavik and Nunavut: Kangiqsujuaq. CCIN Reference No: 11234&lt;br/&gt; Impact of climatic variability on berries productivity in Nunavik: Kangiqsualujjuaq. CCIN Reference No: 1512&lt;br/&gt; Shorebird surveys in the Queen Elizabeth Islands. CCIN Reference No: 774&lt;br/&gt; Soil data in Torngat Mountains
+National Park. CCIN Reference No: 758&lt;br/&gt; Understanding the Roles of Shrubs in Structuring the Vascular Plant Community. CCIN Reference No: 1408&lt;br/&gt; Open-Top Chamber (OTC) data from the Torngat Mountains National Park, Labrador. CCIN Reference No: 1405&lt;br/&gt; Field measurements of vegetation around Clyde River. CCIN Reference No: 770&lt;br/&gt; Field measurements of vegetation around Iqaluit. CCIN Reference No: 772&lt;br/&gt; Field measurements of vegetation in the Wapusk National Park. CCIN Reference No: 7
+73&lt;br/&gt; Carbon flux Data in the Arctic. CCIN Reference No: 1071&lt;br/&gt; The influence of soil microbial communities on carbon and nutrient cycling in heath tundra across the Arctic. CCIN Reference No: 10596&lt;br/&gt; Increasing erect shrubs in the Canadian Eastern Arctic: a case study from Nunavik in the forest-shrub tundra transition zone. CCIN Reference No: 1514</gco:CharacterString>
+                    </gmd:otherCitationDetails>
+                </gmd:CI_Citation>
+            </gmd:additionalDocumentation>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                            <gmd:extent>
+                                <gmd:TimePeriod>
+                                    <gmd:beginPosition>2007-04-01</gmd:beginPosition>
+                                    <gmd:endPosition>2011-03-31</gmd:endPosition>
+                                </gmd:TimePeriod>
+                            </gmd:extent>
+                            <gmd:description>Time Period Covered</gmd:description>
+                            <gmd:description>Date of Collection</gmd:description>
+                        </gmd:EX_TemporalExtent>
+                    </gmd:temporalElement>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>, Nain, North Slave Region, Baker Lake, Cape Bounty, Kugluktuk, Pangnirtung, Pond Inlet, Kangiqsualujjuaq, Kangiqsujuaq, Umiujaq</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-123.0</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>-62.0</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>75.0</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>56.0</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                    </gmd:geographicElement>
+                </gmd:EX_extent>
+            </gmd:extent>
+        </gmd:MD_DataIdentification>
+    </gmd:identificationInfo>
+    <gmd:distributionInfo>
+        <gmd:MD_Distribution>
+            <gmd:distributor>
+                <gmd:MD_Distributor>
+                    <gmd:distributorContact>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>Polar Data Catalogue</gco:CharacterString>
+                                    </gmd:name>
+                                    <gmd:contactInfo>
+                                        <gmd:CI_Citation>
+                                            <gmd:onlineResource>
+                                                <gmd:CI_OnlineResource>
+                                                    <gmd:linkage>
+                                                        <gco:CharacterString>http://www.polardata.ca/home/</gco:CharacterString>
+                                                    </gmd:linkage>
+                                                </gmd:CI_OnlineResource>
+                                            </gmd:onlineResource>
+                                        </gmd:CI_Citation>
+                                    </gmd:contactInfo>
+                                    <gmd:logo>
+                                        <gmd:MD_BrowseGraphic>
+                                            <gmd:linkage>
+                                                <gmd:CI_OnlineResource>
+                                                    <gmd:linkage>
+                                                        <gco:CharacterString>http://www.polardata.ca/home/sites/all/themes/gazette/images/banner/logo-default.jpg</gco:CharacterString>
+                                                    </gmd:linkage>
+                                                </gmd:CI_OnlineResource>
+                                            </gmd:linkage>
+                                        </gmd:MD_BrowseGraphic>
+                                    </gmd:logo>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>distributor</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                    </gmd:distributorContact>
+                </gmd:MD_Distributor>
+            </gmd:distributor>
+        </gmd:MD_Distribution>
+    </gmd:distributionInfo>
+</gmd:MD_Metadata>

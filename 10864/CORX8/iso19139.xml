@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <gmd:metadataIdentifier>
+        <gmd:MD_Identifier>
+            <gmd:codeSpace>
+                <gco:CharacterString>eaaa83b6-668d-3eae-acde-dc293bce4e01</gco:CharacterString>
+            </gmd:codeSpace>
+        </gmd:MD_Identifier>
+    </gmd:metadataIdentifier>
+    <gmd:parentMetadata>
+        <gmd:CI_Citation>
+            <gmd:title>
+                <gco:CharacterString>Practice and Research in Nursing (PRN) Wound Studies, 1999-2009 [Canada]:</gco:CharacterString>
+            </gmd:title>
+            <gmd:identifier>
+                <gmd:MD_Identifier>
+                    <gmd:code>
+                        <gco:CharacterString>10864/CORX8</gco:CharacterString>
+                    </gmd:code>
+                    <gmd:code>
+                        <gco:CharacterString>handle</gco:CharacterString>
+                    </gmd:code>
+                </gmd:MD_Identifier>
+            </gmd:identifier>
+            <gmd:onlineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gco:CharacterString>https://hdl.handle.net/10864/CORX8</gco:CharacterString>
+                    </gmd:linkage>
+                </gmd:CI_OnlineResource>
+            </gmd:onlineResource>
+            <gmd:citedResponsibilityParty>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>Scholars Portal Dataverse</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                    <gmd:role>
+                        <gmd:CI_RoleCode>publisher</gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_Responsibility>
+            </gmd:citedResponsibilityParty>
+        </gmd:CI_Citation>
+    </gmd:parentMetadata>
+    <gmd:identificationInfo>
+        <gmd:MD_DataIdentification>
+            <gmd:citation>
+                <gmd:CI_Citation>
+                    <gmd:identifier>
+                        <gmd:MD_Identifier>
+                            <gmd:code>
+                                <gco:CharacterString>https://hdl.handle.net/10864/CORX8</gco:CharacterString>
+                            </gmd:code>
+                            <gmd:codeSpace>
+                                <gco:CharacterString>hdl</gco:CharacterString>
+                            </gmd:codeSpace>
+                        </gmd:MD_Identifier>
+                    </gmd:identifier>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:DateTime>2013-08-14</gco:DateTime>
+                            </gmd:date>
+                        </gmd:CI_Date>
+                        <gmd:CI_Date>
+                            <gmd:CI_DateTypeCode>publication</gmd:CI_DateTypeCode>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:title>
+                        <gco:CharacterString>Practice and Research in Nursing (PRN) Wound Studies, 1999-2009 [Canada]</gco:CharacterString>
+                    </gmd:title>
+                    <gmd:identifier>
+                        <gmd:MD_Identifier>
+                            <gmd:authority>
+                                <gmd:CI_Citation>
+                                    <gmd:citedResponsibility>
+                                        <gmd:CI_Responsibility>
+                                            <gmd:party>
+                                                <gmd:CI_Organisation>
+                                                    <gmd:partyIdentifier>
+                                                        <gmd:MD_Identifier>
+                                                            <gmd:code>
+                                                                <gco:CharacterString>prn-wound-E-1999-2009</gco:CharacterString>
+                                                            </gmd:code>
+                                                        </gmd:MD_Identifier>
+                                                    </gmd:partyIdentifier>
+                                                </gmd:CI_Organisation>
+                                            </gmd:party>
+                                            <gmd:role>
+                                                <gmd:CI_RoleCode>resourceProvider</gmd:CI_RoleCode>
+                                            </gmd:role>
+                                        </gmd:CI_Responsibility>
+                                    </gmd:citedResponsibility>
+                                </gmd:CI_Citation>
+                            </gmd:authority>
+                        </gmd:MD_Identifier>
+                    </gmd:identifier>
+                    <gmd:citeResponsibleParty>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Margaret B. Harrison</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>Queen's University. School of Nursing</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Practice and Research in Nursing Group: Wound Care Collaborative</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>Queen's University. School of Nursing. Kingston, Ontario</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Ian Graham</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>University of Ottawa. School of Nursing; Ottawa Hospital Research Institute. Ottawa, Ontario</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>E. Andrea Nelson</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>University of Leeds. School of Healthcare, Faculty of Medicine and Health. United Kingdom.</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Elizabeth VanDenKerkhof</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>Queen's University. School of Nursing, Department of Anesthesiology &amp; Perioperative Medicine. Kingston, Ontario</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Karen Lorimer</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>Carefor Health &amp; Community Services. Ottawa, Ontario</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Connie Harris</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>CarePartners ET NOW Division. Kitchener, Ontario</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Meg Carley</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>Queen's University. School of Nursing. Kingston, Ontario</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>The Canadian Bandaging Trial Group</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                    </gmd:citeResponsibleParty>
+                    <gmd:edition>
+                        <gco:CharacterString>6:7</gco:CharacterString>
+                    </gmd:edition>
+                </gmd:CI_Citation>
+            </gmd:citation>
+            <gmd:resourceConstraints>
+                <gmd:MD_LegalConstraints>
+                    <gmd:otherConstraints>
+                        <gco:CharacterString>NONE</gco:CharacterString>
+                    </gmd:otherConstraints>
+                </gmd:MD_LegalConstraints>
+            </gmd:resourceConstraints>
+            <gmd:supplementalInformation>
+                <gco:CharacterString/>
+            </gmd:supplementalInformation>
+            <gmd:abstract>
+                <gco:CharacterString>&lt;p&gt;PRN Wound Studies consist of 6 studies examining the treatment and delivery of care for leg ulcers. The Studies cover the regions of Ottawa, Kingston, Toronto, Kitchener, London, Hamilton, Niagara, Thunder Bay, Winnipeg, Saskatoon, and Regina.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Pre-Post Implementation of Evidence Based Practice Study&lt;/strong&gt;&lt;br /&gt; Leg ulcers usually occur in older patients, a growing population for which increasing health care resources are required. Treatment is mainly provided in patients' h&#13;
+omes; however, patients often receive poorly integrated services in multiple settings. We report the results of a prospective study of a community-based care strategy for leg ulcers.&#13;
+&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Implementation of Evidence Based Practice in Four Ontario Communities&lt;/strong&gt;&lt;br /&gt; The primary objective was to systematically describe the process of guideline implementation as it naturally took place over time in four Ontario communities, each with different systems for delivering care. A secondary objective was to describe the experience and meaning of having a leg ulcer through individuals whose care was affected by the implementation of the guideline (EBCPG).&lt;/p&gt; &lt;p&gt;&lt;stro&#13;
+ng&gt;Clinic versus Home: Randomized Control Trial (RCT) &lt;/strong&gt;&lt;br /&gt; International studies report that nurse clinics improve healing rates for the leg ulcer population. However, these studies did not necessarily deliver similar standards of care based on evidence in the treatment venues (home and clinic). A rigorous evaluation of home versus clinic care is required to determine healing rates with equivalent care and establish the acceptability of clinic-delivered care.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Clinic and&#13;
+Home: Choice Cohort &lt;/strong&gt;&lt;br /&gt; Clinicians are interested in options for delivering community-based wound care. Studies have largely focused on nurse clinics as an alternative to people receiving wound care at home.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Self-Management Pilot Study&lt;/strong&gt;&lt;br /&gt; A pilot study was undertaken with two major aims; to conduct the necessary feasibility work for a future study on leg ulcer self-care, and to provide preliminary data on the experience with a new single layer technology i&#13;
+n a typical clinical setting. This cohort study describes participants who had received standardized teaching and their experience in applying compression bandages on their own using the new single layer high compression (Vari-stretch system). &lt;/p&gt; &lt;p&gt;&lt;strong&gt;Compression Bandaging Randomized Control Trial (CBT) &lt;/strong&gt;&lt;br /&gt; To determine the relative effectiveness of evidence-informed practice using two high compression systems: four-layer (4LB) and short-stretch bandaging (SSB) in community c&#13;
+are of venous leg ulcers.&lt;/p&gt; &lt;p&gt;Documentation for Wound Studies, including Codebook and Data Collection Tools, is available in the Data Management Resource Manual and Code Book.&lt;/p&gt;</gco:CharacterString>
+            </gmd:abstract>
+            <gmd:topicCategory>
+                <gco:CharacterString>Social Sciences</gco:CharacterString>
+            </gmd:topicCategory>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Community care</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Compression bandage</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Evidence-informed care</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Home care services</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Health resources/utilization</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Leg ulcers</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Nursing care</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Nursing services</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Pain</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Quality of Life</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:MD_KeywordTypeCode>
+                        <gmd:type>
+                            <gmd:MD_KeywordTypeCode>subTopicCategory</gmd:MD_KeywordTypeCode>
+                        </gmd:type>
+                    </gmd:MD_KeywordTypeCode>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:additionalDocumentation>
+                <gmd:CI_Citation>
+                    <gmd:otherCitationDetails>
+                        <gco:CharacterString>&lt;p&gt;Harrison, M. B., VanDenKerkhof, E. G., Hopman, W. M., &amp;#38; Carley, M. E. (2013). &lt;a href="http://www.sciedupress.com/journal/index.php/cns/article/view/2362"&gt;Community-Dwelling Individuals Living with Chronic Wounds: Understanding the Complexity to Improve Nursing Care. A Descriptive Cohort Study&lt;/a&gt;. Clinical Nursing Studies, 1(2), 43-57.&lt;/p&gt;  &lt;p&gt;Hopman, W. M., Buchanan, M., VanDenKerkhof, E. G., &amp;#38; Harrison, M. B. (2013). &lt;a href="http://www.phac-aspc.gc.ca/publicat/cdic-mcbc/33-3/ar-07-eng.php"&gt;Pain and health-related quality of life in people with chronic leg ulcers&lt;/a&gt;. Chronic Diseases and Injuries in Canada, 33.&lt;/p&gt;  &lt;p&gt;Nelson, E. A., Harrison, M. B., and the Canadian Bandage Trial Team (in press). Different context, different results: venous ulcer healing and the use of two high compression technologies. Journal of Community Nursing. *VenUSI is the “sister trial to the CBT” conducted in the UK (participant data for the 387 is not included in PRN Leg ulcer dataset) Different context, different results: venous ulcer healing and the use of two high compression technologies&lt;/p&gt;  &lt;p&gt;VanDenKerkhof, E. G., Hopman, W. M., Carley, M. E., Kuhnke, J. L., &amp;#38; Harrison, M. B. (2013). &lt;a href="http://www.biomedcentral.com/1472-6955/12/3/abstract"&gt;Leg ulcer nursing care in the community: a prospective cohort study of the symptom of pain&lt;/a&gt;. BMC Nurs., 12(1), 3.&lt;/p&gt;  &lt;p&gt;Pham, B., Harrison, M. B., Chen, M. H., &amp;#38; Carley, M. E. (2012). &lt;a href="http://www.biomedcentral.com/1472-6963/12/346"&gt;Cost-effectiveness of compression technologies for evidence-informed leg ulcer care: results from the Canadian Bandaging Trial&lt;/a&gt;. BMC Health Serv.Res., 12(1), 346.&lt;/p&gt;  &lt;p&gt;Harrison, M. B., VanDenKerkhof, E. G., Hopman, W. M., Graham, I. D., Carley, M. E., Nelson, E. A. et al. (2011). &lt;a href="http://www.biomedcentral.com/1472-6955/10/20"&gt;The Canadian Bandaging Trial: Evidence-informed leg ulcer care and the effectiveness of two compression technologies&lt;/a&gt;. BMC Nurs., 10, 20.&lt;/p&gt;  &lt;p&gt;Hopman, W. M., Harrison, M. B., Carley, M., &amp;#38; VanDenKerkhof, E. (2011). &lt;a href="http://www.isrn.com/journals/nursing/2011/752320/"&gt;Additional support for simple imputation of missing quality of life data in nursing research&lt;/a&gt;. ISRN Nursing, vol. 2011, Article ID 752320, 4 pages, 2011.&lt;/p&gt;  &lt;p&gt;Harrison, M. B., VanDenKerkhof, E., Hopman, W. M., Graham, I. D., Lorimer, K., &amp;#38; Carley, M. (2011). &lt;a href="http://www.ncbi.nlm.nih.gov/pubmed/21904018"&gt;Evidence-informed Leg Ulcer Care: A Cohort Study Comparing Outcomes of Individuals Choosing Nurse-led Clinic or Home Care&lt;/a&gt;. Ostomy Wound Management, 57(8), 38-45.&lt;/p&gt;  &lt;p&gt;Smith, L., Harrison, M.B., Graham, I. &amp;#38; Lamb, M. (2010). &lt;a href="http://www.ncbi.nlm.nih.gov/pubmed/20855910"&gt;Planning a community leg ulcer bandaging trial: Lessons learned in a pilot, randomized controlled trial&lt;/a&gt;. Journal of Ostomy Wound Management, 56(9), 32-42.&lt;/p&gt;  &lt;p&gt;Harrison, M.B., Graham, I.D., Lorimer, K., VanDenKerkof, E., Buchanan, M., Wells, P., Brandys, T., &amp;#38; Pierscianowski, T. (2008) &lt;a href="http://www.biomedcentral.com/1472-6963/8/243"&gt;Nurse clinic versus home delivery of community leg ulcer care: A Canadian Randomized Controlled Trial&lt;/a&gt;. BMC Health Services Research, 8, 243.&lt;/p&gt;  &lt;p&gt;Harrison, M.B., Graham, I.D., Lorimer, K., Friedberg, E., Pierscianowski, T., &amp;#38; Brandys, T. (2005). &lt;a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC557980/"&gt;Leg-ulcer care in the community, before and after implementation of an evidence-based service&lt;/a&gt;. Canadian Medical Association Journal, 172(11), 1447-1452.&lt;/p&gt;  &lt;p&gt;Nemeth, K., Harrison, M.B., Graham, I.D., &amp;#38; Burke, S.O. (2004). &lt;a href="http://www.ncbi.nlm.nih.gov/pubmed/14712004"&gt;Understanding Venous Leg Ulcer Pain: Results of a Longitudinal Study&lt;/a&gt;. Ostomy Wound Management, 50(1), 34-46.&lt;/p&gt;  &lt;p&gt;Nemeth, K., Harrison, M.B., Graham, I.D., &amp;#38; Burke, S.O. (2003). &lt;a href="http://www.ncbi.nlm.nih.gov/pubmed/14601224"&gt;Pain in pure and mixed aetiology venous leg ulcers: a three-phase point prevalence study&lt;/a&gt;. Journal of Wound Care, 12(9), 336-340.&lt;/p&gt;</gco:CharacterString>
+                    </gmd:otherCitationDetails>
+                </gmd:CI_Citation>
+            </gmd:additionalDocumentation>
+            <gmd:supplementalInformation>
+                <gco:CharacterString>Subject: Study Level Error Note, Notes: &lt;p&gt;The data repository is centralized in Ottawa (referred to as the Data Management Centre) where all data input, management, and analyses occurred. Quality assurance procedures were implemented for all wound studies to ensure the integrity of the data. Data management aspects of each study were elaborated in detailed protocol manuals for the study teams. Log records were created and maintained to track the study status of participants throughout each project. Clients were assigned a unique code&#13;
+number which was used on all study documentation to ensure confidentiality. Client withdrawals from the studies were monitored and reasons documented.&#13;
+&lt;/p&gt; &lt;p&gt;Upon arrival at the data management centre, data was checked for completeness and then entered into SPSS IBM® SPSS® Statistical software. Incomplete forms were not entered until checked with the corresponding coordinator/site-investigator for the missing information. Upper and lower limits were set for each individual variable, when possible. Logical errors and range errors were detected immediately by a verification program and addressed before proceeding with further data entry. When a&#13;
+data integrity test revealed errors, the study instruments were reviewed to determine whether the problem was a result of data entry error or whether error occurred at the point of data collection. Data entry errors were corrected immediately. Any errors which occurred at the point of data collection were brought to the attention of the site investigator. Ten percent of case records, randomly selected, were re-entered to assess data entry accuracy on a regularly scheduled basis. An error rate greater than 1% was considered unacceptable and all cases would have been re-entered and checked by the data entry personnel.&#13;
+&lt;/p&gt;;</gco:CharacterString>
+            </gmd:supplementalInformation>
+            <gmd:defaultLocale>
+                <gmd:PT_Locale>
+                    <gmd:defaultLocale>
+                        <gco:LanguageCode>English</gco:LanguageCode>
+                    </gmd:defaultLocale>
+                </gmd:PT_Locale>
+            </gmd:defaultLocale>
+            <gmd:pointOfContact>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Individual>
+                            <gmd:name>
+                                <gco:CharacterString>Data and Government Information Centre</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:contactInfo>
+                                <gmd:CI_Citation>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>madgic@queensu.ca</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Citation>
+                            </gmd:contactInfo>
+                        </gmd:CI_Individual>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>Queen's University</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:name>
+                                <gco:CharacterString>Scholars Portal Dataverse</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                    <gmd:role>
+                        <gmd:CI_RoleCode>pointOfContact</gmd:CI_RoleCode>
+                    </gmd:role>
+                    <gmd:party>
+                        <gmd:CI_Individual>
+                            <gmd:name>
+                                <gco:CharacterString>Practice and Research in Nursing Group</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Individual>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>Queen's University</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:contactInfo>
+                                <gmd:CI_Citation>
+                                    <gmd:onlineResource>
+                                        <gmd:CI_OnlineResource>
+                                            <gmd:linkage>
+                                                <gco:CharacterString>http://meds.queensu.ca/prn/</gco:CharacterString>
+                                            </gmd:linkage>
+                                        </gmd:CI_OnlineResource>
+                                    </gmd:onlineResource>
+                                </gmd:CI_Citation>
+                            </gmd:contactInfo>
+                        </gmd:CI_Organisation>
+                        <gmd:role>
+                            <gmd:CI_RoleCode>custodian</gmd:CI_RoleCode>
+                        </gmd:role>
+                    </gmd:party>
+                </gmd:CI_Responsibility>
+            </gmd:pointOfContact>
+            <gmd:environmentDescription>
+                <gco:CharacterString>4.0.9</gco:CharacterString>
+            </gmd:environmentDescription>
+            <gmd:environmentDescription>
+                <gco:CharacterString>4.0.9</gco:CharacterString>
+            </gmd:environmentDescription>
+            <gmd:credit>
+                <gco:CharacterString>Social Sciences and Humanities Research Council (SSHRC): #839-2000-1014</gco:CharacterString>
+            </gmd:credit>
+            <gmd:credit>
+                <gco:CharacterString>Medical Research Council (now CIHR): #MOP-42497</gco:CharacterString>
+            </gmd:credit>
+            <gmd:credit>
+                <gco:CharacterString>Canadian Institutes of Health Research (CIHR): CIHR #63175, CIHR funding trials ISRCTN37782978</gco:CharacterString>
+            </gmd:credit>
+            <gmd:credit>
+                <gco:CharacterString>Ontario Ministry of Health and Long Term Care (MOHLTC)</gco:CharacterString>
+            </gmd:credit>
+            <gmd:credit>
+                <gco:CharacterString>Smith &amp; Nephew</gco:CharacterString>
+            </gmd:credit>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                            <gmd:description>Time Period Covered</gmd:description>
+                            <gmd:extent>
+                                <gmd:TimePeriod>
+                                    <gmd:beginPosition>2003-12</gmd:beginPosition>
+                                    <gmd:endPosition>2009-03</gmd:endPosition>
+                                </gmd:TimePeriod>
+                            </gmd:extent>
+                            <gmd:description>Date of Collection</gmd:description>
+                        </gmd:EX_TemporalExtent>
+                    </gmd:temporalElement>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Eastern and Northern Ontario (Ottawa, Kingston, Thunder Bay)</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Central/South Ontario (Toronto, Kitchener, London, Hamilton, Niagara)</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Western Canada (Winnipeg, Saskatoon, Regina)</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Region</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-141.0</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>-52.636291</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>83.110626</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>41.67598</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-141.0</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>-52.636291</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>83.110626</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>41.67598</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-141.0</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>-52.636291</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>83.110626</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>41.67598</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                    </gmd:geographicElement>
+                </gmd:EX_extent>
+            </gmd:extent>
+        </gmd:MD_DataIdentification>
+    </gmd:identificationInfo>
+    <gmd:distributionInfo>
+        <gmd:MD_Distribution>
+            <gmd:distributor>
+                <gmd:MD_Distributor>
+                    <gmd:distributorContact>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>Data and Government Information Centre</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>distributor</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>Practice and Research in Nursing Group</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>originator</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                    </gmd:distributorContact>
+                </gmd:MD_Distributor>
+            </gmd:distributor>
+        </gmd:MD_Distribution>
+    </gmd:distributionInfo>
+</gmd:MD_Metadata>
