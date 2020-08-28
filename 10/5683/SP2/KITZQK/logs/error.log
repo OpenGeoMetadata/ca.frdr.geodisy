@@ -1,0 +1,1 @@
+2020-07-01 05:07:22,624 [main] ERROR Dataverse.ExistingRasterRecords - IO Exception: Something went wrong reading /home/centos/geodisy/Geodisy/Geodisy/savedFiles/ExistingRasterRecords.txt

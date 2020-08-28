@@ -69,6 +69,21 @@
                             <gmd:CI_DateTypeCode>publication</gmd:CI_DateTypeCode>
                         </gmd:CI_Date>
                     </gmd:date>
+                    <gmd:edition>
+                        <gco:CharacterString>2000</gco:CharacterString>
+                    </gmd:edition>
+                    <gmd:editionDate>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:CharacterString>2020-06-19T20:21:33Z</gco:CharacterString>
+                            </gmd:date>
+                        </gmd:CI_Date>
+                    </gmd:editionDate>
+                    <gmd:editionDate>
+                        <gmd:CI_Date>
+                            <gmd:CI_DateTypeCode>lastUpdate</gmd:CI_DateTypeCode>
+                        </gmd:CI_Date>
+                    </gmd:editionDate>
                     <gmd:title>
                         <gco:CharacterString>Don Valley Historical Mapping Project</gco:CharacterString>
                     </gmd:title>
@@ -85,7 +100,7 @@
                                                 <gco:CharacterString>ORCID</gco:CharacterString>
                                             </gmd:codeSpace>
                                             <gmd:code>
-                                                <gco:CharacterString> https://orcid.org/0000-0003-0722-4405 </gco:CharacterString>
+                                                <gco:CharacterString>https://orcid.org/0000-0003-0722-4405</gco:CharacterString>
                                             </gmd:code>
                                         </gmd:MD_Identifier>
                                     </gmd:partyIdentifier>
@@ -122,14 +137,14 @@
                         </gmd:CI_Responsibility>
                     </gmd:citeResponsibleParty>
                     <gmd:edition>
-                        <gco:CharacterString>1:1</gco:CharacterString>
+                        <gco:CharacterString>2:0</gco:CharacterString>
                     </gmd:edition>
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:resourceConstraints>
                 <gmd:MD_LegalConstraints>
                     <gmd:otherConstraints>
-                        <gco:CharacterString>CC0</gco:CharacterString>
+                        <gco:CharacterString>NONE</gco:CharacterString>
                     </gmd:otherConstraints>
                 </gmd:MD_LegalConstraints>
             </gmd:resourceConstraints>
@@ -145,8 +160,7 @@ The project is a work in progress.  To date, we have scanned several dozen histo
 &#13;
 The project was conducted through a collaboration between Jennifer Bonnell, a doctoral student in the History of Education program at the University of Toronto's Ontario Institute for Studies in Education (OISE/UT) - now at York University in the History Department and Marcel Fortin, the Geographic Information Systems (GIS) and Map Librarian at the University of Toronto's Map and Data Library. &#13;
 &#13;
-Financial and in-kind support was provided by the Network in Canadian History and Environment (NiCHE) and the University of Toronto Libraries. Valuable research support for the Points of Interest pages came from Lost Rivers, a community-based urban ecology organization focused on building public awareness of the City's river systems. Jordan Hale, a University of Toronto Geography student conducted much of the digitization and database work.This project could not have been completed without their skilled assistance and dedication.&#13;
-</gco:CharacterString>
+Financial and in-kind support was provided by the Network in Canadian History and Environment (NiCHE) and the University of Toronto Libraries. Valuable research support for the Points of Interest pages came from Lost Rivers, a community-based urban ecology organization focused on building public awareness of the City's river systems. Jordan Hale, a University of Toronto Geography student conducted much of the digitization and database work.This project could not have been completed without their skilled assistance and dedication.</gco:CharacterString>
             </gmd:abstract>
             <gmd:topicCategory>
                 <gco:CharacterString>Arts and Humanities</gco:CharacterString>
@@ -169,8 +183,7 @@ Financial and in-kind support was provided by the Network in Canadian History an
             <gmd:additionalDocumentation>
                 <gmd:CI_Citation>
                     <gmd:otherCitationDetails>
-                        <gco:CharacterString>Bonnell, Jennifer, and Fortin, Marcel, eds. 2014. Historical GIS Research in Canada. Calgary: University of Calgary Press. http://uofcpress.com/books/9781552387085.&#13;
-</gco:CharacterString>
+                        <gco:CharacterString>Bonnell, Jennifer, and Fortin, Marcel, eds. 2014. Historical GIS Research in Canada. Calgary: University of Calgary Press. http://uofcpress.com/books/9781552387085.</gco:CharacterString>
                     </gmd:otherCitationDetails>
                     <gmd:identifier>
                         <gmd:MD_Identifier>
@@ -269,6 +282,17 @@ Thanks to Gene Desfor, principal investigator of the Changing Urban Waterfronts 
                             <gmd:name>
                                 <gco:CharacterString>University of Toronto</gco:CharacterString>
                             </gmd:name>
+                            <gmd:contactInfo>
+                                <gmd:CI_Citation>
+                                    <gmd:onlineResource>
+                                        <gmd:CI_OnlineResource>
+                                            <gmd:linkage>
+                                                <gco:CharacterString>https://orcid.org/0000-0003-0722-4405</gco:CharacterString>
+                                            </gmd:linkage>
+                                        </gmd:CI_OnlineResource>
+                                    </gmd:onlineResource>
+                                </gmd:CI_Citation>
+                            </gmd:contactInfo>
                         </gmd:CI_Organisation>
                         <gmd:role>
                             <gmd:CI_RoleCode>custodian</gmd:CI_RoleCode>
@@ -687,30 +711,16 @@ Thanks to Gene Desfor, principal investigator of the Changing Urban Waterfronts 
                         </gmd:EX_GeographicBoundingBox>
                         <gmd:EX_GeographicBoundingBox>
                             <gmd:westBoundLongitude>
-                                <gco:Decimal>-81.0</gco:Decimal>
+                                <gco:Decimal>-79.358503</gco:Decimal>
                             </gmd:westBoundLongitude>
                             <gmd:eastBoundLongitude>
-                                <gco:Decimal>-79.27662</gco:Decimal>
+                                <gco:Decimal>-79.341125</gco:Decimal>
                             </gmd:eastBoundLongitude>
                             <gmd:northBoundLatitude>
-                                <gco:Decimal>43.881605</gco:Decimal>
+                                <gco:Decimal>43.66019</gco:Decimal>
                             </gmd:northBoundLatitude>
                             <gmd:southBoundLatitude>
-                                <gco:Decimal>-90.0</gco:Decimal>
-                            </gmd:southBoundLatitude>
-                        </gmd:EX_GeographicBoundingBox>
-                        <gmd:EX_GeographicBoundingBox>
-                            <gmd:westBoundLongitude>
-                                <gco:Decimal>-79.558381</gco:Decimal>
-                            </gmd:westBoundLongitude>
-                            <gmd:eastBoundLongitude>
-                                <gco:Decimal>-79.251769</gco:Decimal>
-                            </gmd:eastBoundLongitude>
-                            <gmd:northBoundLatitude>
-                                <gco:Decimal>43.916018</gco:Decimal>
-                            </gmd:northBoundLatitude>
-                            <gmd:southBoundLatitude>
-                                <gco:Decimal>43.659215</gco:Decimal>
+                                <gco:Decimal>43.648191</gco:Decimal>
                             </gmd:southBoundLatitude>
                         </gmd:EX_GeographicBoundingBox>
                         <gmd:EX_GeographicBoundingBox>
@@ -725,6 +735,20 @@ Thanks to Gene Desfor, principal investigator of the Changing Urban Waterfronts 
                             </gmd:northBoundLatitude>
                             <gmd:southBoundLatitude>
                                 <gco:Decimal>43.660672</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-79.558381</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>-79.251769</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>43.916018</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>43.659215</gco:Decimal>
                             </gmd:southBoundLatitude>
                         </gmd:EX_GeographicBoundingBox>
                         <gmd:EX_GeographicBoundingBox>

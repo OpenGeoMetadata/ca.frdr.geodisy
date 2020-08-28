@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <gmd:metadataIdentifier>
+        <gmd:MD_Identifier>
+            <gmd:codeSpace>
+                <gco:CharacterString>5ec50d97-f53c-3cd1-90a0-1a7245b03a0b</gco:CharacterString>
+            </gmd:codeSpace>
+        </gmd:MD_Identifier>
+    </gmd:metadataIdentifier>
+    <gmd:parentMetadata>
+        <gmd:CI_Citation>
+            <gmd:title>
+                <gco:CharacterString>Water chemistry composition for 34 lakes in Ontario (2006, 2012, 2014-2016):Water chemistry data</gco:CharacterString>
+            </gmd:title>
+            <gmd:identifier>
+                <gmd:MD_Identifier>
+                    <gmd:code>
+                        <gco:CharacterString>10.5683/SP2/H6KDZK</gco:CharacterString>
+                    </gmd:code>
+                    <gmd:code>
+                        <gco:CharacterString>doi</gco:CharacterString>
+                    </gmd:code>
+                </gmd:MD_Identifier>
+            </gmd:identifier>
+            <gmd:onlineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gco:CharacterString>https://doi.org/10.5683/SP2/H6KDZK</gco:CharacterString>
+                    </gmd:linkage>
+                </gmd:CI_OnlineResource>
+            </gmd:onlineResource>
+            <gmd:citedResponsibilityParty>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>Scholars Portal Dataverse</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                    <gmd:role>
+                        <gmd:CI_RoleCode>publisher</gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_Responsibility>
+            </gmd:citedResponsibilityParty>
+        </gmd:CI_Citation>
+    </gmd:parentMetadata>
+    <gmd:identificationInfo>
+        <gmd:MD_DataIdentification>
+            <gmd:citation>
+                <gmd:CI_Citation>
+                    <gmd:identifier>
+                        <gmd:MD_Identifier>
+                            <gmd:code>
+                                <gco:CharacterString>https://doi.org/10.5683/SP2/H6KDZK</gco:CharacterString>
+                            </gmd:code>
+                            <gmd:codeSpace>
+                                <gco:CharacterString>doi</gco:CharacterString>
+                            </gmd:codeSpace>
+                        </gmd:MD_Identifier>
+                    </gmd:identifier>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:DateTime>2020-07-01</gco:DateTime>
+                            </gmd:date>
+                        </gmd:CI_Date>
+                        <gmd:CI_Date>
+                            <gmd:CI_DateTypeCode>publication</gmd:CI_DateTypeCode>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:edition>
+                        <gco:CharacterString>1000</gco:CharacterString>
+                    </gmd:edition>
+                    <gmd:editionDate>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:CharacterString>2020-07-02T03:51:03Z</gco:CharacterString>
+                            </gmd:date>
+                        </gmd:CI_Date>
+                    </gmd:editionDate>
+                    <gmd:editionDate>
+                        <gmd:CI_Date>
+                            <gmd:CI_DateTypeCode>lastUpdate</gmd:CI_DateTypeCode>
+                        </gmd:CI_Date>
+                    </gmd:editionDate>
+                    <gmd:title>
+                        <gco:CharacterString>Water chemistry composition for 34 lakes in Ontario (2006, 2012, 2014-2016): Water chemistry data</gco:CharacterString>
+                    </gmd:title>
+                    <gmd:alternateTitle>
+                        <gco:CharacterString>Lake chemistry surveys</gco:CharacterString>
+                    </gmd:alternateTitle>
+                    <gmd:identifier>
+                        <gmd:MD_Identifier>
+                            <gmd:authority>
+                                <gmd:CI_Citation>
+                                    <gmd:citedResponsibility>
+                                        <gmd:CI_Responsibility>
+                                            <gmd:party>
+                                                <gmd:CI_Organisation>
+                                                    <gmd:name>
+                                                        <gco:CharacterString>QUBS</gco:CharacterString>
+                                                    </gmd:name>
+                                                </gmd:CI_Organisation>
+                                            </gmd:party>
+                                            <gmd:role>
+                                                <gmd:CI_RoleCode>resourceProvider</gmd:CI_RoleCode>
+                                            </gmd:role>
+                                        </gmd:CI_Responsibility>
+                                    </gmd:citedResponsibility>
+                                </gmd:CI_Citation>
+                            </gmd:authority>
+                        </gmd:MD_Identifier>
+                    </gmd:identifier>
+                    <gmd:citeResponsibleParty>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>Shelley Arnott</gco:CharacterString>
+                                    </gmd:name>
+                                    <gmd:partyIdentifier>
+                                        <gmd:MD_Identifier>
+                                            <gmd:codeSpace>
+                                                <gco:CharacterString>ORCID</gco:CharacterString>
+                                            </gmd:codeSpace>
+                                            <gmd:code>
+                                                <gco:CharacterString>0000-0002-3834-703X</gco:CharacterString>
+                                            </gmd:code>
+                                        </gmd:MD_Identifier>
+                                    </gmd:partyIdentifier>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>Queen's University</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Individual>
+                                    <gmd:name>
+                                        <gco:CharacterString>James Rusak</gco:CharacterString>
+                                    </gmd:name>
+                                    <gmd:partyIdentifier>
+                                        <gmd:MD_Identifier>
+                                            <gmd:codeSpace>
+                                                <gco:CharacterString>ORCID</gco:CharacterString>
+                                            </gmd:codeSpace>
+                                            <gmd:code>
+                                                <gco:CharacterString>0000-0002-4939-6478</gco:CharacterString>
+                                            </gmd:code>
+                                        </gmd:MD_Identifier>
+                                    </gmd:partyIdentifier>
+                                </gmd:CI_Individual>
+                            </gmd:party>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>Dorset Environmental Science Centre</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                    </gmd:citeResponsibleParty>
+                    <gmd:edition>
+                        <gco:CharacterString>1:0</gco:CharacterString>
+                    </gmd:edition>
+                </gmd:CI_Citation>
+            </gmd:citation>
+            <gmd:resourceConstraints>
+                <gmd:MD_LegalConstraints>
+                    <gmd:otherConstraints>
+                        <gco:CharacterString>NONE</gco:CharacterString>
+                    </gmd:otherConstraints>
+                </gmd:MD_LegalConstraints>
+            </gmd:resourceConstraints>
+            <gmd:supplementalInformation>
+                <gco:CharacterString/>
+            </gmd:supplementalInformation>
+            <gmd:abstract>
+                <gco:CharacterString>This file contains a compilation of lake water chemistry data collected by Dr. Shelley Arnott's laboratory and processed at the Dorset Environmental Science Centre http://desc.ca/ &#13;
+The data spans the following years: 2006, 2012, 2014, 2015 and 2016.&#13;
+For information about sample collection and processing, please consult: http://desc.ca/sites/default/files/DESCSubmissionUserManual.pdf&#13;
+The methods have been described in the report by Girard R. E. et al. (2007), history of chemical, physical, and biological methods, sample locations and lake morphometry for the Dorset Environmental Science Centre (1973-2006).&#13;
+This report describes the chemical, physical and biological sample collection methods used in the investigations of lakes and watersheds by staff of the Dorset Environmental Science Centre (DESC, formerly the Dorset Research Centre) for the period 1973 to 2006.</gco:CharacterString>
+            </gmd:abstract>
+            <gmd:topicCategory>
+                <gco:CharacterString>Chemistry</gco:CharacterString>
+            </gmd:topicCategory>
+            <gmd:topicCategory>
+                <gco:CharacterString>Earth and Environmental Sciences</gco:CharacterString>
+            </gmd:topicCategory>
+            <gmd:topicCategory>
+                <gco:CharacterString>Other</gco:CharacterString>
+            </gmd:topicCategory>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Limnology, water chemistry, environmental data, aquatic ecology</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:MD_KeywordTypeCode>
+                        <gmd:type>
+                            <gmd:MD_KeywordTypeCode>subTopicCategory</gmd:MD_KeywordTypeCode>
+                        </gmd:type>
+                    </gmd:MD_KeywordTypeCode>
+                </gmd:MD_Keywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Limnology</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:MD_KeywordTypeCode>subTopicCategory,</gmd:MD_KeywordTypeCode>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:supplementalInformation>
+                <gco:CharacterString>VARIABLES&#13;
+ID: Unique identifier for each row in the dataset (Not associated to the data collection or processing)&#13;
+LAB_SAMPLE_NUM: Laboratory sample number&#13;
+STATION: Alphanumeric Identifier - Often associated to the latitude and longitude of the sampling site (NAD83-UTM Zone17N). Contact database manager at DESC for further information (currently Johnny Su: johnny.su@ontario.ca).&#13;
+SDATE: Refers to the date of sampling in the format of mm/dd/yyyy &#13;
+SPECIAL_STUDY_ID: Numeric Identifier(integer) - Project ID assigned by Database Manager or sample submission clerk at the DESC (johnny.su@ontario.ca)&#13;
+SAMPLE_GEAR_TYPE: Numeric (integer or decimal) – Gear Identifier&#13;
+    4     tube composite (lake)&#13;
+    5     composite bottle (lake)&#13;
+STYPE: Numeric (integer) - Sample Type and Collection method. Origin of Water&#13;
+    11    grab sample (single depth) lakes, streams&#13;
+    12    depth composite lakes&#13;
+LDESC: Location description. A short or abbreviated description of where the sample originated 34 lakes&#13;
+LAKE_LAT: Latitude in decimal degrees (NAD83-UTM Zone17N)&#13;
+LAKE_LON: Longitude in decimal degrees (NAD83-UTM Zone17N)&#13;
+LDEPTH: Lake depth&#13;
+SECCHI: The Secchi disk measures water transparency or turbidity in bodies of water. The disc is mounted on a pole or line and lowered slowly down in the water. The depth at which the disk is no longer visible is taken as a measure of the transparency of the water. This measure is known as the Secchi depth and is related to water turbidity. Secchi depth in this case is measured in meters - must be present when WLAYER = 5, which is the identifier for Lake Layer sampled, where 5 = euphotic zone (surface to 2 x Secchi).&#13;
+TEST_NAME: oracle name of the test performed&#13;
+    AGUT = Silver measured in µg/L&#13;
+    ALKT = Total Alkalinity measured in mg/L&#13;
+    ALKTI = Gran Alkalinity measured in mg/L&#13;
+    ALUT = Aluminium measured in µg/L&#13;
+    ANIONS = negatively charged molecules or ions, with more electrons than protons (computed as the sum of all anions measure in meq/L&#13;
+    ASUT = Arsenic measured in µg/L&#13;
+    BAUT = Barium measured in µg/L&#13;
+    BBUT = Boron measured in µg/L &#13;
+    BEUT = Beryllium measured in µg/L&#13;
+    CAUT = Calcium measured in mg/L&#13;
+    CDUT = Cadmium measured in µg/L&#13;
+    CLIDUR = Chloride measured in mg/L&#13;
+    COLTR = True colour units TCU&#13;
+    COND25 = Conductivity at 25 degrees Celsius&#13;
+    CONDTY = Conductivity estimated measured in µS/cm&#13;
+    COUT = Cobalt measured in µg/L&#13;
+    CRUT Chromium measured in µg/L&#13;
+    CUUT = Copper measured in µg/L&#13;
+    DIC = Dissolved inorganic carbon measured in mg/L&#13;
+    DOC = Dissolved Organic Carbon measured in mg/L&#13;
+    FEUT = Iron measured in µg/L&#13;
+    IBCCAT = cations, a positively charged ion, with fewer electrons than protons computed as the sum of all cations that were measured (meq/L)&#13;
+    IONCAL = Ion balance calculation measured in percentage. Used as a check to make sure all the concentrations of all the ions balance out&#13;
+    KKUT = Potassium measured in mg/L&#13;
+    LANGI = Langeliers index calculation (no units). It is an approximate indicator of the degree of saturation of calcium carbonate in water. It is calculated using the pH, alkalinity, calcium concentration, total dissolved solids, and water temperature of a water sample collected at the tap. If the; Langelier Index is negative, then the water is under saturated with calcium carbonate and will tend to be corrosive in the distribution system. If the Langelier Index is positive, then the water is over saturated with calcium carbonate and will tend to deposit calcium carbonate forming scales in the distribution system. If Langelier Index is close to zero, then the water is just saturated with calcium carbonate and will neither be strongly corrosive or scale forming.&#13;
+    MGUT = Magnesium measured in mg/L&#13;
+    MNUT = Manganese measured in µg/L&#13;
+    MOUT = Molybdenum measured in µg/L&#13;
+    NAUT = Sodium measured in mg/L&#13;
+    NIUT = Nickel measured in µg/L&#13;
+    NNHTUR = Ammonia (+Ammonium) measured in µg/L&#13;
+    NNOTUR = Nitrate + Nitrite µg/L&#13;
+    NNTKUR = Notrogen total KJELDAHL in µg/L&#13;
+    NTOT = Total Nitrogen measured in mg/L&#13;
+    PBUT = Lead measured in µg/L&#13;
+    PH = pH&#13;
+    PHSEST = Saturation PH estimated (no units)&#13;
+    PPUT1 = Total Phosphorous measured in µg/L&#13;
+    PPUT2 = Total Phosphorous measured in µg/L&#13;
+    PPUT3 = Total Phosphorous measured in µg/L PPUT1 - 3 are just replicates.  Most of the time, two replicate samples are taken for phosphorus, but sometimes people submit 3.&#13;
+    RSFEST = Dissolved solids estimated as mg/L&#13;
+    SBUT = Antimony measured in µg/L &#13;
+    SEUT = Selenium measured in µg/L&#13;
+    SIO3UR = Silicates measured in mg/L&#13;
+    SRUT = Strontium measured in µg/L&#13;
+    SSO4UR = sulphate measured in mg/L&#13;
+    TIUT = Titanium measured in µg/L&#13;
+    TLUT = Thallium measured in µg/L&#13;
+    UUUT = measured in µg/L&#13;
+    VVUT = vanadium measured in µg/L&#13;
+    ZNUT = Zinc measured in µg/L&#13;
+NAME: common name of the tests above&#13;
+    ALKALINITY; GRAN&#13;
+    ALKALINITY; TOTAL FIXED ENDPT&#13;
+    ALUMINUM&#13;
+    ANIONS&#13;
+    ANTIMONY&#13;
+    ARSENIC&#13;
+    BARIUM&#13;
+    BERYLLIUM&#13;
+    BORON&#13;
+    CADMIUM&#13;
+    CALCIUM&#13;
+    CARBON; DISSOLVED INORGANIC&#13;
+    CARBON; DISSOLVED ORGANIC&#13;
+    CATIONS&#13;
+    CHLORIDE&#13;
+    CHROMIUM&#13;
+    COBALT&#13;
+    COLOUR; TRUE&#13;
+    CONDUCTIVITY&#13;
+    CONDUCTIVITY ESTIMATED&#13;
+    COPPER&#13;
+    ION BALANCE CALCULATION&#13;
+    IRON&#13;
+    LANGELIERS INDEX CALCULATION&#13;
+    LEAD&#13;
+    MAGNESIUM&#13;
+    MANGANESE&#13;
+    MOLYBDENUM&#13;
+    NICKEL&#13;
+    NITROGEN; AMMONIA+AMMONIUM&#13;
+    NITROGEN; NITRATE+NITRITE&#13;
+    NITROGEN; TOTAL&#13;
+    NITROGEN; TOTAL KJELDAHL&#13;
+    PH&#13;
+    PHOSPHORUS; TOTAL&#13;
+    POTASSIUM&#13;
+    SATURATION PH ESTIMATED&#13;
+    SELENIUM&#13;
+    SILICON; REACTIVE SILICATE&#13;
+    SILVER&#13;
+    SODIUM&#13;
+    SOLIDS; DISSOLVED ESTIMATED&#13;
+    STRONTIUM&#13;
+    SULPHATE&#13;
+    THALLIUM&#13;
+    TITANIUM&#13;
+    URANIUM&#13;
+    VANADIUM&#13;
+    ZINC&#13;
+VALUE: This is just the measured value of the variable &#13;
+UNITS: Unit related to the value of the result obtained from TEST_NAME. The levels found are: %, meq/L, mg/L, mg/L CaCO3, TCU, ug/L, uS/cm&#13;
+REMARK: information about the sample and their ability to measure it. Chemistry database retrievals should include the laboratory remarks codes in order that the missing or invalid data may be identified and examined for editing. The following list includes only the most common codes reported in association with DESC sample submissions.&#13;
+    &lt;=W: &lt; or equal to the min. repeated value, no measurable response (zero): &lt; reported value&#13;
+    &lt;W no measurable response (zero): &lt; reported value&#13;
+    &lt;T: a measurable trace amount (interpret with caution)&#13;
+    DP: duplicate&#13;
+    NDNR no data: sample not received&#13;
+    NDBT: no data: container broken in transit&#13;
+    NDID: no data: insufficient data to perform calculations&#13;
+    +/-: Result obtained is +/- value indicated&#13;
+    NA: Not applicable, data was not provided&#13;
+VALQUALIFIER: Descriptor for additional information pertinent to the concentration value reported for a particular sample analysis.&#13;
+SDESC: Character - sample description. Information about the sample that may help people reviewing the data interpret the results (e.g., pollen in sample). It also indicates if a sample has been already fixed prior to arrival at the DESC laboratory. &#13;
+WLAYER: Numeric (integer) – identifier for Lake Layer sampled&#13;
+    2     epilimnion&#13;
+    9     general layer (0-5 m composite etc.)&#13;
+SDEPTH: Numeric (integer) - sample depth (in m) or top of composite for depth composite (SAMPLE TYPE = 12) samples&#13;
+BGDEPTH: Bottom depth (in m) of composite samples (SAMPLE TYPE = 12)&#13;
+WDEPTH: Numeric (integer or decimal) – depth (in m) of water at sample location</gco:CharacterString>
+            </gmd:supplementalInformation>
+            <gmd:defaultLocale>
+                <gmd:PT_Locale>
+                    <gmd:defaultLocale>
+                        <gco:LanguageCode>English</gco:LanguageCode>
+                    </gmd:defaultLocale>
+                </gmd:PT_Locale>
+            </gmd:defaultLocale>
+            <gmd:pointOfContact>
+                <gmd:CI_Responsibility>
+                    <gmd:party>
+                        <gmd:CI_Individual>
+                            <gmd:name>
+                                <gco:CharacterString>Lopez Villalobos, Adriana</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:contactInfo>
+                                <gmd:CI_Citation>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>adriana.lopez.villalobos@queensu.ca</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Citation>
+                            </gmd:contactInfo>
+                        </gmd:CI_Individual>
+                        <gmd:CI_Organisation>
+                            <gmd:name>
+                                <gco:CharacterString>Queen's University</gco:CharacterString>
+                            </gmd:name>
+                            <gmd:name>
+                                <gco:CharacterString>Scholars Portal Dataverse</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Organisation>
+                    </gmd:party>
+                    <gmd:role>
+                        <gmd:CI_RoleCode>pointOfContact</gmd:CI_RoleCode>
+                    </gmd:role>
+                    <gmd:party>
+                        <gmd:CI_Individual>
+                            <gmd:name>
+                                <gco:CharacterString>Queen's University Biological Station</gco:CharacterString>
+                            </gmd:name>
+                        </gmd:CI_Individual>
+                        <gmd:CI_Organisation>
+                            <gmd:contactInfo>
+                                <gmd:CI_Citation>
+                                    <gmd:onlineResource>
+                                        <gmd:CI_OnlineResource>
+                                            <gmd:linkage>
+                                                <gco:CharacterString>https://qubs.ca/</gco:CharacterString>
+                                            </gmd:linkage>
+                                        </gmd:CI_OnlineResource>
+                                    </gmd:onlineResource>
+                                </gmd:CI_Citation>
+                            </gmd:contactInfo>
+                        </gmd:CI_Organisation>
+                        <gmd:role>
+                            <gmd:CI_RoleCode>custodian</gmd:CI_RoleCode>
+                        </gmd:role>
+                    </gmd:party>
+                </gmd:CI_Responsibility>
+            </gmd:pointOfContact>
+            <gmd:additionalDocumentation>
+                <gmd:CI_Citation>
+                    <gmd:series>
+                        <gmd:CI_Series>
+                            <gmd:name>
+                                <gco:CharacterString/>
+                            </gmd:name>
+                        </gmd:CI_Series>
+                    </gmd:series>
+                    <gmd:otherCitationDetails>
+                        <gco:CharacterString>EnviromentalVariables2012-2016.csv&#13;
+LakeSurveyTempO2_2012-2018.csv</gco:CharacterString>
+                    </gmd:otherCitationDetails>
+                    <gmd:otherCitationDetails>
+                        <gco:CharacterString>EnviromentalVariables2012-2016.csv&#13;
+LakeSurveyTempO2_2012-2018.csv</gco:CharacterString>
+                    </gmd:otherCitationDetails>
+                    <gmd:otherCitationDetails>
+                        <gco:CharacterString>Girard R. E. et al. 2007 History of chemical, physical, and biological methods, sample locations and lake morphometry for the Dorset Environmental Science Centre (1973-2006). This report describes the chemical, physical and biological sample collection methods used in the investigations of lakes and watersheds by staff of the Dorset Environmental Science Centre (DESC, formerly the Dorset Research Centre) for the period 1973 to 2006.</gco:CharacterString>
+                    </gmd:otherCitationDetails>
+                </gmd:CI_Citation>
+            </gmd:additionalDocumentation>
+            <gmd:credit>
+                <gco:CharacterString>Adriana Lopez Villalobos: Data Curator</gco:CharacterString>
+            </gmd:credit>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                            <gmd:extent>
+                                <gmd:TimePeriod>
+                                    <gmd:beginPosition>2006-07-11</gmd:beginPosition>
+                                    <gmd:endPosition>2016-08-15</gmd:endPosition>
+                                </gmd:TimePeriod>
+                            </gmd:extent>
+                            <gmd:description>Time Period Covered</gmd:description>
+                            <gmd:description>Date of Collection</gmd:description>
+                        </gmd:EX_TemporalExtent>
+                    </gmd:temporalElement>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Arab Lake</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Bear Lake</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Big Clear Lake</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Big Salmon Lake</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Birch Lake</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Black Lake</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Buck Lake</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Collins Lake</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Colonel Bay</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Cranberry Lake</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Desert Lake</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Devil Lake</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>, Ontario, Doe Lake</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Elbow Lake</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Gould Lake</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Indian Lake</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Kingsford</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Labelle Lake</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Lindsay Lake</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Little Clear</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Little Cranberry</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Little Salmon</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Long Lake</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Loughborough</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Lower Rock Lake</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Opinicon Lake</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Poole Lake</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Round Lake</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Sand Lake</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, South Otter Lake</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Stonehouse Lake</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Upper Rock Lake</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Warner Lake</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:description>
+                        <gco:CharacterString>Canada, Ontario, Whitefish lake</gco:CharacterString>
+                    </gmd:description>
+                </gmd:EX_extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_extent>
+                    <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-141.0</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>-52.636291</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>83.110626</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>41.67598</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                    </gmd:geographicElement>
+                </gmd:EX_extent>
+            </gmd:extent>
+        </gmd:MD_DataIdentification>
+    </gmd:identificationInfo>
+    <gmd:dataQualityInfo>
+        <gmd:DQ_DataQuality>
+            <gmd:scope>
+                <gmd:resourceLineage>
+                    <gmd:LI_Lineage>
+                        <gmd:statement>
+                            <gco:CharacterString>Water samples were processed at the Dorset Environmental Science Centre (DESC) &#13;
+http://desc.ca/</gco:CharacterString>
+                        </gmd:statement>
+                        <gmd:processStep>
+                            <gmd:LI_ProcessStep>
+                                <gmd:description>
+                                    <gco:CharacterString>http://desc.ca/</gco:CharacterString>
+                                </gmd:description>
+                            </gmd:LI_ProcessStep>
+                        </gmd:processStep>
+                        <gmd:additionalDocumentation>
+                            <gmd:CI_Citation>
+                                <gmd:otherCitationDetails>
+                                    <gco:CharacterString>http://desc.ca/sites/default/files/DESCSubmissionUserManual.pdf</gco:CharacterString>
+                                </gmd:otherCitationDetails>
+                            </gmd:CI_Citation>
+                        </gmd:additionalDocumentation>
+                    </gmd:LI_Lineage>
+                </gmd:resourceLineage>
+            </gmd:scope>
+        </gmd:DQ_DataQuality>
+    </gmd:dataQualityInfo>
+    <gmd:distributionInfo>
+        <gmd:MD_Distribution>
+            <gmd:distributor>
+                <gmd:MD_Distributor>
+                    <gmd:distributorContact>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>Queen's University Biological Station</gco:CharacterString>
+                                    </gmd:name>
+                                    <gmd:contactInfo>
+                                        <gmd:CI_Citation>
+                                            <gmd:onlineResource>
+                                                <gmd:CI_OnlineResource>
+                                                    <gmd:linkage>
+                                                        <gco:CharacterString>https://qubs.ca/</gco:CharacterString>
+                                                    </gmd:linkage>
+                                                </gmd:CI_OnlineResource>
+                                            </gmd:onlineResource>
+                                        </gmd:CI_Citation>
+                                    </gmd:contactInfo>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>distributor</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                        <gmd:CI_Responsibility>
+                            <gmd:party>
+                                <gmd:CI_Organisation>
+                                    <gmd:name>
+                                        <gco:CharacterString>Lopez Villalobos, Adriana</gco:CharacterString>
+                                    </gmd:name>
+                                </gmd:CI_Organisation>
+                            </gmd:party>
+                            <gmd:role>
+                                <gmd:CI_RoleCode>originator</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_Responsibility>
+                    </gmd:distributorContact>
+                </gmd:MD_Distributor>
+            </gmd:distributor>
+        </gmd:MD_Distribution>
+    </gmd:distributionInfo>
+</gmd:MD_Metadata>

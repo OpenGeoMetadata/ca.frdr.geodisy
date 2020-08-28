@@ -69,6 +69,21 @@
                             <gmd:CI_DateTypeCode>publication</gmd:CI_DateTypeCode>
                         </gmd:CI_Date>
                     </gmd:date>
+                    <gmd:edition>
+                        <gco:CharacterString>3000</gco:CharacterString>
+                    </gmd:edition>
+                    <gmd:editionDate>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:CharacterString>2020-05-05T18:47:10Z</gco:CharacterString>
+                            </gmd:date>
+                        </gmd:CI_Date>
+                    </gmd:editionDate>
+                    <gmd:editionDate>
+                        <gmd:CI_Date>
+                            <gmd:CI_DateTypeCode>lastUpdate</gmd:CI_DateTypeCode>
+                        </gmd:CI_Date>
+                    </gmd:editionDate>
                     <gmd:title>
                         <gco:CharacterString>Data for Modelling the Putative Ancient Distribution of the Coastal Rock Pool Mosquito Aedes togoi</gco:CharacterString>
                     </gmd:title>
@@ -132,7 +147,7 @@
                         </gmd:CI_Responsibility>
                     </gmd:citeResponsibleParty>
                     <gmd:edition>
-                        <gco:CharacterString>2:0</gco:CharacterString>
+                        <gco:CharacterString>3:0</gco:CharacterString>
                     </gmd:edition>
                 </gmd:CI_Citation>
             </gmd:citation>

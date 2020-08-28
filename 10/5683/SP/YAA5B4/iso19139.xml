@@ -10,7 +10,7 @@
     <gmd:parentMetadata>
         <gmd:CI_Citation>
             <gmd:title>
-                <gco:CharacterString>2016 Census of Canada, Selected Labour Force, Demographic, Cultural and Income Characteristics for the Employed Labour Force, at the Census Tract (CT) Level [custom tabulation]:</gco:CharacterString>
+                <gco:CharacterString>2016 Census of Canada, Selected Labour Force, Demographic, Cultural and Income Characteristics for the Employed Labour Force, by Place of Work at the Census Tract (CT) Level [custom tabulation]:</gco:CharacterString>
             </gmd:title>
             <gmd:identifier>
                 <gmd:MD_Identifier>
@@ -69,8 +69,23 @@
                             <gmd:CI_DateTypeCode>publication</gmd:CI_DateTypeCode>
                         </gmd:CI_Date>
                     </gmd:date>
+                    <gmd:edition>
+                        <gco:CharacterString>1002</gco:CharacterString>
+                    </gmd:edition>
+                    <gmd:editionDate>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:CharacterString>2020-08-13T15:21:38Z</gco:CharacterString>
+                            </gmd:date>
+                        </gmd:CI_Date>
+                    </gmd:editionDate>
+                    <gmd:editionDate>
+                        <gmd:CI_Date>
+                            <gmd:CI_DateTypeCode>lastUpdate</gmd:CI_DateTypeCode>
+                        </gmd:CI_Date>
+                    </gmd:editionDate>
                     <gmd:title>
-                        <gco:CharacterString>2016 Census of Canada, Selected Labour Force, Demographic, Cultural and Income Characteristics for the Employed Labour Force, at the Census Tract (CT) Level [custom tabulation]</gco:CharacterString>
+                        <gco:CharacterString>2016 Census of Canada, Selected Labour Force, Demographic, Cultural and Income Characteristics for the Employed Labour Force, by Place of Work at the Census Tract (CT) Level [custom tabulation]</gco:CharacterString>
                     </gmd:title>
                     <gmd:citeResponsibleParty>
                         <gmd:CI_Responsibility>
@@ -89,7 +104,7 @@
                         </gmd:CI_Responsibility>
                     </gmd:citeResponsibleParty>
                     <gmd:edition>
-                        <gco:CharacterString>1:1</gco:CharacterString>
+                        <gco:CharacterString>1:2</gco:CharacterString>
                     </gmd:edition>
                 </gmd:CI_Citation>
             </gmd:citation>
