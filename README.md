@@ -1,4 +1,4 @@
-# Geodisy GeoBlacklight Metadata Repository
+# Geodisy GeoBlacklight Metadata Repository.
 
 This repository is the most current geospatial metadata harvested into the FRDR map-based search platform [Geodisy](geo.frdr.ca). We are happy to have any institution index our metadata.
 
